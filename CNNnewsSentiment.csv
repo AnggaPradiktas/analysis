@@ -1,0 +1,1481 @@
+;sentence;polarity;Subjectivity;Sentiment_Type
+0;Polisi Usulkan Ada Jalur Khusus Motor di Tol;0.35714285714285715;0.5714285714285714;Positive
+1;KPK Dalami Proyek yang Jadi 'Keran' Duit Buat Bupati Mesuji;0.0;0.0;Neutral
+2;TNI Gelar Operasi Psikologi di Papua Cegah Fobia Loreng;0.0;0.1;Neutral
+3;Jokowi: Kondisi SMPN 1 Muara Gembong Bekasi Sangat Parah;0.18;0.41999999999999993;Positive
+4;Kasus Jual-Beli Jabatan, KPK Periksa Bupati Cirebon;0.0;0.0;Neutral
+5;Kena Patil Udang, Tangan Jokowi Berdarah saat Panen di Bekasi;-0.8;0.9;Negative
+6;PUPR Gagal Capai Tiga Target RPJMN;-0.5;0.3;Negative
+7;Kasus Suap Bupati Mesuji, KPK Geledah 5 Lokasi;0.0;0.0;Neutral
+8;Menteri Basuki Sebut Motor Masuk Tol Boleh Secara Aturan;0.0;0.0;Neutral
+9;Kasus Suap Proyek Jalan, KPK Kirim Direktur MTU Ke PN Medan;0.0;0.0;Neutral
+10;Jadi Saksi Meikarta, Iwa Akui Ketemu Neneng di Rest Area;0.45;0.8500000000000001;Positive
+11;VIDEO: Jusuf Kalla Tinjau Kemacetan Jabodetabek;0.0;0.0;Neutral
+12;Usai Kepergian Eka Tjipta, Gerak Saham Sinarmas Grup Variatif;0.0;0.0;Neutral
+13;Sekda Jabar Iwa Karniwa Jadi Saksi di Sidang Meikarta;0.0;0.0;Neutral
+14;Cegah Korupsi, PUPR 'Larang' Pegawai Muda Paraf Proyek;0.1;0.4;Positive
+15;KPK Sebut Pemecatan PNS Terlibat Korupsi Berjalan Lambat;-0.30000000000000004;0.39999999999999997;Negative
+16;Novel Baswedan Sebut Pemeriksaan Dirinya Janggal;-0.6;1.0;Negative
+17;Duga Ada Suap, KPK Dalami Aliran Dana Sejumlah Pejabat PUPR;-0.1;0.1;Negative
+18;Mendagri Ungkap Pembicaraan Izin Meikarta ke Penyidik KPK;0.0;0.0;Neutral
+19;Mendagri Penuhi Panggilan KPK untuk Diperiksa soal Meikarta;0.0;0.0;Neutral
+20;KPK Panggil Mendagri Tjahjo untuk Jadi Saksi Suap Meikarta;0.0;0.0;Neutral
+21;Karier Bupati Khamami hingga Jadi Tersangka Suap di Mesuji;0.0;0.0;Neutral
+22;KPK OTT Bupati Mesuji;0.0;0.0;Neutral
+23;Kronologi OTT Bupati Mesuji Khamami Terima Suap Proyek;0.0;0.0;Neutral
+24;Kemendagri Dorong Kenaikan Penghasilan Tetap Kepala Daerah;0.1;0.2;Positive
+25;Bupati Mesuji Khamami dan Adiknya Jadi Tersangka Suap Proyek;0.0;0.0;Neutral
+26;20 Proyek Terindikasi Suap, PUPR Bentuk Balai Khusus Lelang;0.35714285714285715;0.5714285714285714;Positive
+27;Gubernur Sulteng Diminta Petakan Zona Merah Gempa Palu;0.0;125;Neutral
+28;KPK OTT Bupati Mesuji, 8 Orang Diamankan;0.0;0.0;Neutral
+29;KPK Tangkap Tangan Bupati Mesuji, Uang Satu Kardus Diamankan;0.0;0.0;Neutral
+30;Para Capres Disebut Belum Serius Perbaiki Nasib Pejalan Kaki;0.16666666666666666;0.6666666666666666;Positive
+31;KPK Ungkap Dugaan Praktik Suap di 20 Proyek Kementerian PUPR;-0.1;0.1;Negative
+32;SMF Bakal Salurkan KPR untuk 3.000 PNS Korban Bencana Lombok;0.0;0.0;Neutral
+33;VIDEO: Presiden Jokowi dan Pejabat Ikut Potong Rambut Massal;0.0;0.0;Neutral
+34;Cerita Pencukur Rambut Jokowi yang 'Ditemukan' di Mal GI;0.0;0.0;Neutral
+35;Pemerintah Bakal Gunakan Karet untuk Aspal Jalan 385 Ribu Km;0.0;0.0;Neutral
+36;Neneng Ungkap Transaksi Suap Meikarta Rp1 Miliar di Rest Area;0.0;0.0;Neutral
+37;Kasus Suap SPAM, KPK Periksa Direktur Pengembangan;0.0;0.0;Neutral
+38;30 Proyek Strategis Bernilai Rp276 T Rampung di 2019;0.3;0.1;Positive
+39;Diskon Tol Trans Jawa Tak Berlaku kalau Saldo e-Toll Kurang;-0.16666666666666666;0.06666666666666667;Negative
+40;Tarif Tiga Jalan Tol di Jateng Diskon 15 Persen Sampai Maret;0.0;0.25;Neutral
+41;Usai Debat Pilpres 2019, Jokowi Cukur Rambut di Garut;0.0;0.0;Neutral
+42;Jokowi Janji Tambah Rusun dan BLK Khusus Santri;0.0;0.0;Neutral
+43;Jalan Raya Gubeng Surabaya Kembali Alami Retakan;0.1;0.4;Positive
+44;Jokowi Diprediksi Bisa Unggul di Debat Capres Perdana;0.65;0.5125;Positive
+45;Menanti Kejutan Sang Penantang di Debat Capres Perdana 2019;0.0;0.0;Neutral
+46;Anies Minta Proyek Pembangunan Tanggul Raksasa Dikaji Ulang;0.0;1.0;Neutral
+47;Sidang Meikarta Ungkap Alur Perizinan yang Lewat 'Belakang';0.0;0.0;Neutral
+48;Soal Penurunan Tanah, Pemprov DKI Akan Belajar dari Jepang;0.0;0.0;Neutral
+49;Amien Rais Sebut Jokowi Bisa Diadili Setelah Lengser;-0.15555555555555559;0.2888888888888889;Negative
+50;Korupsi Rekonstruksi Masjid Pascagempa, Staf Kemenag Diciduk;0.0;0.0;Neutral
+51;Alasan Anggaran BP Tapera Belum Juga Cair Awal 2019;0.1;0.3;Positive
+52;KPK Ungkap 10 Kementerian Terendah Laporkan LHKPN;0.0;0.0;Neutral
+53;Aher Akui Sempat Bertemu Neneng Bahas Perda Terkait Meikarta;0.0;0.4;Neutral
+54;KPK Cermati Klaim Neneng Soal Arahan Tjahjo Terkait Meikarta;0.0;0.0;Neutral
+55;Sekda Jabar Iwa Karniwa Disebut Minta Rp1 M dari Meikarta;0.0;0.0;Neutral
+56;Neneng Sebut Tjahjo Kumolo Minta Izin Meikarta Dibantu;0.0;0.0;Neutral
+57;Jokowi Minta Rekonstruksi Wilayah Terdampak Gempa Dipercepat;0.0;0.0;Neutral
+58;Kementan Klaim Naikkan Mutu Karet 220 Ribu Ton pada 2018;0.0;0.0;Neutral
+59;Kasus SPAM, KPK Periksa Dua Pegawai Ditjen Cipta Karya PUPR;0.05000000000000002;0.5;Positive
+60;Perumda Putar Otak Usai PUPR Batal Bangun Rusun Pasar Minggu;-25;125;Negative
+61;PUPR Fokus Rampungkan Proyek Jalan Pulau Terluar pada 2019;0.0;0.0;Neutral
+62;Eks Penasihat KPK Cium Keanehan Teror Cuma ke Dua Pimpinan;0.0;1.0;Neutral
+63;Pemprov DKI Pegang Pengelolaan Transportasi Umum Jabodetabek;0.0;0.06666666666666667;Neutral
+64;Kepala BNPB Doni Monardo Langsung Rapat Penanganan Bencana;0.1;0.4;Positive
+65;Beda Pembangunan Infrastruktur Era Soeharto Hingga Jokowi;0.0;0.6;Neutral
+66;Jokowi Kaji Bentuk Lembaga Baru Urus Transportasi Jabodetabek;0.13636363636363635;0.45454545454545453;Positive
+67;Habiburokhman: Debat Perdana Akan Berat untuk Jokowi;-0.2;0.5;Negative
+68;Jokowi: Indonesia Rugi Rp65 Triliun Gara-gara Macet;-0.2125;0.2375;Negative
+69;Kronologi Kisruh Bank Dunia Kritik Infrastruktur Jokowi;0.0;0.0;Neutral
+70;Aher Mangkir Tanpa Penjelasan, Sumarsono Minta Jadwal Ulang;0.0;0.0;Neutral
+71;Pengusaha Amini Kritik Bank Dunia ke Jokowi;0.0;0.0;Neutral
+72;Sri Mulyani Akui Bahas Laporan 'Pedas' Bank Dunia;0.0;0.0;Neutral
+73;Respons Para Menteri Jokowi soal Kritik Pedas Bank Dunia;0.0;0.8;Neutral
+74;Beli Karet Campuran Aspal, Pemerintah Siapkan Dana Rp20 M;0.0;0.25;Neutral
+75;Bank Dunia Akui Laporan Infrastruktur Jokowi Belum Final;0.0;1.0;Neutral
+76;KPK Agendakan Periksa Aher hingga Soni Sumarsono Hari Ini;0.0;0.0;Neutral
+77;Flyover Kemayoran Retak, Pengelola Janji Perbaiki Malam Ini;0.0;0.0;Neutral
+78;Dilarang KPU, Jokowi Ganti Hadiah Sepeda dengan Foto Bersama;0.0;0.0;Neutral
+79;Suap Proyek Air Minum, KPK Periksa Anak Buah Menteri PUPR;0.0;0.0;Neutral
+80;Geledah Ditjen Cipta Karya PUPR, KPK Sita Dokumen Proyek;0.02500000000000001;0.3;Positive
+81;KPK Bidik Pejabat Kementerian PUPR soal Suap Proyek Air Minum;0.0;0.0;Neutral
+82;Perbaikan Flyover Cengkareng Diperpanjang, Dibuka 7 Januari;0.0;0.0;Neutral
+83;Gempa Magnitudo 4,6 di Ambon, Tak Berpotensi Tsunami;0.0;1.0;Neutral
+84;BPN Tegaskan Bangun Jalan Tol Tanpa Utang Bisa Dilakukan;0.0;0.0;Neutral
+85;PUPR Rampungkan 190 Hunian Sementara Korban Gempa Sulteng;0.0;0.25;Neutral
+86;Kritisi Infrastruktur Jokowi, Sandi Gunakan Data Bank Dunia;0.0;0.0;Neutral
+87;KPK Sita Rp1,2 M dari Rumah Tersangka Penyuap Proyek SPAM;0.0;0.0;Neutral
+88;KPK Geledah Rumah Pejabat PUPR hingga Petinggi PT WKE;0.0;0.0;Neutral
+89;Jokowi Beri Tenggat Relokasi Pesisir Lampung Tiga Bulan;0.0;0.0;Neutral
+90;Dampak Tsunami, Jokowi Ingin Warga Pesisir Lampung Direlokasi;0.2;0.1;Positive
+91;Usai Tsunami Selat Sunda, Jokowi Minta Kawasan Pesisir Ditata;0.0;0.0;Neutral
+92;PUPR Klaim Tol Trans Jawa Bikin Arus Mudik Natal Lancar;0.4;0.5;Positive
+93;Prihatin Kasus Suap PUPR, Sandi Ingin Sentuh Akhlak Birokrat;0.2;0.1;Positive
+94;Dalami Kasus Suap SPAM, KPK Geledah Kantor Kementerian PUPR;0.0;0.0;Neutral
+95;111 IKM Dapat Diskon Peremajaan Mesin Produksi Rp11 Miliar;0.0;0.0;Neutral
+96;Rumah bagi Orang Miskin Tetap Jadi Prioritas PUPR di 2019;-0.4;0.6;Negative
+97;Prabowo: 2025 RI Krisis Air Bersih dan BBM Impor 100 Persen;0.3666666666666667;0.7000000000000001;Positive
+98;PUPR Kaji Setop Kontrak Perusahaan Penyuap Proyek Air Minum;0.0;0.0;Neutral
+99;Pengelolaan Sampah dan Air Limbah Dorong Kemajuan Bangsa;-0.2;0.0;Negative
+100;PDIP Dukung Wacana Borgol Tahanan Korupsi;0.0;0.0;Neutral
+101;KPK Tahan 8 Tersangka Suap Proyek Air Minum PUPR;0.0;0.0;Neutral
+102;Kronologi OTT Dugaan Suap Proyek Air Minum;-0.1;0.1;Negative
+103;KPK Kaji Pemberatan Hukum Tersangka Suap Proyek Air Minum;0.0;0.0;Neutral
+104;KPK Tetapkan Delapan Tersangka Kasus Korupsi Proyek Air Minum;0.0;0.0;Neutral
+105;KPK Sita Miliaran Rupiah dalam OTT Proyek Air untuk Bencana;0.0;0.0;Neutral
+106;VIDEO: KPK Tangkap Pejabat PUPR karena Kasus Proyek Air Minum;0.0;0.0;Neutral
+107;KPK: Banyak Proyek Air Minum Terkait OTT Pejabat PUPR;0.25;0.45;Positive
+108;Sambangi KPK, Irjen PUPR Pulang 'Tangan Kosong';0.05000000000000002;0.5;Positive
+109;Menteri Basuki: Celah Korupsi dari Proses Pengadaan Barang;0.0;0.0;Neutral
+110;OTT Pejabat PUPR, KPK Usut Relasi Proyek Air Minum Bencana;0.0;0.0;Neutral
+111;Anak Buah Diciduk, Irjen Kementerian PUPR Sambangi KPK;0.016666666666666673;0.2111111111111111;Positive
+112;Menteri PUPR Timbang Beri Bantuan Hukum Pejabat Terciduk KPK;0.2;0.2;Positive
+113;KPK: 20 Orang Diciduk dalam OTT Pejabat Kementerian PUPR;0.0;0.0;Neutral
+114;KPK Sita Dolar Singapura Saat OTT Pejabat Kementerian PUPR;0.0;0.0;Neutral
+115;Pejabat PUPR yang Dicokok KPK Pegawai Ditjen Cipta Karya;0.02500000000000001;0.3;Positive
+116;KPK Tangkap Tangan Pejabat Kementerian PUPR;0.34;0.42000000000000004;Positive
+117;Ketua DPRD Jambi dan 11 Anggota Jadi Tersangka Suap Zumi Zola;0.34;0.42000000000000004;Positive
+118;Tanggapi Presiden, Anies Sebut DKI Genjot Pembebasan Lahan;0.34;0.42000000000000004;Positive
+119;PUPR Dirikan Politeknik PU untuk Bina Tenaga Konstruksi;0.34;0.42000000000000004;Positive
+120;Akhir Tahun, Serapan Anggaran PUPR Baru Mencapai 88 Persen;0.34;0.42000000000000004;Positive
+121;Pemerintah Bakal Bangun Rumah Korban Tsunami Selat Sunda;0.34;0.42000000000000004;Positive
+122;Flyover Cengkareng Retak, Anies Minta PUPR Cek Semua Flyover;0.34;0.42000000000000004;Positive
+123;PUPR Sebut Perbaikan Flyover Cengkareng Butuh Waktu 14 Hari;0.34;0.42000000000000004;Positive
+124;VIDEO: Perbaikan Flyover Cengkareng Diprediksi Dua Pekan;0.34;0.42000000000000004;Positive
+125;Flyover Cengkareng Retak, Polisi Alihkan Arus Lalu Lintas;0.34;0.42000000000000004;Positive
+126;Flyover Cengkareng Retak Ditutup sampai 31 Desember;0.34;0.42000000000000004;Positive
+127;PUPR Perbaiki Retakan Flyover Cengkareng;0.34;0.42000000000000004;Positive
+128;Perilaku Ini Buktikan Masyarakat Sadar akan Lingkungan Sehat;0.34;0.42000000000000004;Positive
+129;Bank Penyalur Kredit Rumah Bersubsidi Dipangkas di 2019;0.34;0.42000000000000004;Positive
+130;Menteri PUPR Minta Bantuan Menkeu Bebaskan Lahan Bendungan;0.34;0.42000000000000004;Positive
+131;Jokowi Ingin Anies Lebarkan Sungai Ciliwung hingga 60 Meter;0.34;0.42000000000000004;Positive
+132;Dua Bendungan Proyek Jokowi Terganjal Soal Pembayaran Lahan;0.34;0.42000000000000004;Positive
+133;Relokasi Diwacanakan di Pesisir Lampung Terdampak Tsunami;0.34;0.42000000000000004;Positive
+134;Korban Tewas Tsunami Selat Sunda Dapat Santunan Rp15 Juta;0.34;0.42000000000000004;Positive
+135;PLN Perbaiki 256 Gardu Listrik di Wilayah Terdampak Tsunami;0.34;0.42000000000000004;Positive
+136;Tol Pandaan-Malang Baru Dibuka, 26 Ribu Kendaraan Melintas;0.34;0.42000000000000004;Positive
+137;Kedatangan Jokowi dan Gembira Sesaat Korban Tsunami Banten;0.34;0.42000000000000004;Positive
+138;Menteri PUPR: Infrastruktur Tak Banyak Terdampak Tsunami;0.34;0.42000000000000004;Positive
+139;Jasa Marga Gratiskan Tujuh Tol Saat Libur Natal-Tahun Baru;0.34;0.42000000000000004;Positive
+140;Peran Penting Tokoh Masyarakat dalam Perkembangan Sanitasi;0.34;0.42000000000000004;Positive
+141;Tsunami Selat Sunda, Jokowi Imbau Waspada Isu Menyesatkan;0.34;0.42000000000000004;Positive
+142;JK Nyatakan Penanganan Tsunami Selat Sunda Bisa lewat Darat;0.34;0.42000000000000004;Positive
+143;Pembiayaan Proyek dari Sukuk Melejit 34,36 Persen;0.34;0.42000000000000004;Positive
+144;Pembiayaan Proyek SBSN 2019 Dipatok Rp28,42 Triliun;0.34;0.42000000000000004;Positive
+145;KPK Periksa Bupati Pakpak Bharat Terkait Suap Proyek Jalan;0.34;0.42000000000000004;Positive
+146;Pembangunan Ribuan Hunian Korban Gempa Lombok Berjalan Lambat;0.34;0.42000000000000004;Positive
+147;Perilaku Hidup Bersih dan Sehat Menopang Pariwisata Daerah;0.34;0.42000000000000004;Positive
+148;Billy Sindoro Bantah Bahas Meikarta di Rumah Bupati Bekasi;0.34;0.42000000000000004;Positive
+149;Pejabat Jabar Era Aher Dapat Sin$90 Ribu Terkait Meikarta;0.34;0.42000000000000004;Positive
+150;Lippo Cikarang Ikut Didakwa Suap Bupati Bekasi Demi Meikarta;0.34;0.42000000000000004;Positive
+151;Menpar Prediksi Pariwisata Jadi Penghasil Devisa Terbesar;0.34;0.42000000000000004;Positive
+152;Empat Petinggi Waskita Karya Dicegah ke Luar Negeri;0.34;0.42000000000000004;Positive
+153;Pemerintah Rilis Program Hibah Jalan Daerah Rp15 Triliun;0.34;0.42000000000000004;Positive
+154;Tol Palembang-Lampung Diperkirakan Terhubung Juni 2019;0.34;0.42000000000000004;Positive
+155;Jokowi Sebut Riau Paling Untung saat Tol Trans Sumatera Kelar;0.34;0.42000000000000004;Positive
+156;Tol Pertama di Aceh Ditargetkan Rampung 2021;0.34;0.42000000000000004;Positive
+157;KPK Tetapkan Penyuap Bupati Pakpak Bharat Tersangka;0.34;0.42000000000000004;Positive
+158;Aturan Urun Dana Beli Saham Rilis Paling Lambat Januari 2019;0.34;0.42000000000000004;Positive
+159;PUPR Sudah Lelang Proyek Senilai Rp27,55 Triliun;0.34;0.42000000000000004;Positive
+160;Jembatan Penghubung Padang-Bukittinggi Dibangun Maret 2019;0.34;0.42000000000000004;Positive
+161;Peran Perempuan dalam Perubahan Perilaku Hidup Bersih;0.34;0.42000000000000004;Positive
+162;Moeldoko Minta Pemda Bantu Pertahankan Lahan Pertanian;0.34;0.42000000000000004;Positive
+163;PUPR: 120 Hunian Sementara Siap Dihuni Korban Gempa Palu;0.34;0.42000000000000004;Positive
+164;Ombudsman Sebut Empat Kementerian 'Kurang Patuh';0.34;0.42000000000000004;Positive
+165;Beban Berat APBN Demi Milenial Punya Rumah;0.34;0.42000000000000004;Positive
+166;Sri Mulyani: 10 Proyek Infrastruktur Skema KPBU Dimulai 2019;0.34;0.42000000000000004;Positive
+167;Dua Kementerian Lakukan Lelang Dini Kebut Serapan Anggaran;0.34;0.42000000000000004;Positive
+168;Jokowi Gelontorkan Anggaran Pendidikan Nyaris Rp500 T di 2019;0.34;0.42000000000000004;Positive
+169;KPK Periksa Tiga Pimpinan DPRD Kabupaten Bekasi soal Meikarta;0.34;0.42000000000000004;Positive
+170;Kemenpar Berencana Bangun Lokasi Karavan di Jalur Trans Jawa;0.34;0.42000000000000004;Positive
+171;Menhub Akan Jajal Tol Jakarta-Surabaya Pekan Depan;0.34;0.42000000000000004;Positive
+172;Adik Zulhas Sidang Perdana Dugaan Korupsi Pekan Depan;0.34;0.42000000000000004;Positive
+173;Mulai 2019, Milenial Bisa Cicil KPR Subsidi Tanpa Syarat Gaji;0.34;0.42000000000000004;Positive
+174;BUMN Bangun Rusun Dekat Stasiun Harga Rp250 Juta di Tangsel;0.34;0.42000000000000004;Positive
+175;Curhat Menteri Basuki soal Rumah Bakal Kena Gusur Proyek Tol;0.34;0.42000000000000004;Positive
+176;Jokowi Kucurkan Rp12,6 T untuk Papua dan Papua Barat di 2019;0.34;0.42000000000000004;Positive
+177;Kemitraan Pemda Kelola Sampah Jadi Kunci Warga Sejahtera;0.34;0.42000000000000004;Positive
+178;KPK Beri Perhatian Khusus ke Anggaran Infrastruktur Jokowi;0.34;0.42000000000000004;Positive
+179;DPD Curiga Pembunuhan di Nduga Akibat Kecemburuan Sosial;0.34;0.42000000000000004;Positive
+180;Menteri Basuki Tegaskan Korban Penembakan Nduga Bukan TNI;0.34;0.42000000000000004;Positive
+181;PUPR Beri Penghargaan Daerah Inovatif Pembangun Infrastruktur;0.34;0.42000000000000004;Positive
+182;Segera Diadili, KPK Titipkan Adik Zulhas di Lapas Lampung;0.34;0.42000000000000004;Positive
+183;Program Sejuta Rumah ala Jokowi Akhirnya Tercapai Juga;0.34;0.42000000000000004;Positive
+184;Sri Mulyani Proyeksi Belanja Modal Tahun Ini Negatif;0.34;0.42000000000000004;Positive
+185;Kemenpar Sabet Penghargaan di Ajang Media Humas 2018;0.34;0.42000000000000004;Positive
+186;TPNPB Tak Restui Rezim Jokowi Bangun Infrastruktur di Papua;0.34;0.42000000000000004;Positive
+187;Dijaga Aparat, WIKA dan PTPP Tetap Garap Proyek di Papua;0.34;0.42000000000000004;Positive
+188;Basuki Hadimuljono, Anak Tentara yang Jadi 'Daendels' Jokowi;0.34;0.42000000000000004;Positive
+189;VIDEO: Sehari Bersama Menteri PUPR Basuki Hadimuljono;0.34;0.42000000000000004;Positive
+190;Antisipasi Ancaman Terorisme, Kemhub Bangun Posko Terpadu;0.34;0.42000000000000004;Positive
+191;Pengelolaan Sampah Turut Majukan Pendidikan Indonesia;0.34;0.42000000000000004;Positive
+192;PUPR Minta Asosiasi Jalan Tol Tentukan Tarif Tol Trans Jawa;0.34;0.42000000000000004;Positive
+193;Empat Korban Penembakan di Papua Kembali Dievakuasi;0.34;0.42000000000000004;Positive
+194;Tahun Depan, Jokowi Minta Seluruh K/L Punya Program SDM;0.34;0.42000000000000004;Positive
+195;Kodam Cendrawasih Pastikan Situasi di Nduga Sudah Terkendali;0.34;0.42000000000000004;Positive
+196;Kementerian PUPR Pastikan Satu Pegawai Ditahan KKB Papua;0.34;0.42000000000000004;Positive
+197;Gratis, Empat Ruas Tol Trans-Jawa Bakal Dibuka Sebelum Natal;0.34;0.42000000000000004;Positive
+198;Komnas HAM Minta Insiden Nduga Diusut Sesuai Koridor Hukum;0.34;0.42000000000000004;Positive
+199;Instruksi Jokowi: Tangkap Pelaku, Trans Papua Harus Selesai;0.34;0.42000000000000004;Positive
+200;Menteri PUPR: Pembangunan di Daerah Rawan Selalu Libatkan TNI;0.34;0.42000000000000004;Positive
+201;Aparat TNI-Polri Jaga Titik Rawan di Infrastruktur Papua;0.34;0.42000000000000004;Positive
+202;Pembangunan di Papua Tetap Jalan dengan Pengawalan TNI-Polri;0.34;0.42000000000000004;Positive
+203;Anies Sebut Penurunan Tanah Jakarta Akibat Penyedotan Air;0.34;0.42000000000000004;Positive
+204;DPR akan Panggil PUPR soal Infrastruktur dan Penembakan Papua;0.34;0.42000000000000004;Positive
+205;Basuki: Demi Keadilan, Pembangunan di Papua Tak Akan Berhenti;0.34;0.42000000000000004;Positive
+206;Wiranto Pastikan Proyek Trans Papua Tetap Berlanjut;0.34;0.42000000000000004;Positive
+207;Insiden Penembakan, Uraian Fakta Proyek Jembatan di Papua;0.34;0.42000000000000004;Positive
+208;Perusahaan Sebut Korban Pembunuhan di Papua Asal Sulawesi;0.34;0.42000000000000004;Positive
+209;Trans Papua, Proyek Ambisi Jokowi di Indonesia Timur;0.34;0.42000000000000004;Positive
+210;Buntut Pembunuhan, Proyek Jembatan Trans Papua Dihentikan;0.34;0.42000000000000004;Positive
+211;Aparat Evakuasi Puluhan Pekerja Korban Pembunuhan di Papua;0.34;0.42000000000000004;Positive
+212;Kemenhub Ingin Tiru Sistem Buka Tutup Gerbang Tol Korsel;0.34;0.42000000000000004;Positive
+213;Mangkir, KPK Jadwal Ulang Pemeriksaan Wakil Ketua DPRD Bekasi;0.34;0.42000000000000004;Positive
+214;Menteri PUPR Pelajari Teknologi Jepang Perpanjang Usia Dam;0.34;0.42000000000000004;Positive
+215;KPK Panggil Anggota DPRD PDIP Waras Wasisto di Kasus Meikarta;0.34;0.42000000000000004;Positive
+216;Jokowi Bahagia Tuntaskan Tol yang 21 Tahun Mangkrak;0.34;0.42000000000000004;Positive
+217;Tol Bocimi Sesi 1 Pangkas Waktu Tempuh Ciawi-Cigombong;0.34;0.42000000000000004;Positive
+218;Akibat Gempa dan Tsunami, 17 Ribu Rumah Rusak di Donggala;0.34;0.42000000000000004;Positive
+219;Solusi Mengubah Sampah Menjadi Sumber Pendapatan Warga;0.34;0.42000000000000004;Positive
+220;Solusi Mengubah Sampah Menjadi Sumber Pendapatan Warga;0.34;0.42000000000000004;Positive
+221;Pengelolaan Limbah Komunal, Bebaskan Lingkungan dari Pencemar;0.34;0.42000000000000004;Positive
+222;Kasus Suap Meikarta, KPK Panggil Sekda Jabar;0.34;0.42000000000000004;Positive
+223;Jalan Tol Sragen-Ngawi Beroperasi, Tarif Dibanderol Rp55 Ribu;0.34;0.42000000000000004;Positive
+224;Pemerintah Serap 150 ribu Ton Karet Petani Sumsel Untuk Aspal;0.34;0.42000000000000004;Positive
+225;Kasus Suap Meikarta, KPK Panggil Dirut PT Star Pacific;0.34;0.42000000000000004;Positive
+226;Jokowi Minta Pembangunan Landas Pacu Bandara Soetta Dikebut;0.34;0.42000000000000004;Positive
+227;Jalur Puncak Bogor Dilebarkan demi Kurangi Kemacetan;0.34;0.42000000000000004;Positive
+228;Rini Beri Sinyal Anak-anak Usaha BUMN Batal IPO Tahun Ini;0.34;0.42000000000000004;Positive
+229;Jokowi Bakal Resmikan Tol Sragen-Ngawi Pekan Ini;0.34;0.42000000000000004;Positive
+230;Sampah & Limbah Bisa Jadi Sumber Manfaat Masyarakat;0.34;0.42000000000000004;Positive
+231;Pemerintah Serahkan Rusun Rp266 Miliar ke Pemda;0.34;0.42000000000000004;Positive
+232;Harga Anjlok, Pemerintah Beli Karet Petani untuk Aspal Jalan;0.34;0.42000000000000004;Positive
+233;KPK Lengkapi Berkas Perkara, Adik Zulhas Disidang di Lampung;0.34;0.42000000000000004;Positive
+234;Anies Akan Manfaatkan Pulau Reklamasi untuk Kampung Nelayan;0.34;0.42000000000000004;Positive
+235;Tol Jakarta-Surabaya Dioperasikan untuk Mudik Natal Gratis;0.34;0.42000000000000004;Positive
+236;Tanggul Pantai untuk Cegah Banjir Rob Jakarta Rampung 2020;0.34;0.42000000000000004;Positive
+237;Soal Air Laut Akan Sampai HI, Anies Mengaku Siapkan Program;0.34;0.42000000000000004;Positive
+238;Jakarta Bisa Tenggelam, Menteri PUPR Dorong Bangun Tanggul;0.34;0.42000000000000004;Positive
+239;Nias Ditunjuk Sebagai Tuan Rumah Sail Indonesia 2019;0.34;0.42000000000000004;Positive
+240;Sepuluh Jenis Kayu dan Tukang Tuo demi Perbaikan Rumah Gadang;0.34;0.42000000000000004;Positive
+241;Kasus Suap Meikarta, KPK Panggil Wakil Bupati Bekasi;0.34;0.42000000000000004;Positive
+242;Pemerintah Rampungkan Pembangunan Bendungan Mila di Sumbawa;0.34;0.42000000000000004;Positive
+243;KPK Sita Rp55 Juta dari Kantor Bupati Pakpak Bharat;0.34;0.42000000000000004;Positive
+244;PUPR dengan Belanda Evaluasi Pembangunan Tanggul Raksasa;0.34;0.42000000000000004;Positive
+245;Kondisi Keuangan 99 PDAM Tak Sehat;0.34;0.42000000000000004;Positive
+246;PII Jamin 17 Proyek Senilai Total Rp36 Triliun;0.34;0.42000000000000004;Positive
+247;Jokowi Tak Intervensi Kasus Korupsi Bupati Pakpak Bharat;0.34;0.42000000000000004;Positive
+248;Sekda Pakpak Bharat Ditunjuk Gantikan Posisi Bupati Remigo;0.34;0.42000000000000004;Positive
+249;Demokrat Pecat Remigo Usai Jadi Tersangka Suap;0.34;0.42000000000000004;Positive
+250;KPK Usut Dugaan Uang Bupati Pakpak Bharat ke Polda Sumut;0.34;0.42000000000000004;Positive
+251;Polda Sumut Sudah Hentikan Kasus Istri Bupati Pakpak Bharat;0.34;0.42000000000000004;Positive
+252;Bupati Pakpak Bharat, Kepala Daerah ke-104 yang 'Digarap' KPK;0.34;0.42000000000000004;Positive
+253;Bupati Remigo Diduga Pakai Uang Suap buat Amankan Kasus Istri;0.34;0.42000000000000004;Positive
+254;Kronologi OTT Bupati Pakpak Bharat;0.34;0.42000000000000004;Positive
+255;Bupati Pakpak Bharat Tersangka Suap Proyek Dinas PUPR;0.34;0.42000000000000004;Positive
+256;Warga Korban Gempa Lombok Keluhkan Bantuan Mandek;0.34;0.42000000000000004;Positive
+257;Jokowi Bandingkan Monumen Kapsul Waktu dengan Markas Avengers;0.34;0.42000000000000004;Positive
+258;Kasus Meikarta, KPK Periksa Direktur Lippo Cikarang;0.34;0.42000000000000004;Positive
+259;KPK Titipkan Bupati Nonaktif Labuhanbatu ke Rutan Medan;0.34;0.42000000000000004;Positive
+260;JK Minta Rekonstruksi Palu Pascagempa Dimulai Januari 2019;0.34;0.42000000000000004;Positive
+261;KPK Duga Sejumlah Dokumen Izin Proyek Meikarta 'Backdate';0.34;0.42000000000000004;Positive
+262;Transaksi Uang Elektronik Naik Empat Kali Lipat Jadi Rp31,6 T;0.34;0.42000000000000004;Positive
+263;Bangun Hunian Sementara di Palu, PUPR Akui Kekurangan Lahan;0.34;0.42000000000000004;Positive
+264;Longsor Dibersihkan, Jalur Cianjur-Bandung Masih Lumpuh;0.34;0.42000000000000004;Positive
+265;Sri Mulyani Masih Kaji Rencana Pembiayaan Rumah Murah ASN;0.34;0.42000000000000004;Positive
+266;Tarif Tol Pejagan-Pemalang Mulai Rp1.000 per Kilometer;0.34;0.42000000000000004;Positive
+267;KPK Sita Tanah Adik Zulhas Senilai Rp6 Miliar;0.34;0.42000000000000004;Positive
+268;Ruas Tol Jakarta-Surabaya Ditargetkan Berfungsi Saat Natal;0.34;0.42000000000000004;Positive
+269;Resmikan Ruas Tol Pejagan-Pemalang, Jokowi Harap Ekonomi Rata;0.34;0.42000000000000004;Positive
+270;Menteri Basuki Ingin Sebagian Wisma Atlet untuk PNS PUPR;0.34;0.42000000000000004;Positive
+271;Menko Puan Minta Kebijakan Rumah ASN dan TNI Tak Dipolitisasi;0.34;0.42000000000000004;Positive
+272;Pemerintah Manfaatkan Tanah Negara untuk Rumah Murah PNS;0.34;0.42000000000000004;Positive
+273;Suap Meikarta, KPK Sebut Terkait Kepentingan Lippo Group;0.34;0.42000000000000004;Positive
+274;Jokowi Jamin TNI, Polri, dan ASN Bisa Dapat Rumah Murah;0.34;0.42000000000000004;Positive
+275;Bupati Bekasi Kembalikan Rp3 M ke KPK Terkait Izin Meikarta;0.34;0.42000000000000004;Positive
+276;Bupati Labuhanbatu Akui Terima Suap Rp40 Miliar;0.34;0.42000000000000004;Positive
+277;Billy Sindoro Bantah Pernah Bahas Suap dengan Bupati Bekasi;0.34;0.42000000000000004;Positive
+278;Pemkot Padang Tanggap Darurat Banjir Selama Tujuh Hari;0.34;0.42000000000000004;Positive
+279;Tol Salatiga-Kartasura Bisa untuk Mudik Natal dan Tahun Baru;0.34;0.42000000000000004;Positive
+280;KPK Duga Adik Zulhas Gunakan Uang Korupsi untuk Acara PAN;0.34;0.42000000000000004;Positive
+281;Kasus Meikarta, KPK Periksa Dua Direktur Keuangan Lippo;0.34;0.42000000000000004;Positive
+282;Jokowi Perintahkan Sertifikasi Pekerja Konstruksi Dikebut;0.34;0.42000000000000004;Positive
+283;Paripurna DPR Pengesahan APBN 2019 Banyak Kursi Kosong;0.34;0.42000000000000004;Positive
+284;Mengaku Bersalah, Zumi Zola Minta Hakim Kabulkan JC;0.34;0.42000000000000004;Positive
+285;Masyarakat Yakin Penghapusan Tarif Suramadu Dorong Investasi;0.34;0.42000000000000004;Positive
+286;PUPR: RAPBN 2019 Memuat Biaya Perawatan Suramadu;0.34;0.42000000000000004;Positive
+287;Menteri Basuki 'Satukan' Keluarga Lewat Masakan Jawa;0.34;0.42000000000000004;Positive
+288;Hari Ini Jokowi Gratiskan Tarif Tol Jembatan Suramadu;0.34;0.42000000000000004;Positive
+289;KPK Ungkap Tarif Jabatan Terkait Suap Bupati Cirebon;0.34;0.42000000000000004;Positive
+290;Bupati Cirebon Bantah Terima Suap;0.34;0.42000000000000004;Positive
+291;Wiranto Sebut Masa Tanggap Darurat di Palu Berakhir Besok;0.34;0.42000000000000004;Positive
+292;Bupati dan Pejabat Kabupaten Cirebon Jadi Tersangka Suap;0.34;0.42000000000000004;Positive
+293;KPK Masih Selidiki Keterlibatan James Riyadi di Suap Meikarta;0.34;0.42000000000000004;Positive
+294;KPK Periksa Dokter RS Pondok Indah Terkait Adik Zulhas;0.34;0.42000000000000004;Positive
+295;Ribuan Kasus Sengketa Tanah Masih Menggantung;0.34;0.42000000000000004;Positive
+296;Menteri PUPR Sebut Lapindo Bayar Dana Talangan Usai Putusan;0.34;0.42000000000000004;Positive
+297;KPK Perpanjang Masa Tahanan Adik Zulkifli Hasan;0.34;0.42000000000000004;Positive
+298;Menkes Sebut Angka Stunting pada Balita Turun 30,8 Persen;0.34;0.42000000000000004;Positive
+299;Petinggi RS Siloam Diperiksa Terkait Suap Proyek Meikarta;0.34;0.42000000000000004;Positive
+300;Capaian Infrastruktur Jokowi Selama 4 Tahun Memerintah;0.34;0.42000000000000004;Positive
+301;PUPR Soal RUU Pertanahan: Daftar Masalah Belum Solid;0.34;0.42000000000000004;Positive
+302;Pemerintah Bakal Bangun Rumah 'Instan' Tahan Gempa di Palu;0.34;0.42000000000000004;Positive
+303;BMKG Pasang 20 Sensor Gempa di Sulawesi Tengah;0.34;0.42000000000000004;Positive
+304;Terjerat Kasus Suap Meikarta, Bupati Bekasi Minta Maaf;0.34;0.42000000000000004;Positive
+305;BP Tapera akan Cairkan Rp2,5 T untuk Modal Awal pada 2018;0.34;0.42000000000000004;Positive
+306;Persiapan Program Tabungan Perumahan Rakyat belum Beres;0.34;0.42000000000000004;Positive
+307;KPK Periksa Silang Para Tersangka Suap Proyek Meikarta;0.34;0.42000000000000004;Positive
+308;Pengembang Akui Bisnis Properti Rawan Suap;0.34;0.42000000000000004;Positive
+309;Kementerian PUPR Yakin Program Sejuta Rumah Lampaui Target;0.34;0.42000000000000004;Positive
+310;Jurkam Prabowo Duga Suap Meikarta Ada Kaitan ke Timses Jokowi;0.34;0.42000000000000004;Positive
+311;Ridwan Kamil Kaji Ulang Proyek Meikarta;0.34;0.42000000000000004;Positive
+312;Kesaksian James Riady soal Suap Meikarta Akan Dikorek KPK;0.34;0.42000000000000004;Positive
+313;Sofyan Djalil: Persetujuan Izin Meikarta 84 Hektare;0.34;0.42000000000000004;Positive
+314;KPK Sita Tanah dan Speedboat Adik Zulhas Terkait Cuci Uang;0.34;0.42000000000000004;Positive
+315;KPK Tetapkan Adik Zulhas Tersangka Cuci Uang Rp57 Miliar;0.34;0.42000000000000004;Positive
+316;Kementerian ATR: Meikarta Sempat Tak Penuhi Aturan Tata Ruang;0.34;0.42000000000000004;Positive
+317;Denny Indrayana Minta Maaf ke KPK soal Nasib Proyek Meikarta;0.34;0.42000000000000004;Positive
+318;KPK Sita Dokumen Rencana Proyek Meikarta di Rumah Bos Lippo;0.34;0.42000000000000004;Positive
+319;Kasus Suap Meikarta, KPK Geledah Kantor Lippo Cikarang;0.34;0.42000000000000004;Positive
+320;KPK: Bupati Bekasi Sedang Hamil Empat Bulan;0.34;0.42000000000000004;Positive
+321;KPK Sita Rupiah dan Yuan dari Rumah Bupati Bekasi;0.34;0.42000000000000004;Positive
+322;KPK Tak Akan Campur Tangan Kelanjutan Proyek Meikarta;0.34;0.42000000000000004;Positive
+323;PUPR: Kontrak Tiga Bendungan Bernilai Rp8,44 Triliun Dimulai;0.34;0.42000000000000004;Positive
+324;Kasus Suap Meikarta dan Dilema Perizinan di Indonesia;0.34;0.42000000000000004;Positive
+325;Geliat Proyek Meikarta Usai OTT Bos Lippo dan Bupati Bekasi;0.34;0.42000000000000004;Positive
+326;Kode Suap Meikarta: Tina Toon, Susi hingga Babe;0.34;0.42000000000000004;Positive
+327;Geledah Rumah James Riady, KPK Cari Bukti Suap Meikarta;0.34;0.42000000000000004;Positive
+328;Kasus Meikarta, KPK Geledah Rumah Bos Lippo Group James Riady;0.34;0.42000000000000004;Positive
+329;Rutan Penuh, KPK Titipkan Bos Lippo di Polda Metro Jaya;0.34;0.42000000000000004;Positive
+330;'Babe', Kode Lain dalam Kasus Suap Proyek Meikarta;0.34;0.42000000000000004;Positive
+331;KPK Geledah Rumah Bos Lippo Cari Bukti Suap Meikarta;0.34;0.42000000000000004;Positive
+332;Progres Capai 93 Persen, Tol Semarang-Batang Siap Beroperasi;0.34;0.42000000000000004;Positive
+333;Kasus Suap Meikarta, KPK Geledah Kantor PT Lippo Karawaci;0.34;0.42000000000000004;Positive
+334;Sampai September, Pencairan Utang Pemerintah Turun 25 Persen;0.34;0.42000000000000004;Positive
+335;Hingga September 2018, Kantong Negara Terisi Rp1.312 Triliun;0.34;0.42000000000000004;Positive
+336;Hutama Karya Garap Tol Palembang-Bengkulu Senilai Rp30,8 T;0.34;0.42000000000000004;Positive
+337;Hunian Korban Gempa Palu Bisa Jadi Peluang Bisnis Baja;0.34;0.42000000000000004;Positive
+338;Dugaan Suap Bupati Bekasi Harus Jadi Peringatan Jawa Barat;0.34;0.42000000000000004;Positive
+339;KPK Siap Periksa Lippo Group Terkait Suap Meikarta;0.34;0.42000000000000004;Positive
+340;Bupati Bekasi Neneng Hasanah Ditahan KPK;0.34;0.42000000000000004;Positive
+341;Menko Darmin Sebut Logistik 'Acak-acak' Kesiapan B20;0.34;0.42000000000000004;Positive
+342;Benahi Palu, Pemerintah Tak Tutup Opsi Pinjaman Asing;0.34;0.42000000000000004;Positive
+343;KPK Sita BMW Pejabat Bekasi Tersangka Suap Izin Meikarta;0.34;0.42000000000000004;Positive
+344;Peluru Nyasar DPR, Masinton Usul Lapangan Tembak Dipindahkan;0.34;0.42000000000000004;Positive
+345;Kementerian PUPR Tarik Pinjaman Bank Dunia Rp1,9 Triliun;0.34;0.42000000000000004;Positive
+346;Terjerat Suap, Bupati Bekasi Dicopot dari Tim Kampanye Jokowi;0.34;0.42000000000000004;Positive
+347;Proyek Meikarta Sempat Dibahas Komisi II Agar Patuh Aturan;0.34;0.42000000000000004;Positive
+348;Bos Lippo Billy Sindoro Ditahan KPK Terkait Suap Meikarta;0.34;0.42000000000000004;Positive
+349;Anak Usaha Lippo Siap Bantu KPK Usut Suap Proyek Meikarta;0.34;0.42000000000000004;Positive
+350;Jokowi Ingin Seluruh Provinsi Ramah untuk Kaum Difabel;0.34;0.42000000000000004;Positive
+351;Terima Suap Sin$90 Ribu, Pejabat Bekasi Menyerahkan Diri;0.34;0.42000000000000004;Positive
+352;Hindari OTT, Menteri Basuki Minta Bawahan Bekerja Profesional;0.34;0.42000000000000004;Positive
+353;DPRD Jawa Tengah Tolak Pembangunan Tol Bawen-Yogya;0.34;0.42000000000000004;Positive
+354;Terjerat Suap Meikarta, Bupati Bekasi Punya Harta Rp73,4 M;0.34;0.42000000000000004;Positive
+355;KPK Tahan Enam Tersangka Suap Proyek Meikarta Secara Terpisah;0.34;0.42000000000000004;Positive
+356;Golkar Nonaktifkan Bupati Bekasi yang Terjerat Suap Meikarta;0.34;0.42000000000000004;Positive
+357;Bangun Kota Palu Baru, Pemerintah Siapkan Rp6 Triliun;0.34;0.42000000000000004;Positive
+358;OTT Suap Meikarta, KPK Sebut Satu Tersangka Sempat Lolos;0.34;0.42000000000000004;Positive
+359;Ditangkap KPK, Bupati Bekasi dan Bos Lippo Group Bungkam;0.34;0.42000000000000004;Positive
+360;Kronologi KPK Ungkap Suap Perizinan Meikarta;0.34;0.42000000000000004;Positive
+361;KPK Sebut Tersangka Suap Meikarta Pakai Samaran Tina Toon;0.34;0.42000000000000004;Positive
+362;Lippo Group Siapkan Rp13 M untuk Loloskan Izin Meikarta;0.34;0.42000000000000004;Positive
+363;Bupati Bekasi dan Bos Lippo Group Tersangka Suap Meikarta;0.34;0.42000000000000004;Positive
+364;Lippo Suap Rp7 M Pejabat Bekasi untuk 774 Ha Proyek Meikarta;0.34;0.42000000000000004;Positive
+365;PUPR: Jalan Tol Layang Jakarta-Cikampek Rampung Maret 2019;0.34;0.42000000000000004;Positive
+366;Pemerintah Pangkas Syarat Bantuan Rumah Korban Gempa Lombok;0.34;0.42000000000000004;Positive
+367;Wiranto Bantah Tolak Relawan Asing di Sulawesi Tengah;0.34;0.42000000000000004;Positive
+368;KPK: OTT di Bekasi Terkait Izin Proyek Meikarta;0.34;0.42000000000000004;Positive
+369;Hajatan IMF-World Bank Pacu Roda Ekonomi Banyuwangi;0.34;0.42000000000000004;Positive
+370;OTT KPK di Kabupaten Bekasi terkait Izin Properti;0.34;0.42000000000000004;Positive
+371;OTT di Kabupaten Bekasi, KPK Amankan 10 Orang;0.34;0.42000000000000004;Positive
+372;PUPR: 13 Ruas Tol Baru Siap Beroperasi Sampai Akhir Tahun Ini;0.34;0.42000000000000004;Positive
+373;ESDM Sebut Pasokan Energi di Palu Belum 100 Persen Pulih;0.34;0.42000000000000004;Positive
+374;Geledah Rumah Bupati Malang, KPK Sita Uang Sin$15 Ribu;0.34;0.42000000000000004;Positive
+375;PT NKE Didakwa Rugikan Keuangan Negara Rp25,9 Miliar;0.34;0.42000000000000004;Positive
+376;53 Proyek Berpotensi Dicoret dari Proyek Strategis Nasional;0.34;0.42000000000000004;Positive
+377;PTPP Tawarkan Delapan Proyek Infrastruktur dalam Forum IMF-WB;0.34;0.42000000000000004;Positive
+378;KPK Usut Aset Adik Zulkifli Hasan Terkait Suap Proyek Lamsel;0.34;0.42000000000000004;Positive
+379;KPK Periksa Bos 9 Naga Emas soal Kasus Suap Adik Ketua MPR;0.34;0.42000000000000004;Positive
+380;Jurkam Jokowi Sebut Hajatan IMF di Bali Usulan Rezim SBY;0.34;0.42000000000000004;Positive
+381;BNPB: Air Bersih Dijatah untuk Warga Korban Gempa Palu;0.34;0.42000000000000004;Positive
+382;Kemkeu Buat Badan Baru Tampung Dana Pembangunan Berkelanjutan;0.34;0.42000000000000004;Positive
+383;Mobil Terbakar di Tol Cipali, Anies Baswedan Urus Jenazah;0.34;0.42000000000000004;Positive
+384;Bank Dunia akan Kucurkan Utang Rp13,86 T untuk Enam Proyek RI;0.34;0.42000000000000004;Positive
+385;Palu dan Donggala Diproyeksikan Pulih dalam 2 Tahun;0.34;0.42000000000000004;Positive
+386;'Harta Karun' di Balik Pertemuan IMF-World Bank di Bali;0.34;0.42000000000000004;Positive
+387;Besok, JK Kunjungi Korban Gempa Palu;0.34;0.42000000000000004;Positive
+388;KPK Dikabarkan OTT di Pasuruan;0.34;0.42000000000000004;Positive
+389;Jembatan Kuning, 'Warisan' SBY yang Kini Tergerus Tsunami;0.34;0.42000000000000004;Positive
+390;BPJT: Integrasi Tarif JORR Bisa Tekan Income Pengusaha Tol;0.34;0.42000000000000004;Positive
+391;Pemerintah Bentuk Pusat Logistik Peralatan Penanganan Gempa;0.34;0.42000000000000004;Positive
+392;Jokowi Kembali Tengok Korban Gempa-Tsunami Sulteng Hari Ini;0.34;0.42000000000000004;Positive
+393;Tak Dapat Proyek, 30 Kontraktor Asing Tutup;0.34;0.42000000000000004;Positive
+394;Pemerintah Susun Inpres Penanganan Gempa-Tsunami Sulteng;0.34;0.42000000000000004;Positive
+395;Gempa Palu, PUPR Minta Kontraktor Bantu Mobilisasi Alat Berat;0.34;0.42000000000000004;Positive
+396;Gempa Palu, Nilai Bangunan yang Diasuransikan Rp2,3 Triliun;0.34;0.42000000000000004;Positive
+397;Jokowi soal Bencana Nasional: Yang Penting Penanganan Cepat;0.34;0.42000000000000004;Positive
+398;Rurang Mural, Solusi Bali Mempercantik Gang di Perkotaan;0.34;0.42000000000000004;Positive
+399;Sri Mulyani Cairkan Rp560 M untuk Gempa Donggala dan Palu;0.34;0.42000000000000004;Positive
+400;Ironi Negara Maritim Kesulitan Deteksi Tsunami;0.34;0.42000000000000004;Positive
+401;Warga Demo Korem, Minta Bantuan Dikirim ke Tenda Pengungsian;0.34;0.42000000000000004;Positive
+402;Kementerian PUPR Kirim Alat Berat dan Sanitasi ke Palu;0.34;0.42000000000000004;Positive
+403;Persiapan Asian Para Games 2018 di GBK Tertahan;0.34;0.42000000000000004;Positive
+404;Terima Suap, Bupati Halmahera Timur Divonis 4,5 Tahun Penjara;0.34;0.42000000000000004;Positive
+405;PII Fokus Penjaminan Proyek Jalan dan Perhubungan Tahun Depan;0.34;0.42000000000000004;Positive
+406;Penyatuan Tarif Tol JORR, Bintaro-Pondok Aren Tetap Rp3 Ribu;0.34;0.42000000000000004;Positive
+407;Kementerian PUPR Cari 1000 CPNS, 10% Jatah Bagi Cum Laude;0.34;0.42000000000000004;Positive
+408;Cegah Kecelakaan, PUPR Uji Sertifikasi Operator Alat Berat;0.34;0.42000000000000004;Positive
+409;Pemerintah Undang Masuk Investor Spanyol Bidang Infrastruktur;0.34;0.42000000000000004;Positive
+410;Kemenpar Akan Gelar Rakornas Investasi Pariwisata;0.34;0.42000000000000004;Positive
+411;Cerita dari Perbatasan: Tembang Via Vallen di Batas Negara;0.34;0.42000000000000004;Positive
+412;Underpass Simpang Tugu Ngurah Rai Bali Resmi Dibuka;0.34;0.42000000000000004;Positive
+413;Tarif Toll JORR Jauh Dekat Rp15 Ribu Berlaku 29 September;0.34;0.42000000000000004;Positive
+414;Tarif Tol JORR Jauh Dekat Rp15 Ribu Tak Berlaku Besok;0.34;0.42000000000000004;Positive
+415;Jokowi Bentuk Tim Peningkatan Penggunaan Produksi Domestik;0.34;0.42000000000000004;Positive
+416;India dan Nepal Disebut 'Kepincut' Program Dana Desa Jokowi;0.34;0.42000000000000004;Positive
+417;Daftar Kementerian yang Paling Banyak Diincar dalam CPNS;0.34;0.42000000000000004;Positive
+418;Korban Lumpur Lapindo Sebut Ada Oknum BPLS Minta Imbalan;0.34;0.42000000000000004;Positive
+419;Konstruksi Jalan Jayapura-Wamena Rampung Akhir 2018;0.34;0.42000000000000004;Positive
+420;Pascagempa, Pariwisata NTB Dipastikan Segera Pulih;0.34;0.42000000000000004;Positive
+421;Menteri PUPR Jamin Tak Ada Kenaikan 'Terselubung' Tarif Tol;0.34;0.42000000000000004;Positive
+422;Duit Suap 'Ketuk Palu' RAPBD Jambi dari Zumi Zola Pakai Kode;0.34;0.42000000000000004;Positive
+423;Tol JORR 2 Beroperasi 2019, Distribusi Diklaim Lebih Lancar;0.34;0.42000000000000004;Positive
+424;Akhir September, Pengintegrasian tarif Tol JORR Diberlakukan;0.34;0.42000000000000004;Positive
+425;Darmin Sebut Penundaan Proyek Strategis Bergantung Kebutuhan;0.34;0.42000000000000004;Positive
+426;DKI dan Kemenhub Terbanyak Pekerjakan PNS Terpidana Korupsi;0.34;0.42000000000000004;Positive
+427;Soal Alih Fungsi Wisma Atlet, Anies Duduk Bersama Kementerian;0.34;0.42000000000000004;Positive
+428;BNPB Sebut Total Kerugian Gempa Lombok Capai Rp12 Triliun;0.34;0.42000000000000004;Positive
+429;Proyek Strategis yang Sedot Banyak Impor Ditunda Tiga Tahun;0.34;0.42000000000000004;Positive
+430;Warga Bukit Duri Gusuran Ahok Kembali Digugat;0.34;0.42000000000000004;Positive
+431;Kementerian PUPR Bangun 134 Jembatan Gantung di Tahun Ini;0.34;0.42000000000000004;Positive
+432;#PesonaAsianParaGames2018 Makin Meriahkan Kirab Obor;0.34;0.42000000000000004;Positive
+433;Kementerian PUPR Dapat Tambahan Anggaran Rp8,71 Triliun;0.34;0.42000000000000004;Positive
+434;Zumi Zola Akui Terima Uang untuk Umrah dan Pemenangan Adiknya;0.34;0.42000000000000004;Positive
+435;Zumi Disebut Minta Kepala Dinasnya Total, Royal, dan Loyal;0.34;0.42000000000000004;Positive
+436;PUPR Rampungkan 26 Proyek Strategis Nasional Akhir Tahun Ini;0.34;0.42000000000000004;Positive
+437;Kekeringan, Bendungan Jatigede Tetap Suplai Air Irigasi;0.34;0.42000000000000004;Positive
+438;Proyek Infrastruktur yang Dibiayai APBN Tak Akan Ditunda;0.34;0.42000000000000004;Positive
+439;Anies Godok Alih Fungsi Wisma Atlet Kemayoran Jadi Rusun;0.34;0.42000000000000004;Positive
+440;Mengenal RISHA, Teknologi Rumah Tahan Gempa;0.34;0.42000000000000004;Positive
+441;Jokowi Ingin Rumah Korban Gempa Berdiri Sebelum Musim Hujan;0.34;0.42000000000000004;Positive
+442;Pemerintah Alokasikan Rp210 M untuk Bonus Atlet Asian Games;0.34;0.42000000000000004;Positive
+443;Jokowi Pilih Sambangi Lombok saat Penutupan Asian Games 2018;0.34;0.42000000000000004;Positive
+444;Bantuan Tahap Pertama Korban Rumah Gempa Lombok Rp10 Juta;0.34;0.42000000000000004;Positive
+445;Rehabilitasi NTB Akibat Gempa Lombok Bakal Dipercepat;0.34;0.42000000000000004;Positive
+446;Pinjaman Bank Infrastruktur Asia Bakal Mengalir ke Swasta;0.34;0.42000000000000004;Positive
+447;40 Tempat Parkir Disediakan untuk Penutupan Asian Games 2018;0.34;0.42000000000000004;Positive
+448;Pemerintah Cuma Beri Rumah Tanpa Tanah Pemenang Asian Games;0.34;0.42000000000000004;Positive
+449;Bank Infrastruktur Asia Beri RI Jatah Pinjaman Rp14,6 Triliun;0.34;0.42000000000000004;Positive
+450;Lihat Rekam Jejak Aljazair, Namibia Tunjuk WIKA Bangun Rumah;0.34;0.42000000000000004;Positive
+451;Azis Syamsuddin Bantah Suap Dana Perimbangan Mengalir ke DPR;0.34;0.42000000000000004;Positive
+452;BNPB Klaim 12 Ribu Korban Gempa Lombok Terima Dana Stimulan;0.34;0.42000000000000004;Positive
+453;Pemerintah Cari Mahasiswa Teknik untuk Bangun Rumah Warga NTB;0.34;0.42000000000000004;Positive
+454;Kasus Suap, KPK Cecar Adik Hatta Rajasa soal Kerja Komisi XI;0.34;0.42000000000000004;Positive
+455;Inpres Jokowi Kerahkan 19 Menteri Rehabilitasi Lombok;0.34;0.42000000000000004;Positive
+456;Dahaga para Korban Gempa Lombok akan Air Bersih;0.34;0.42000000000000004;Positive
+457;Masa Keemasan Emiten Konstruksi Memudar;0.34;0.42000000000000004;Positive
+458;Sri Mulyani Cairkan Hampir Rp1 Triliun untuk Gempa Lombok;0.34;0.42000000000000004;Positive
+459;PUPR Sebut Korban Gempa Lombok Dapat Penangguhan Cicilan KPR;0.34;0.42000000000000004;Positive
+460;KPK Periksa Proses Penganggaran Dana Perimbangan 11 Daerah;0.34;0.42000000000000004;Positive
+461;Tarif Akses Pelabuhan Darat Cikarang Berlaku Mulai 28 Agustus;0.34;0.42000000000000004;Positive
+462;Sampai Agustus, Program Satu Juta Rumah Baru 58 Persen;0.34;0.42000000000000004;Positive
+463;Romahurmuziy Dicecar Penyidik KPK soal Tupoksi Pengurus PPP;0.34;0.42000000000000004;Positive
+464;KPK Buka Peluang Usut Dugaan Pencucian Uang Zumi Zola;0.34;0.42000000000000004;Positive
+465;Zumi Zola Didakwa Suap 'Ketok Palu' DPRD Jambi Rp16,4 Miliar;0.34;0.42000000000000004;Positive
+466;Romahurmuziy Diperiksa KPK Jadi Saksi Kasus Mafia Anggaran;0.34;0.42000000000000004;Positive
+467;PPP Sebut Romahurmuziy Siap Diperiksa KPK Siang Ini;0.34;0.42000000000000004;Positive
+468;Zumi Zola Jalani Sidang Perdana di Pengadilan Tipikor Jakarta;0.34;0.42000000000000004;Positive
+469;Program Tol Laut Layak Dipertahankan, Meski Perlu Evaluasi;0.34;0.42000000000000004;Positive
+470;KPK Kembali Panggil Romahurmuziy Sebagai Saksi Kasus Suap;0.34;0.42000000000000004;Positive
+471;BNPB Pastikan Inpres Penanganan Gemba Lombok Terbit Pekan Ini;0.34;0.42000000000000004;Positive
+472;Kemendagri Bantah Tudingan Fahri Hamzah soal Gempa Lombok;0.34;0.42000000000000004;Positive
+473;Pemerintah Akan Bangun Dua KEK Pariwisata di Jawa Barat;0.34;0.42000000000000004;Positive
+474;Pengusaha Ancam Impor Jika RUU Sumber Air Memberatkan;0.34;0.42000000000000004;Positive
+475;Sidang Suap Zumi Zola Digelar Kamis, 23 Agustus;0.34;0.42000000000000004;Positive
+476;KPK Minta Ketum PPP Romahurmuziy Hadir Pemeriksaan;0.34;0.42000000000000004;Positive
+477;Jokowi Bakal Terbitkan Inpres Penanganan Gempa Lombok;0.34;0.42000000000000004;Positive
+478;Romi Mangkir dari KPK, PPP Berdalih Kunjungan ke Jawa Tengah;0.34;0.42000000000000004;Positive
+479;Penyelesaian Proyek Jembatan Bengawan Solo Dilelang;0.34;0.42000000000000004;Positive
+480;KPK Panggil Ketum PPP Romahurmuziy Kasus Dana Perimbangan;0.34;0.42000000000000004;Positive
+481;PUPR Berencana Lelang 10 Ribu Paket Pekerjaan pada 2019;0.34;0.42000000000000004;Positive
+482;Kementerian PUPR Tuntaskan Tahap I PLBN Entikong;0.34;0.42000000000000004;Positive
+483;Jokowi Kucurkan Rp97,6 Triliun untuk Jaga Pasokan Pangan 2019;0.34;0.42000000000000004;Positive
+484;Anggaran Dipangkas, Kemendikbud Khawatir Kegiatan Terganggu;0.34;0.42000000000000004;Positive
+485;KPK Tuntut Penyuap Politikus Demokrat 3 Tahun Penjara;0.34;0.42000000000000004;Positive
+486;Jokowi Tambah Anggaran Infrastruktur 2,4 Persen;0.34;0.42000000000000004;Positive
+487;Defisit APBN Juli 2018 Naik Jadi 1,02 Persen dari PDB;0.34;0.42000000000000004;Positive
+488;Dalami Suap APBN-P 2018, KPK Periksa Dua Kepala Daerah;0.34;0.42000000000000004;Positive
+489;PUPR Stop Proyek Kontrak Tahun Jamak Baru;0.34;0.42000000000000004;Positive
+490;Pemerintah Kejar Efisiensi dengan Kebijakan Satu Peta;0.34;0.42000000000000004;Positive
+491;Sri Mulyani Siap Kucurkan Rp4 Triliun untuk Gempa Lombok;0.34;0.42000000000000004;Positive
+492;Aksi Menteri Kawal Jokowi ke KPU Diklaim Dukungan Pribadi;0.34;0.42000000000000004;Positive
+493;Jokowi Beri Tugas Tambahan Infrastruktur untuk PUPR;0.34;0.42000000000000004;Positive
+494;PUPR Mulai Lelang Proyek Tahun Depan di November 2018;0.34;0.42000000000000004;Positive
+495;Pemerintah Kucurkan Rp10 Miliar Benahi Infrastruktur Lombok;0.34;0.42000000000000004;Positive
+496;Mataram Bentuk Tim Investigasi Gedung Sekolah Pasca Gempa;0.34;0.42000000000000004;Positive
+497;Revaluasi Rampung Tahun Ini, Nilai Aset Negara Bakal Melesat;0.34;0.42000000000000004;Positive
+498;Berkas Lengkap, Zumi Zola Segera Diadili di Jakarta;0.34;0.42000000000000004;Positive
+499;Makanan dan Selimut Jadi Kebutuhan Utama Pengungsi Gempa NTB;0.34;0.42000000000000004;Positive
+500;Luhut Klaim Persiapan Forum IMF-World Bank Sudah 85 Persen;0.34;0.42000000000000004;Positive
+501;Buktikan Tak Ada Bau, JK Ajak Anies Makan Pisang di Kali Item;0.34;0.42000000000000004;Positive
+502;Jokowi Akui Bundaran HI Lebih Sedap Dipandang Tanpa JPO;0.34;0.42000000000000004;Positive
+503;Anies Sebut Jokowi Penasaran Pelican Crossing;0.34;0.42000000000000004;Positive
+504;Jajal Pelican Crossing, Jokowi Acungkan Jempol untuk Anies;0.34;0.42000000000000004;Positive
+505;Penerbangan Kuala Lumpur-Silangit Hanya Rp100 Ribu;0.34;0.42000000000000004;Positive
+506;Ditutup di Area 6.011, IHSG dan Rupiah Kompak Melemah;0.34;0.42000000000000004;Positive
+507;Minim Bahan Impor, Menteri Basuki Yakin Proyek PUPR Aman;0.34;0.42000000000000004;Positive
+508;Pemprov DKI Bongkar Tiang yang Halangi Jalur Sepeda;0.34;0.42000000000000004;Positive
+509;Tahun Depan, Pemerintah Bangun Lima Pasar Induk;0.34;0.42000000000000004;Positive
+510;KPK Sita Uang Rp1,4 Miliar di Rumah Politisi PPP terkait Suap;0.34;0.42000000000000004;Positive
+511;Pemerintah Bangun Lima Bendungan Baru di NTB;0.34;0.42000000000000004;Positive
+512;Pemprov DKI Sebut Kali Item Sudah Bau Sebelum Zaman Anies;0.34;0.42000000000000004;Positive
+513;Ratusan Prajurit Kopassus Ikut Evakuasi Pendaki Rinjani;0.34;0.42000000000000004;Positive
+514;PUPR Pastikan Tak Ada Infrastruktur Rusak Usai Gempa Lombok;0.34;0.42000000000000004;Positive
+515;Resmikan Bendungan Tanju, Jokowi Harap Panen di NTB Berlipat;0.34;0.42000000000000004;Positive
+516;Jokowi Akan Beri Bantuan Uang Tunai untuk Korban Gempa NTB;0.34;0.42000000000000004;Positive
+517;Sandiaga Bicarakan IPAL untuk Atasi Kondisi Kali Item;0.34;0.42000000000000004;Positive
+518;KPK Sita Dokumen Keuangan Terkait Suap Adik Ketua MPR;0.34;0.42000000000000004;Positive
+519;TPST Seminyak Ternyata Belum Berizin;0.34;0.42000000000000004;Positive
+520;Sandiaga Klaim Sudah Coba Semua Cara Pulihkan Kali Item;0.34;0.42000000000000004;Positive
+521;KPK Geledah Rumah Pribadi Adik Zulhas Terkait Suap;0.34;0.42000000000000004;Positive
+522;Status Tersangka, KPK Tahan Bupati Lampung Selatan;0.34;0.42000000000000004;Positive
+523;KPK Duga Bupati Lamsel Atur Proyek di Lampung Selatan;0.34;0.42000000000000004;Positive
+524;Kronologi OTT KPK Terhadap Bupati Lampung Selatan;0.34;0.42000000000000004;Positive
+525;Bantah Bikin Rumit, Stafsus PUPR Ingin soal Kali Item 'Clear';0.34;0.42000000000000004;Positive
+526;Bupati Lamsel Adik Zulhas Resmi Jadi Tersangka Suap;0.34;0.42000000000000004;Positive
+527;Anies Singgung Stafsus yang Perkeruh Penyelesaian Kali Item;0.34;0.42000000000000004;Positive
+528;Pewangi Akan Disemprotkan ke Kali Item untuk Kurangi Bau;0.34;0.42000000000000004;Positive
+529;Suap RAPBN, KPK Geledah Rumah Politikus PAN dan Apartemen;0.34;0.42000000000000004;Positive
+530;Kali Item Tak Kunjung Jernih, Pemerintah Pusat Turun Tangan;0.34;0.42000000000000004;Positive
+531;Semester I, Laba Waskita Karya Melonjak 133 Persen;0.34;0.42000000000000004;Positive
+532;Anies: Berita Kali Item Tutupi Hal Positif Jelang Asian Games;0.34;0.42000000000000004;Positive
+533;Progres 74 Persen, Monumen Kapsul Waktu Rampung Oktober;0.34;0.42000000000000004;Positive
+534;Pemerintah Usul Hapus Poin Keberatan Pengusaha di RUU SDA;0.34;0.42000000000000004;Positive
+535;RUU Sumber Daya Air, Pengusaha Merasa Terancam;0.34;0.42000000000000004;Positive
+536;Lawan Kejahatan Transnasional, RI-PNG Perkuat Tata Perbatasan;0.34;0.42000000000000004;Positive
+537;Menteri PUPR Larang BUMN Garap Proyek di Bawah Rp100 Miliar;0.34;0.42000000000000004;Positive
+538;KPK Paparkan Kronologi Tangkap Tangan Bupati Labuhanbatu;0.34;0.42000000000000004;Positive
+539;Bekas Model Steffy Terima Aliran Uang dari Gubernur Aceh;0.34;0.42000000000000004;Positive
+540;Belanja Barang Jadi Sasaran Efisiensi Anggaran 2019;0.34;0.42000000000000004;Positive
+541;Bisnis Air Mineral Kemasan Akan Diperketat;0.34;0.42000000000000004;Positive
+542;Rumah DP Nol Rupiah Disebut Akan Dijual Online Akhir Agustus;0.34;0.42000000000000004;Positive
+543;Pangonal Harahap, Bupati Labuhanbatu Pengkritik Sukmawati;0.34;0.42000000000000004;Positive
+544;Kasus Irwandi Yusuf, Model Steffy Burase Penuhi Panggilan KPK;0.34;0.42000000000000004;Positive
+545;Bupati Labuhanbatu Korban OTT KPK Punya 30 Bidang Tanah;0.34;0.42000000000000004;Positive
+546;Tarik Uang, Bupati Labuhanbatu Dibekuk KPK di Bandara Soetta;0.34;0.42000000000000004;Positive
+547;OTT Bupati Labuhanbatu, KPK Sita Bukti Transaksi Ratusan Juta;0.34;0.42000000000000004;Positive
+548;KPK Blokir Rekening Gubernur Aceh Terkait Suap Dana Otsus;0.34;0.42000000000000004;Positive
+549;Keluarga Lalu Zohri Tak Pernah Menolak Renovasi Rumah;0.34;0.42000000000000004;Positive
+550;Jokowi Resmikan Tol Solo-Ngawi Ruas Kartasura-Sragen;0.34;0.42000000000000004;Positive
+551;Geng Jambret 'Bad Boy' Jakarta Utara Incar Pasangan Pacaran;0.34;0.42000000000000004;Positive
+552;Menteri LHK: Freeport Masih Konsultasi Pengolahan Limbah;0.34;0.42000000000000004;Positive
+553;Lalu Muhammad Zohri Dapat Satu Slot CPNS;0.34;0.42000000000000004;Positive
+554;Fotografer yang Tertiban Skuat Kroasia Biasa Liput Perang;0.34;0.42000000000000004;Positive
+555;Presiden Joko Widodo Renovasi Rumah Muhammad Zohri;0.34;0.42000000000000004;Positive
+556;Tim Kementerian PUPR Langsung Tinjau Rumah Lalu Zohri;0.34;0.42000000000000004;Positive
+557;Rekor 'Manusia Tercepat Asia Tenggara' dalam Ancaman Zohri;0.34;0.42000000000000004;Positive
+558;Jelang Final, Kroasia Punya Skuat Lebih Sukses dari Prancis;0.34;0.42000000000000004;Positive
+559;Marcelo Diklaim Bakal Susul Ronaldo ke Juventus;0.34;0.42000000000000004;Positive
+560;Jokowi Instruksikan Menteri PUPR Renovasi Rumah Lalu Zohri;0.34;0.42000000000000004;Positive
+561;Wacana Bonus Naik Haji Bagi Atlet Berprestasi di Asian Games;0.34;0.42000000000000004;Positive
+562;Pemerintah Beri Bantuan Kredit Murah untuk Rumah Penginapan;0.34;0.42000000000000004;Positive
+563;Marak Begal Motor, Pelaku Tak Segan Lepas Tembakan;0.34;0.42000000000000004;Positive
+564;Pemerintah Tetapkan Tarif Tol Gempol-Pasuruan;0.34;0.42000000000000004;Positive
+565;KPK Telusuri Aliran Suap Irwandi ke Mantan Model Asal Manado;0.34;0.42000000000000004;Positive
+566;Penjambret di Cempaka Putih Serahkan Diri ke Polisi;0.34;0.42000000000000004;Positive
+567;KPK Geledah Rumah Gubernur Aceh Irwandi Yusuf;0.34;0.42000000000000004;Positive
+568;Sandi soal Jambret Marak: Jangan Main Gadget Saat Naik Motor;0.34;0.42000000000000004;Positive
+569;Geng Oranye, Kelompok Penjahat yang Menjambret Dirjen PUPR;0.34;0.42000000000000004;Positive
+570;Kejahatan Jalanan, Kecerdikan Pelaku dan Kelengahan Aparat;0.34;0.42000000000000004;Positive
+571;Tersangka KPK Menang Pilbup Tulunggagung, Kasus Tetap Diusut;0.34;0.42000000000000004;Positive
+572;Belanja Infrastruktur Capai Rp 30,38 Triliun;0.34;0.42000000000000004;Positive
+573;Kementerian PUPR Lelang Proyek Jalan Senilai Rp2,20 Triliun;0.34;0.42000000000000004;Positive
+574;Pagu Indikatif Belanja K/L Dihemat Rp8,8 Triliun pada 2019;0.34;0.42000000000000004;Positive
+575;Polda Metro Jaya Antisipasi Jambret Jelang Asian Games;0.34;0.42000000000000004;Positive
+576;Kapolda Metro Jaya Perintahkan Tembak Mati Begal dan Jambret;0.34;0.42000000000000004;Positive
+577;Polda Metro Jaya Gelar Operasi Khusus Memburu Jambret;0.34;0.42000000000000004;Positive
+578;267 Proyek Jalan dan Bendungan Dibiayai Sukuk Rp13,73 Triliun;0.34;0.42000000000000004;Positive
+579;KPK Tetapkan Bos PT Sharleen Raya Tersangka Suap Proyek PUPR;0.34;0.42000000000000004;Positive
+580;Triliunan Uang Negara Nganggur dan Seretnya Laju Ekonomi RI;0.34;0.42000000000000004;Positive
+581;Polisi Tembak Mati Penjambret Dirjen Bina Konstruksi PUP;0.34;0.42000000000000004;Positive
+582;Pemerintah Targetkan Bendungan Gondang Rampung Akhir 2018;0.34;0.42000000000000004;Positive
+583;Hingga Akhir Tahun, 9 Ruas Tol Trans Jawa Bakal Diresmikan;0.34;0.42000000000000004;Positive
+584;Jelang Asian Games, Masih Ada Venue yang Belum Rampung;0.34;0.42000000000000004;Positive
+585;Kementerian Kesehatan Serap Belanja Paling Tinggi;0.34;0.42000000000000004;Positive
+586;Jelang Asian Games, Jokowi Tinjau Gelora Bung Karno;0.34;0.42000000000000004;Positive
+587;Salah Momen Integrasi Tarif Tol JORR;0.34;0.42000000000000004;Positive
+588;Penyatuan Tarif Tol JORR, PUPR Kaji Diskon untuk Jarak Dekat;0.34;0.42000000000000004;Positive
+589;PUPR: Hitung-hitungan Tarif Tol JORR, Jauh-Dekat Rp15 Ribu;0.34;0.42000000000000004;Positive
+590;Bandingkan Tragedi 'Brexit', JK Klaim Mudik 2018 Lebih Baik;0.34;0.42000000000000004;Positive
+591;Polemik Tarif Integrasi JORR, PUPR Bantah Fadli Zon;0.34;0.42000000000000004;Positive
+592;Darmin: Kenaikan Tarif Tol JORR Terlalu Banyak Dikomentari;0.34;0.42000000000000004;Positive
+593;Polling: Mayoritas Pengendara Ogah Pakai Tol JORR Satu Tarif;0.34;0.42000000000000004;Positive
+594;Pemerintah Kembali Tunda Kenaikan Tarif Tol JORR;0.34;0.42000000000000004;Positive
+595;Fadli Zon: Kenaikan Tarif Tol JORR Hanya Memeras Rakyat;0.34;0.42000000000000004;Positive
+596;Ribuan Kendaraan Pemudik Berangsur Balik ke Jakarta;0.34;0.42000000000000004;Positive
+597;'Rest Area' di Ruas Tol Fungsional Batang-Pemalang Ditambah;0.34;0.42000000000000004;Positive
+598;ALI: Satu Tarif Tol JORR Tak Ampuh Pangkas Biaya Logistik;0.34;0.42000000000000004;Positive
+599;Pro Kontra Penyatuan Tarif Tol JORR;0.34;0.42000000000000004;Positive
+600;Menteri Siti Temukan Sampah oleh Pemudik di Tol;0.34;0.42000000000000004;Positive
+601;Menhub Sebut Jembatan Kali Kuto Dibuka Fungsional Sore Ini;0.34;0.42000000000000004;Positive
+602;Satu Tarif Tol JORR Urung Terlaksana Hari Ini;0.34;0.42000000000000004;Positive
+603;PUPR Gandeng Lemsaneg Awasi Program FLPP;0.34;0.42000000000000004;Positive
+604;Tarif Tol Medan-Tebing Tinggi Seksi I Gratis Sampai 22 Juni;0.34;0.42000000000000004;Positive
+605;Kapolda Larang Mobil Reyot Melintas di Jalur Kenteng;0.34;0.42000000000000004;Positive
+606;Jalur Kenteng Macet Parah, Sistem Buka-Tutup Diterapkan;0.34;0.42000000000000004;Positive
+607;Guns N' Roses Bakal Tampil di Stadion GBK November 2018;0.34;0.42000000000000004;Positive
+608;PUPR Butuh Rp138,3 Triliun Bangun Infrastruktur 2019;0.34;0.42000000000000004;Positive
+609;Trans Papua Barat Segera Diresmikan;0.34;0.42000000000000004;Positive
+610;Tol Trans Sumatera Gratis, Pemudik Padati Jalur Bakauheni;0.34;0.42000000000000004;Positive
+611;PDIP Anggap Janggal OTT Wali Kota Blitar oleh KPK;0.34;0.42000000000000004;Positive
+612;Tersangka Suap, Eks Bupati Tulungagung Serahkan diri ke KPK;0.34;0.42000000000000004;Positive
+613;Jalur Mudik Alternatif dari Banten ke Surabaya;0.34;0.42000000000000004;Positive
+614;KPK Geledah Rumah Bupati Tulungagung Nonaktif Syahri Mulyo;0.34;0.42000000000000004;Positive
+615;Wali Kota Blitar Samanhudi Anwar Resmi Ditahan KPK;0.34;0.42000000000000004;Positive
+616;Besok, Tol Semarang Berlakukan Satu Tarif;0.34;0.42000000000000004;Positive
+617;KPK Minta Wali Kota Blitar-Bupati Tulungagung Serahkan Diri;0.34;0.42000000000000004;Positive
+618;Kronologi Bupati Halmahera Timur Terima Suap Rp6,3 Miliar;0.34;0.42000000000000004;Positive
+619;Pemerintah Gratiskan Pintu Tol Brexit Sampai Lebaran;0.34;0.42000000000000004;Positive
+620;Tol Fungsional Solo-Ngawi Layak Digunakan Pemudik;0.34;0.42000000000000004;Positive
+621;BUJT Akui Dampak Pemberian Diskon Terhadap Pendapatan;0.34;0.42000000000000004;Positive
+622;Realisasi Diskon 10 Persen Ruas Tol Bergantung Kebijakan BUJT;0.34;0.42000000000000004;Positive
+623;KPK Periksa Wabup Terkait Suap Bupati Bengkulu Selatan;0.34;0.42000000000000004;Positive
+624;Zumi Zola Disebut Ajukan Diri Jadi Justice Collaborator;0.34;0.42000000000000004;Positive
+625;PUPR Terbitkan Surat Edaran BUMN Tak Garap Proyek Rp100 M;0.34;0.42000000000000004;Positive
+626;Fungsional Saat Lebaran, Tol Pemalang- Batang Masih Gelap;0.34;0.42000000000000004;Positive
+627;Jalur Mudik di Pantura Belum 100 Persen Siap;0.34;0.42000000000000004;Positive
+628;Jasa Marga akan Terapkan Sistem Satu Tarif untuk Tol Semarang;0.34;0.42000000000000004;Positive
+629;Proyek Jalan Lintas Timur Sumatra Dibidik Jalan Maret 2019;0.34;0.42000000000000004;Positive
+630;Jadwal dan Tarif Kereta Api Bandara Minangkabau;0.34;0.42000000000000004;Positive
+631;YLKI Minta Tempat Peristirahatan di Jalan Tol Diaudit;0.34;0.42000000000000004;Positive
+632;Pemerintah Setop Pengerjaan Jalan 10 Hari Sebelum Lebaran;0.34;0.42000000000000004;Positive
+633;KPK Geledah Sejumlah Lokasi Terkait Bupati Bengkulu Selatan;0.34;0.42000000000000004;Positive
+634;Mudik Jakarta-Surabaya via Tol, Siapkan Rp344 Ribu di e-Toll;0.34;0.42000000000000004;Positive
+635;Pekan Depan, Komite Tetapkan Calon Komisioner BP Tapera;0.34;0.42000000000000004;Positive
+636;Tarif Tol Bakal Diskon saat Mudik Lebaran 2018;0.34;0.42000000000000004;Positive
+637;Jokowi Soal Diskon Tarif Tol Mudik: Itu Urusan Operator;0.34;0.42000000000000004;Positive
+638;KPK Perpanjang Masa Penahanan Bupati Halmahera Timur;0.34;0.42000000000000004;Positive
+639;Sekolah dan Karyawan Tidak Libur Saat Asian Games 2018;0.34;0.42000000000000004;Positive
+640;Selain Emas 1,9 Kg, KPK Sita Jeep Rubicon Bawahan Sri Mulyani;0.34;0.42000000000000004;Positive
+641;Kronologi OTT Anggota DPR Amin Santono oleh KPK;0.34;0.42000000000000004;Positive
+642;PUPR Klaim Jumlah TKA Sektor Konstruksi Hanya 2 Ribu;0.34;0.42000000000000004;Positive
+643;KPK Tetapkan Bupati Mojokerto Tersangka Dua Kasus Gratifikasi;0.34;0.42000000000000004;Positive
+644;Pembiayaan Proyek Infrastruktur Non-APBN Capai Rp55,6 Triliun;0.34;0.42000000000000004;Positive
+645;Jokowi Soal Rupiah Nyaris Rp14 Ribu: Semua Mata Uang Melemah;0.34;0.42000000000000004;Positive
+646;Belanja Infrastruktur PUPR Baru 14 Persen dari Target 2018;0.34;0.42000000000000004;Positive
+647;Kebut Asian Games, Sandi Ingin Jakpro Tambah Jam Kerja;0.34;0.42000000000000004;Positive
+648;Temani JK Tinjau Venue Asian Games, Sandi Telat Datang;0.34;0.42000000000000004;Positive
+649;VIDEO: Mengintip Rusun Khusus Lansia;0.34;0.42000000000000004;Positive
+650;VIDEO: Jokowi Ledek Menteri Susi Ingin Jadi Wapres;0.34;0.42000000000000004;Positive
+651;Jokowi Sindir Menteri Susi Ingin Jadi Cawapres;0.34;0.42000000000000004;Positive
+652;Jokowi Minta Perencanaan Renovasi Banjarnegara Kelar Sebulan;0.34;0.42000000000000004;Positive
+653;Senyum Jokowi dan Tak Ingin Direcoki Elektabilitas Tinggi;0.34;0.42000000000000004;Positive
+654;Jembatan di Pantura akan Diaudit Sebelum Mudik Lebaran;0.34;0.42000000000000004;Positive
+655;Perbaikan Jembatan Widang Diperkirakan Rampung Sebelum Mudik;0.34;0.42000000000000004;Positive
+656;Anggaran Gedung DPR Belum Cair, Fahri Sindir Pertemuan IMF;0.34;0.42000000000000004;Positive
+657;Pemerintah Restui KPR FLPP untuk Program DP Rp0 Anies-Sandi;0.34;0.42000000000000004;Positive
+658;Polisi Selidiki Dugaan Kelalaian dalam Roboh Jembatan Widang;0.34;0.42000000000000004;Positive
+659;Basuki Dapat 'Lampu Hijau' Ganti 8 Proyek Bendungan Jokowi;0.34;0.42000000000000004;Positive
+660;Jembatan Widang Ambruk, Menhub Siapkan Rekayasa Lalu Lintas;0.34;0.42000000000000004;Positive
+661;Pemerintah Tambah Cuti Bersama Lebaran Jadi Delapan Hari;0.34;0.42000000000000004;Positive
+662;PUPR Pastikan Jembatan Widang Beroperasi Sebelum Lebaran;0.34;0.42000000000000004;Positive
+663;THR PNS Diharapkan Cair Dua Pekan Jelang Lebaran;0.34;0.42000000000000004;Positive
+664;Evakuasi Truk di Jembatan Tuban-Lamongan Gunakan Crane;0.34;0.42000000000000004;Positive
+665;VIDEO: Proses Evakuasi Korban Ambruknya Jembatan Tumaluntung;0.34;0.42000000000000004;Positive
+666;Jembatan Widang Ambruk, Kerugian Materiil Capai Rp40 Miliar;0.34;0.42000000000000004;Positive
+667;BPS: Upah Buruh Tani Naik Jadi Rp51.598 per Hari per Orang;0.34;0.42000000000000004;Positive
+668;Tol Brebes Timur-Semarang Bisa Dilintasi Saat Mudik Lebaran;0.34;0.42000000000000004;Positive
+669;Jokowi Instruksikan Bangun 1,5 Juta Rumah ASN, TNI, dan Polri;0.34;0.42000000000000004;Positive
+670;Proyek Tanggul Laut Jakarta 4,5 Km Rampung Agustus 2018;0.34;0.42000000000000004;Positive
+671;Mendes Klaim 15 Ribu Desa Tertinggal Sudah 'Naik Kelas';0.34;0.42000000000000004;Positive
+672;Venue Menembak Belum Ditentukan Jelang Asian Para Games;0.34;0.42000000000000004;Positive
+673;Bedah Rumah Masyarakat, PUPR Rogoh Rp3,2 Triliun;0.34;0.42000000000000004;Positive
+674;Anggaran DPR Rp7,7 Triliun Banyak Dihabiskan Buat Gedung Baru;0.34;0.42000000000000004;Positive
+675;Penuhi Panggilan KPK, Zumi Bungkam pada Wartawan;0.34;0.42000000000000004;Positive
+676;Menteri Rini akan Buka Jalur Transportasi di Ciliwung;0.34;0.42000000000000004;Positive
+677;Genjot Pajak Demi Bayar Utang Negara;0.34;0.42000000000000004;Positive
+678;Bulan Ini Giliran Petinggi Wijaya Karya dan PTPP Diganti;0.34;0.42000000000000004;Positive
+679;Perusahaan Tekstil Pembuang Limbah Citarum Segera Diadili;0.34;0.42000000000000004;Positive
+680;Bendungan Jatibarang jadi Contoh Pembangkit Listrik Surya;0.34;0.42000000000000004;Positive
+681;Kemenkeu Kaji Tambahan Anggaran Asian Games 2018 Rp1,1 T;0.34;0.42000000000000004;Positive
+682;Jokowi Ungkap Alasan BUMN 'Ogah' Garap Proyek Bareng Daerah;0.34;0.42000000000000004;Positive
+683;Proyek Citarum Jokowi 'Sedot' Utang Jepang Rp390 Miliar;0.34;0.42000000000000004;Positive
+684;Proyek Mega Cita Citarum yang 'Mangkrak' di Era SBY;0.34;0.42000000000000004;Positive
+685;Jadi Akses Barang ke Jakarta, Pelabuhan Ratu Berfungsi 2019;0.34;0.42000000000000004;Positive
+686;KPK Kembali Panggil Zumi Zola Pekan Ini;0.34;0.42000000000000004;Positive
+687;BPK 'Cium' Permasalahan dalam Penetapan Tarif Tol;0.34;0.42000000000000004;Positive
+688;Jamin Pasokan Air Saat Asian Games, Pemerintah Tuntaskan SPAM;0.34;0.42000000000000004;Positive
+689;Pemerintah Pangkas Tarif Truk yang Melintasi 39 Ruas Tol;0.34;0.42000000000000004;Positive
+690;Jonan Harap Studi Pembangkit Listrik Arus Laut Segera Rampung;0.34;0.42000000000000004;Positive
+691;Jokowi Ingin Tarif Tol Turun untuk Kendaraan Logistik Saja;0.34;0.42000000000000004;Positive
+692;PDIP Sindir Partai Baru yang Usulkan Cawapres untuk Jokowi;0.34;0.42000000000000004;Positive
+693;Investor Minta Penurunan Tarif Tak Ganggu Bisnis Jalan Tol;0.34;0.42000000000000004;Positive
+694;Konsesi Tol Diperpanjang, Pemerintah Siapkan Skema Bantuan;0.34;0.42000000000000004;Positive
+695;Dua Menteri Ekonomi Bahas Dua Skema Penurunan Tarif Tol;0.34;0.42000000000000004;Positive
+696;Lelang Paket Pekerjaan Kementerian PUPR Baru 60,9 Persen;0.34;0.42000000000000004;Positive
+697;Komisioner BP Tapera 'Haram' dari Partai Politik;0.34;0.42000000000000004;Positive
+698;Pulau Mules, Surga Surfing dan Selam di Kabupaten Manggarai;0.34;0.42000000000000004;Positive
+699;PSI Usulkan AHY untuk Jabat Menteri Pertahanan;0.34;0.42000000000000004;Positive
+700;Tarif Tol Turun, Pengawasan Kendaraan Berat Diperketat;0.34;0.42000000000000004;Positive
+701;Jokowi: Tarif Tol Turun Akhir Bulan;0.34;0.42000000000000004;Positive
+702;Tarif Tol Turun, Pemerintah Akan Kasih Keringanan Pajak BUJT;0.34;0.42000000000000004;Positive
+703;Beroperasi 2019, BP Tapera Tampung Aset Bapertarum PNS Rp12 T;0.34;0.42000000000000004;Positive
+704;Pemerintah Urung Lebur Asabri dengan Bapertarum PNS;0.34;0.42000000000000004;Positive
+705;Bapertarum PNS Berakhir, Seleksi Komisioner BP Tapera Dimulai;0.34;0.42000000000000004;Positive
+706;Tarif Tol Bakal Turun Sebelum Lebaran;0.34;0.42000000000000004;Positive
+707;BUMN Karya Tak Akan Sentuh Proyek Kurang Dari Rp100 Miliar;0.34;0.42000000000000004;Positive
+708;Kewajiban Tambah Direktur Keselamatan Hanya untuk Waskita;0.34;0.42000000000000004;Positive
+709;Empat Direksi Waskita Akan 'Dipecat' Terkait Kecelakaan Kerja;0.34;0.42000000000000004;Positive
+710;Terima Suap Proyek Jalan, Politikus PKS Divonis 9 Tahun;0.34;0.42000000000000004;Positive
+711;Kecelakaan Kerja, Izin Usaha Waskita Berpotensi Dibekukan;0.34;0.42000000000000004;Positive
+712;Menteri PUPR Mengaku Pernah Kena Denda Pajak Rp80 Juta;0.34;0.42000000000000004;Positive
+713;Penjualan Sukuk Ritel Tahun Ini Melempem Cuma Rp8,43 Triliun;0.34;0.42000000000000004;Positive
+714;Niat Meriung Tarminah Berujung Maut di Pasar Rumput;0.34;0.42000000000000004;Positive
+715;Kementerian PUPR Bentuk Satgas Awasi Pembangunan Rumah;0.34;0.42000000000000004;Positive
+716;Air Tanah, Anies dan Derita 'Karat Besi' Warga Kalideres;0.34;0.42000000000000004;Positive
+717;Direksi BUMN Karya yang Dicopot Terancam Masuk Daftar Hitam;0.34;0.42000000000000004;Positive
+718;PUPR Minta Anies Bebaskan Bidara Cina Demi Sodetan Ciliwung;0.34;0.42000000000000004;Positive
+719;Pemenuhan Kebutuhan Air Jakarta dari PAM Jaya Masih 60 Persen;0.34;0.42000000000000004;Positive
+720;Menteri Basuki Minta Rini Segera Ganti Direksi Waskita;0.34;0.42000000000000004;Positive
+721;Menteri Basuki Usul Direksi BUMN Karya Kena Sanksi;0.34;0.42000000000000004;Positive
+722;Trans Siap Bangun The Trans Icon Rp2 Triliun di Surabaya;0.34;0.42000000000000004;Positive
+723;Merasa Tertipu, Puluhan Konsumen Sipoa Grup Mengadu ke DPR;0.34;0.42000000000000004;Positive
+724;Wisata Musik, Potensi yang Diabaikan;0.34;0.42000000000000004;Positive
+725;Dugaan Korupsi Underpass Bandara, Waskita Janji Kooperatif;0.34;0.42000000000000004;Positive
+726;Ruas Tol Salatiga-Kartasura Ditarget Layani Arus Mudik 2018;0.34;0.42000000000000004;Positive
+727;Polisi Ciduk Dua Jurnalis Diduga Cemarkan Nama Kapolda Sumut;0.34;0.42000000000000004;Positive
+728;Batam Bakal Bangun LRT Senilai Rp13 Triliun;0.34;0.42000000000000004;Positive
+729;Jokowi Tagih Detail Progres Persiapan Asian Games;0.34;0.42000000000000004;Positive
+730;Kementerian PUPR Studi Kelayakan Proyek Jembatan Batam-Bintan;0.34;0.42000000000000004;Positive
+731;Rumah Sengketa Halangi Proyek Tol Semarang-Batang;0.34;0.42000000000000004;Positive
+732;Usai Evaluasi, Kemenhub Berambisi Akselerasi Proyek Elevated;0.34;0.42000000000000004;Positive
+733;Usai Waskita, Menteri BUMN Pastikan Copot BUMN Karya Lainnya;0.34;0.42000000000000004;Positive
+734;Dua Proyek Preservasi Jalan Nasional Ditawarkan Berskema KPBU;0.34;0.42000000000000004;Positive
+735;Kementerian PUPR: 38 Proyek Jalan Layang Lolos Hasil Evaluasi;0.34;0.42000000000000004;Positive
+736;Pemerintah Kebut Proyek Jalan Paralel Perbatasan Kalbar;0.34;0.42000000000000004;Positive
+737;Sanksi Kecelakaan Kerja, Direksi Waskita Karya Bakal Dicopot;0.34;0.42000000000000004;Positive
+738;Jalan Trans Papua Barat Sepanjang 1.070 KM Resmi Tersambung;0.34;0.42000000000000004;Positive
+739;Bau Tak Sedap Sungai Dekat Wisma Atlet Jadi Fokus Pemprov DKI;0.34;0.42000000000000004;Positive
+740;Dapat Tugas dari Jokowi, Anies Sebut 2018 Tahun Kerja;0.34;0.42000000000000004;Positive
+741;Rini Bakal Ungkap Hasil Evaluasi Direksi BUMN Karya saat RUPS;0.34;0.42000000000000004;Positive
+742;Raih Peluang, Saham Konstruksi Bisa Jadi 'Menu' Pekan Ini;0.34;0.42000000000000004;Positive
+743;DPR Nilai Moratorium Proyek Infrastruktur Telat Dilakukan;0.34;0.42000000000000004;Positive
+744;Jadi BP Tapera, Kemenkeu Jamin Saldo Bapertarum PNS;0.34;0.42000000000000004;Positive
+745;Marga Mandala Klaim Penugasan Tol Merak ke Pelabuhan;0.34;0.42000000000000004;Positive
+746;Cerita Pekerja Proyek Infrastruktur yang Digenjot;0.34;0.42000000000000004;Positive
+747;Usai Proyek Elevated, PUPR Evaluasi 32 Proyek Jalan Tol;0.34;0.42000000000000004;Positive
+748;Asabri Bantah Peleburan dengan Bapertarum PNS jadi BP Tapera;0.34;0.42000000000000004;Positive
+749;Tol Jakarta-Cikampek Terapkan Ganjil-Genap Mulai 12 Maret;0.34;0.42000000000000004;Positive
+750;Bentuk BP Tapera, Pemerintah Lebur Bapertarum PNS dan Asabri;0.34;0.42000000000000004;Positive
+751;Sri Mulyani: Moratorium Proyek Baik untuk Jangka Panjang;0.34;0.42000000000000004;Positive
+752;Politikus PKS Yudi Widiana Dituntut 10 Tahun Penjara;0.34;0.42000000000000004;Positive
+753;DPR : Pengawasan SOP Proyek Jalan Layang Mendesak;0.34;0.42000000000000004;Positive
+754;Wiranto Minta Kecelakaan Infrastruktur Tak Dikaitkan Sabotase;0.34;0.42000000000000004;Positive
+755;Persatuan Insinyur: Ada Kegagalan Heavy Lifting Tol Becakayu;0.34;0.42000000000000004;Positive
+756;Menteri Rini: Setiap Proyek Akan Diawasi Secara Ketat;0.34;0.42000000000000004;Positive
+757;Ditunda Sementara, Anies Pastikan Proyek LRT Tak Molor;0.34;0.42000000000000004;Positive
+758;Pemerintah Pastikan Penanggung Jawab Proyek Kena Sanksi;0.34;0.42000000000000004;Positive
+759;Evaluasi Infrastruktur, Anies Minta Proyek LRT Tak Disetop;0.34;0.42000000000000004;Positive
+760;Evaluasi Proyek Infrastruktur 'Elevated' Diserahkan pada AKI;0.34;0.42000000000000004;Positive
+761;Evaluasi Tragedi Infrastruktur, Proyek LRT Ikut Disetop;0.34;0.42000000000000004;Positive
+762;Belum Semua Venue Asian Games di Jakarta Capai 100 Persen;0.34;0.42000000000000004;Positive
+763;Menteri Rini Bakal Evaluasi Kecelakaan Tol Becakayu;0.34;0.42000000000000004;Positive
+764;Proyek Elevated di Seluruh Indonesia Disetop Sementara;0.34;0.42000000000000004;Positive
+765;Polisi Periksa Saksi Ambruknya Tiang Tol Becakayu;0.34;0.42000000000000004;Positive
+766;Jokowi Minta Menteri PUPR Awasi Ketat Proyek Infrastruktur;0.34;0.42000000000000004;Positive
+767;Proyek Ambruk, Saham Waskita Karya Melemah;0.34;0.42000000000000004;Positive
+768;Tiang Ambruk, Proyek Elevated Tol Becakayu Dihentikan;0.34;0.42000000000000004;Positive
+769;Bapertarum PNS Akan Beralih Jadi BP Tapera Maret 2018;0.34;0.42000000000000004;Positive
+770;Pemprov DKI Batal Urunan Dana Renovasi Stadion GBK;0.34;0.42000000000000004;Positive
+771;Dirut GBK: Lebih Baik Pintu Rusak Ketimbang Ada Korban Jiwa;0.34;0.42000000000000004;Positive
+772;Menteri Basuki: 2018, Target Bangun Rumah Hanya 900 Ribu Unit;0.34;0.42000000000000004;Positive
+773;Proyek LRT Tersendat Jelang Tenggat Asian Games 2018;0.34;0.42000000000000004;Positive
+774;JK Respons Perusakan Stadion GBK oleh Suporter;0.34;0.42000000000000004;Positive
+775;Suplai Air Mendesak, Tiga Bendungan Sulsel Dipercepat;0.34;0.42000000000000004;Positive
+776;Anies: Tegur dan Laporkan Para Perusak Stadion GBK;0.34;0.42000000000000004;Positive
+777;Tahun Lalu, Pembangunan Rumah Belum Tembus Satu Juta Unit;0.34;0.42000000000000004;Positive
+778;KPK Dalami Dana Kontraktor Terkait Suap Bupati Mustafa;0.34;0.42000000000000004;Positive
+779;Kronologi OTT Suap Pinjaman Daerah Lampung Tengah;0.34;0.42000000000000004;Positive
+780;Pemprov DKI Bangun Rusun Warga Terdampak Sodetan Ciliwung;0.34;0.42000000000000004;Positive
+781;Perintah Zumi Zola, Anak Buah Serahkan Suap ke Anggota DPRD;0.34;0.42000000000000004;Positive
+782;Golkar Minta Pemerintah Wujudkan Kedaulatan Pangan;0.34;0.42000000000000004;Positive
+783;Bupati Halmahera Timur Bantah Terima Uang Suap 6,3 Milyar;0.34;0.42000000000000004;Positive
+784;Sudah Aman Dikunjungi, Puncak Masih Sepi Turis;0.34;0.42000000000000004;Positive
+785;Kenaikan Harga Rumah Diperkirakan Berlanjut di Awal 2018;0.34;0.42000000000000004;Positive
+786;Mulai 15 Februari, Tarif Tol Cipularang dan Purbaleunyi Naik;0.34;0.42000000000000004;Positive
+787;VIDEO: Warung-warung di Puncak Dibongkar;0.34;0.42000000000000004;Positive
+788;Atasi Stunting, Pemerintah Perbaiki Infrastruktur Sanitasi;0.34;0.42000000000000004;Positive
+789;Pemprov DKI Pastikan Relokasi Warga Bantaran Sungai Ciliwung;0.34;0.42000000000000004;Positive
+790;Hindari Kontroversi, Anies Enggan Bahas Normalisasi Sungai;0.34;0.42000000000000004;Positive
+791;Sidang Suap, Politikus PKS Sebut Menteri PUPR 'Imam Al Azhar';0.34;0.42000000000000004;Positive
+792;Tersangka Kedua Kali, Politikus PKS Diduga Cuci Uang Rp20 M;0.34;0.42000000000000004;Positive
+793;Rini Bantah Percepatan Proyek BUMN Picu Kecelakaan Kerja;0.34;0.42000000000000004;Positive
+794;Tanah Keropos, Kawasan Pinus dan Puncak Pass Rawan Longsor;0.34;0.42000000000000004;Positive
+795;Bangun Kota Lama Semarang, Pemerintah Kucurkan Rp156 Miliar;0.34;0.42000000000000004;Positive
+796;PUPR Percepat Pembangunan Pengolahan Air Limbah Jakarta;0.34;0.42000000000000004;Positive
+797;PPP Nilai Kritikan Proyek Jokowi untuk Pilpres Terlalu Dini;0.34;0.42000000000000004;Positive
+798;Gubernur Jabar Dorong Normalisasi Hutan Puncak;0.34;0.42000000000000004;Positive
+799;JK Duga Kecelakaan Proyek karena Operator Kebanyakan Begadang;0.34;0.42000000000000004;Positive
+800;Apartemen Tak Juga Dibangun, Sipoa Grup Janji Kembalikan Dana;0.34;0.42000000000000004;Positive
+801;Fadli Zon Duga Jokowi Kebut Proyek untuk Amunisi Pilpres 2019;0.34;0.42000000000000004;Positive
+802;VIDEO: Longsor di Puncak Bogor, Akses Jalan Tertutup;0.34;0.42000000000000004;Positive
+803;Upaya Indocement Raup Cuan di Tengah Lubernya Pasokan Semen;0.34;0.42000000000000004;Positive
+804;Hutama Karya Pastikan Santunan Korban Crane Ambruk Jatinegara;0.34;0.42000000000000004;Positive
+805;BTN Incar Pendanaan Non Konvensional Rp18 Triliun;0.34;0.42000000000000004;Positive
+806;Sempat Disetop, BTN Salurkan Kembali KPR Skema FLPP;0.34;0.42000000000000004;Positive
+807;Menteri PUPR Bakal Standardisasi Kualitas Rumah Subsidi;0.34;0.42000000000000004;Positive
+808;KPK Tetapkan Bupati Halmahera Timur Tersangka Kasus Suap;0.34;0.42000000000000004;Positive
+809;Kemenhub Fokus Persiapan Mudik Lebaran 2018;0.34;0.42000000000000004;Positive
+810;DPR dan Pemerintah akan Rapat soal Kasus Luar Biasa di Asmat;0.34;0.42000000000000004;Positive
+811;Menteri Basuki Gaet BMKG untuk Amankan Infrastruktur;0.34;0.42000000000000004;Positive
+812;Daerah Rawan Gempa Meningkat, Bangunan Harus SNI;0.34;0.42000000000000004;Positive
+813;Kampung Pelangi Bakal Hadir di Kota Tarakan;0.34;0.42000000000000004;Positive
+814;Pemerintah Belum Sanksi Kontraktor Proyek Ambruk;0.34;0.42000000000000004;Positive
+815;Rampung, Tiga Daerah Dapat Air dari Bendungan Sei Padang;0.34;0.42000000000000004;Positive
+816;Pemilik Gedung BEI Biayai Perawatan Korban Selasar Roboh;0.34;0.42000000000000004;Positive
+817;Daerah Terdampak Gempa Lebak Meluas Menjadi 74 Desa;0.34;0.42000000000000004;Positive
+818;Tugiyo, DP Nol Rupiah dan Harapan untuk Anies-Sandi;0.34;0.42000000000000004;Positive
+819;K/L Minta Tambah Anggaran, Sri Mulyani Imbau Belanja Efektif;0.34;0.42000000000000004;Positive
+820;YLKI: Kasus Umrah First Travel Capai 17.557 Aduan;0.34;0.42000000000000004;Positive
+821;Potensi Naik, Industri Kaji Perubahan Tarif Asuransi Gempa;0.34;0.42000000000000004;Positive
+822;Rumah DP Nol Rupiah Dijual Mulai Harga Rp185 Juta;0.34;0.42000000000000004;Positive
+823;Disparbud DKI-Kementerian PUPR Bahas Renovasi Museum Bahari;0.34;0.42000000000000004;Positive
+824;Pemerintah Sebut Dana Desa Bisa Kerek Konsumsi Rp90 Triliun;0.34;0.42000000000000004;Positive
+825;Polisi Sebut 14 Korban Selasar BEI Roboh Sudah Dipulangkan;0.34;0.42000000000000004;Positive
+826;Puslabfor Polri Ambil Sampel Logam dan Beton dari BEI;0.34;0.42000000000000004;Positive
+827;Gedung Tower II BEI Sudah Dapat Digunakan Besok;0.34;0.42000000000000004;Positive
+828;Selasar BEI yang Roboh Jarang Dilewati Pengunjung;0.34;0.42000000000000004;Positive
+829;PUPR Beberkan 2 Dugaan Sementara soal Selasar BEI yang Roboh;0.34;0.42000000000000004;Positive
+830;Selasar BEI Roboh, Pemprov DKI Dinilai Bertanggung Jawab;0.34;0.42000000000000004;Positive
+831;Jokowi Resmikan Stadion Utama Gelora Bung Karno;0.34;0.42000000000000004;Positive
+832;Jelang CPNS 2018, Tujuh Instansi Belum Beri Usulan Formasi;0.34;0.42000000000000004;Positive
+833;Timnas Indonesia vs Islandia, SUGBK Dijamin Tak Tergenang Air;0.34;0.42000000000000004;Positive
+834;Jelang Gelaran IMF 2018, Pemerintah Kembangkan Labuan Bajo;0.34;0.42000000000000004;Positive
+835;Omzet Pedagang Pasar Gembrong Tergerus Wacana Penggusuran;0.34;0.42000000000000004;Positive
+836;Kementerian PUPR Bangun 7 Bendungan Rp5,9 Triliun di NTT;0.34;0.42000000000000004;Positive
+837;Pajak dan Pahlawan Zaman Now;0.34;0.42000000000000004;Positive
+838;Jalan Trans Papua 4.330 Km Ditargetkan Tersambung di 2019;0.34;0.42000000000000004;Positive
+839;Siswa Tunanetra Menolak Sepeda Jokowi Demi Laptop;0.34;0.42000000000000004;Positive
+840;Kementerian PUPR Resmikan Dua Rusunawa di Jatim;0.34;0.42000000000000004;Positive
+841;Jasa Marga Bidik Bentangkan 175 KM Jalan Tol Baru;0.34;0.42000000000000004;Positive
+842;Anies Gandeng BI Bentuk Tim Muluskan KPR DP Nol Rupiah;0.34;0.42000000000000004;Positive
+843;Grider Tol Antasari Ambruk, Pemerintah Kaji Sanksi Kontraktor;0.34;0.42000000000000004;Positive
+844;Lelang Proyek PUPR Melorot, Cuma Rp13,8 Triliun;0.34;0.42000000000000004;Positive
+845;Cerita Elek Yo Band Kebanjiran Manggung dan Jokowi Manajer;0.34;0.42000000000000004;Positive
+846;Jokowi Sebut Dana Desa Rp12 Triliun Mulai Cair Bulan Ini;0.34;0.42000000000000004;Positive
+847;Trans Jawa Diklaim Siap Tampung Pemudik Tahun Depan;0.34;0.42000000000000004;Positive
+848;Girder Tol Depok-Antasari Ambruk, Proyek Dijamin Capai Target;0.34;0.42000000000000004;Positive
+849;Jokowi Instruksikan Menteri Kerja Cepat Demi Entas Kemiskinan;0.34;0.42000000000000004;Positive
+850;Jokowi: Elek Yo Band Bukti Kekompakan Kabinet Kerja;0.34;0.42000000000000004;Positive
+851;'Makna Tanpa Kelas di Balik Penampilan Jokowi';0.34;0.42000000000000004;Positive
+852;Persija Menyambut Baik Tawaran Pemkab Karawang;0.34;0.42000000000000004;Positive
+853;VIDEO: Menteri Kabinet Kerja Ngeband Bareng 'Elek Yo Band';0.34;0.42000000000000004;Positive
+854;Jalan Berliku Indonesia Menuju Kesuksesan Asian Games 2018;0.34;0.42000000000000004;Positive
+855;BRG Pulihkan Jutaan Hektare Lahan Gambut;0.34;0.42000000000000004;Positive
+856;Arah 2018: Emiten Konstruksi Jadi Menu Utama Bursa Saham;0.34;0.42000000000000004;Positive
+857;Mulai Tahun Depan, LMAN akan Kelola Aset Hulu Migas;0.34;0.42000000000000004;Positive
+858;Belanja Kementerian PUPR Tembus Rp81,4 Triliun;0.34;0.42000000000000004;Positive
+859;Jelang Akhir Tahun, Dana Pembebasan Tol Belum Semua Cair;0.34;0.42000000000000004;Positive
+860;Kemenpora Fokus Persiapan Wisma Atlet Asian Para Games 2018;0.34;0.42000000000000004;Positive
+861;Tanggap Darurat Dicabut, Pengungsi Gunung Agung Tetap Dijamin;0.34;0.42000000000000004;Positive
+862;Pemerintah Bidik Salurkan Rp4,5 Triliun KPR FLPP Tahun Depan;0.34;0.42000000000000004;Positive
+863;Kontraktor Pastikan Siap Bangun Jakarta Integrated Tunnel;0.34;0.42000000000000004;Positive
+864;Januari 2018, Kementerian PUPR Mulai Catat Pengembang Rumah;0.34;0.42000000000000004;Positive
+865;Jokowi Kenang Rambut Gondrong dan Celana Cutbray saat Kuliah;0.34;0.42000000000000004;Positive
+866;Pemerintah Kucurkan Rp25 Triliun Bayar Utang Pembebasan Lahan;0.34;0.42000000000000004;Positive
+867;Tanggul Laut yang Terhalang Janji Anies-Sandi Soal Reklamasi;0.34;0.42000000000000004;Positive
+868;VIDEO: Jalan Layang Tol Jakarta-Cikampek Rampung 2019;0.34;0.42000000000000004;Positive
+869;Ada 7 Menteri Kabinet Kerja Raih Bintang Bhayangkara;0.34;0.42000000000000004;Positive
+870;Bank Diminta Berperan Maksimal Dorong Satu Juta Rumah;0.34;0.42000000000000004;Positive
+871;Tol Wajib Nontunai, Transaksi e-Money Melonjak di Oktober;0.34;0.42000000000000004;Positive
+872;Presiden APC Soroti Persiapan Asian Para Games 2018;0.34;0.42000000000000004;Positive
+873;Pengoperasian Jalan Tol Baru Capai 332 Km;0.34;0.42000000000000004;Positive
+874;Politikus PKS Didakwa Terima Suap Terkait Proyek Jalan;0.34;0.42000000000000004;Positive
+875;Pemerintah Diminta Tak Asal Kerek Tarif Tol;0.34;0.42000000000000004;Positive
+876;Tarif di Lima Ruas Tol Naik Rp500-Rp1.500 per 8 Desember 2017;0.34;0.42000000000000004;Positive
+877;YLKI Protes Kenaikan Tarif Tol Dalam Kota;0.34;0.42000000000000004;Positive
+878;Siap-siap, Tarif Tol Dalam Kota Naik per 8 Desember 2017;0.34;0.42000000000000004;Positive
+879;3 Alternatif Markas Persija Selain GBK dan Patriot;0.34;0.42000000000000004;Positive
+880;Jokowi Berbahasa Sunda Resmikan Tol Soreang-Pasir Koja;0.34;0.42000000000000004;Positive
+881;Menpora Dampingi Presiden Jokowi Resmikan Lapangan di GBK;0.34;0.42000000000000004;Positive
+882;Jokowi Resmikan 4 Venue Asian Games 2018 di GBK;0.34;0.42000000000000004;Positive
+883;KPK Terima Pengembalian Suap RAPBD Jambi Ratusan Juta;0.34;0.42000000000000004;Positive
+884;KPK Geledah Kantor Gubernur Jambi Zumi Zola;0.34;0.42000000000000004;Positive
+885;KPK Jebloskan Empat Tersangka Suap APBD Jambi ke Penjara;0.34;0.42000000000000004;Positive
+886;Pemerintah Godok Proyek Pertama dengan Skema KPBU;0.34;0.42000000000000004;Positive
+887;Anak Buah Tersangka Suap APBD Jambi 2018 Diduga Rusak Barbuk;0.34;0.42000000000000004;Positive
+888;Menteri PUPR: DPR Kemungkinan Perlu Gedung Baru;0.34;0.42000000000000004;Positive
+889;KPK Tetapkan Empat Tersangka Dugaan Suap RAPBD Jambi 2018;0.34;0.42000000000000004;Positive
+890;Sandiaga Uno Berenang Jajal Arena Asian Games 2018;0.34;0.42000000000000004;Positive
+891;Trik Menpar Dorong Homestay di Danau Toba;0.34;0.42000000000000004;Positive
+892;Homestay di Danau Toba Kini Makin Mudah;0.34;0.42000000000000004;Positive
+893;Menpar Arief Yahya Resmikan 2 Homestay Sigapiton;0.34;0.42000000000000004;Positive
+894;Menpar Dorong Homestay di Lembah Bakara, Sumut;0.34;0.42000000000000004;Positive
+895;Wali Kota Mojokerto Punya Andil Muluskan Suap APBD;0.34;0.42000000000000004;Positive
+896;KPK Tetapkan Wali Kota Mojokerto Tersangka Suap APBD;0.34;0.42000000000000004;Positive
+897;Aksi Sri Mulyani Bermain Sepak Bola di SUGBK;0.34;0.42000000000000004;Positive
+898;Dirut Persija Ramaikan Pemilihan Calon Ketum Pelti;0.34;0.42000000000000004;Positive
+899;Investor Pasar Modal Bakal Bertambah 4,5 Juta Berkat Tapera;0.34;0.42000000000000004;Positive
+900;PUPR Bakal Bangun Ruang Publik di Empat Destinasi Wisata;0.34;0.42000000000000004;Positive
+901;Kemenhub Kejar Pembangunan Jalan Tol dan Jalur Double Track;0.34;0.42000000000000004;Positive
+902;Rincian Kenaikan Tarif Tol Tangerang-Merak Mulai 21 November;0.34;0.42000000000000004;Positive
+903;Berkas Lengkap, Bekas Ketua Komisi V DPR Segera Diadili;0.34;0.42000000000000004;Positive
+904;Pembangunan Gedung Baru DPR Harus atas Rekomendasi PUPR;0.34;0.42000000000000004;Positive
+905;NasDem Resmi Usung Jokowi di Pilpres 2019;0.34;0.42000000000000004;Positive
+906;Suap Proyek Jalan, Politikus PKB Divonis 9 Tahun Penjara;0.34;0.42000000000000004;Positive
+907;Fahri Hamzah Ingin Kompleks Parlemen Seperti di AS;0.34;0.42000000000000004;Positive
+908;Jepang Cairkan Pembiayaan Pelabuhan Patimban Secara Bertahap;0.34;0.42000000000000004;Positive
+909;INASGOC Berharap Waktu Tempuh Wisma Atlet ke GBK Dipangkas;0.34;0.42000000000000004;Positive
+910;Jasa Marga Usulkan Kenaikan Tarif Tujuh Ruas Tol;0.34;0.42000000000000004;Positive
+911;Investor Korsel Bakal Kucurkan US$500 Juta untuk LRT Fase II;0.34;0.42000000000000004;Positive
+912;Sekeping Surga di Ekor “Borneo” Kalimantan;0.34;0.42000000000000004;Positive
+913;Sandi Pastikan Konsep Rumah DP Rp0 Diumumkan Tengah November;0.34;0.42000000000000004;Positive
+914;Program Padat Karya Serap 263.646 Tenaga Kerja Tahun Depan;0.34;0.42000000000000004;Positive
+915;PNS dan Pegawai BUMN Bakal Jadi Peserta Tapera di 2019;0.34;0.42000000000000004;Positive
+916;Kajian PUPR soal Gedung Baru DPR Selesai Pekan Depan;0.34;0.42000000000000004;Positive
+917;Menpora Masuk Lima Besar Menteri Berprestasi Kabinet Jokowi;0.34;0.42000000000000004;Positive
+918;DP Nol Rupiah Memungkinkan Jika Dijamin Pemerintah;0.34;0.42000000000000004;Positive
+919;VIDEO: Inovasi Aspal Campur Limbah Plastik Kresek;0.34;0.42000000000000004;Positive
+920;Mengukur Keampuhan Nontunai 'Sunat' Kepadatan Jalan Tol;0.34;0.42000000000000004;Positive
+921;VIDEO: Transaksi Nontunai Tol Resmi Berlaku;0.34;0.42000000000000004;Positive
+922;Pimpinan DPR Beda Pendapat soal Anggaran Gedung Baru;0.34;0.42000000000000004;Positive
+923;Target Pengentasan Kawasan Kumuh Baru Tercapai 17,6 Persen;0.34;0.42000000000000004;Positive
+924;Bank Diminta Garap Drive Thru Top Up Uang Elektronik di Tol;0.34;0.42000000000000004;Positive
+925;Sandiaga: Usai Alexis, Reklamasi Tinggal Tunggu Waktu;0.34;0.42000000000000004;Positive
+926;Penjualan Kartu Tol Subsidi Diperpanjang Sampai 14 November;0.34;0.42000000000000004;Positive
+927;Besok, Transaksi Tol Non Tunai Resmi Berlaku;0.34;0.42000000000000004;Positive
+928;Jelang Tol Wajib Uang Elektronik, Kominfo Buat Kartu Sendiri;0.34;0.42000000000000004;Positive
+929;Lippo Group Topping Off Dua Menara Apartemen Meikarta;0.34;0.42000000000000004;Positive
+930;Kadin Sebut Jokowi Setuju Merger dan Jual Anak Cucu BUMN;0.34;0.42000000000000004;Positive
+931;Sudah 91 Persen Jalan Tol Gunakan Uang Elektronik;0.34;0.42000000000000004;Positive
+932;Gedung Baru DPR, Rp601 Miliar untuk Konsultan Perencanaan;0.34;0.42000000000000004;Positive
+933;Kementerian dan Lembaga Bisa Mulai Pengadaan 2018 di Desember;0.34;0.42000000000000004;Positive
+934;Kasus Suap Jalan, Politikus PKB Dituntut 12 Tahun Penjara;0.34;0.42000000000000004;Positive
+935;Terpompa Sentimen Positif, IHSG Bertahan di Zona Hijau;0.34;0.42000000000000004;Positive
+936;Kereta Cepat Jakarta-Bandung Terintegrasi Bandara Kertajati;0.34;0.42000000000000004;Positive
+937;Di Bawah Bendera Investasi ala 3 Tahun Jokowi;0.34;0.42000000000000004;Positive
+938;Tiga Tahun Jokowi, 300 Kilometer Jalan Tol Baru Terbentang;0.34;0.42000000000000004;Positive
+939;SMF Yakin KPR Syariah Bergairah dengan Standar Operasi;0.34;0.42000000000000004;Positive
+940;3 Tahun Jokowi: Pemerintah Bangun 2.623 KM Jalan Baru;0.34;0.42000000000000004;Positive
+941;Menpora Puji Kinerja Basuki Soal Persiapan Asian Games 2018;0.34;0.42000000000000004;Positive
+942;Banten Siap Terapkan Aspal Berbahan Plastik;0.34;0.42000000000000004;Positive
+943;Jasa Marga Raih Kredit Rp7,75 T untuk Dua Jalan Tol;0.34;0.42000000000000004;Positive
+944;Gubernur Bengkulu Marah Anak Buah Tak 'Kawal' Proyek Pesanan;0.34;0.42000000000000004;Positive
+945;Gubernur Bengkulu dan Isteri Diduga 'Palak' Kontraktor Proyek;0.34;0.42000000000000004;Positive
+946;Beli Rusun Rp7 Juta per Meter Bonus Kereta;0.34;0.42000000000000004;Positive
+947;BUMN Bangun Tiga Rusun di Stasiun Pasar Senen Rp500 Miliar;0.34;0.42000000000000004;Positive
+948;Pemerintah Siapkan Rp20 Triliun Garap Infrastruktur Sumatera;0.34;0.42000000000000004;Positive
+949;Bursa Efek Catatkan Surat Utang Waskita Karya Rp3 Triliun;0.34;0.42000000000000004;Positive
+950;Proyek KA Semi Cepat Jakarta-Surabaya Mulai Dibangun 2018;0.34;0.42000000000000004;Positive
+951;BPJT Klaim 72 Persen Gerbang Tol Sudah Non Tunai;0.34;0.42000000000000004;Positive
+952;Jaksa Parlin Segera Disidang Setelah Berkas Lengkap;0.34;0.42000000000000004;Positive
+953;Ketua DPRD Sulbar dan Tiga Wakilnya Tersangka Korupsi APBD;0.34;0.42000000000000004;Positive
+954;Jokowi Gerah dengan Gurita Bisnis Perusahaan BUMN;0.34;0.42000000000000004;Positive
+955;BPK: 5.108 Unit KPR Subsidi Belum Dihuni Pemilik;0.34;0.42000000000000004;Positive
+956;NKE Kantongi Proyek Kementerian PUPR Rp358,7 Miliar;0.34;0.42000000000000004;Positive
+957;Meikarta, Solusi Ketimpangan Permintaan dan Pemasok Properti;0.34;0.42000000000000004;Positive
+958;'Pemrotes' Biaya Top Up Uang Elektronik Bertambah;0.34;0.42000000000000004;Positive
+959;Nasib Reklamasi Pulau G Ditentukan Akhir Pekan Ini;0.34;0.42000000000000004;Positive
+960;BI Gelar Rakor Pemerintah Pusat-Daerah Genjot Ekonomi Jabar;0.34;0.42000000000000004;Positive
+961;Festival Pesona Tanjung Lesung Resmi Digelar;0.34;0.42000000000000004;Positive
+962;Sekjen DPR Tegaskan Gedung Parlemen Tidak Miring;0.34;0.42000000000000004;Positive
+963;Realisasi Belanja Modal Negara Naik 11 Persen per Agustus;0.34;0.42000000000000004;Positive
+964;Demi Sampah Jakarta, Bekasi Bangun Dua Jembatan Layang Khusus;0.34;0.42000000000000004;Positive
+965;Gratis Sementara, Tol bawen-Salatiga Resmi Dibuka;0.34;0.42000000000000004;Positive
+966;Waskita Beton Klaim Tak Ada Pembatasan Penjualan;0.34;0.42000000000000004;Positive
+967;KPK Tetapkan Bupati Batubara Tersangka Suap Jembatan Sentang;0.34;0.42000000000000004;Positive
+968;Pemerintah Klaim Kekeringan Tahun Ini Tak Mengkhawatirkan;0.34;0.42000000000000004;Positive
+969;Gede Widiade: Peluang Persija vs Persib di GBK Terbuka Lebar;0.34;0.42000000000000004;Positive
+970;Jalan Tol Samarinda-Balikpapan Bakal Rampung Tahun Depan;0.34;0.42000000000000004;Positive
+971;Pembiayaan untuk RAPBN 2018 Minus Rp15,5 Triliun;0.34;0.42000000000000004;Positive
+972;KPK Geledah Empat Kantor Terkait Suap Wali Kota Tegal;0.34;0.42000000000000004;Positive
+973;Beda Gaya Jokowi 'Daripada' Soeharto Membangun Infrastruktur;0.34;0.42000000000000004;Positive
+974;Lima Ruas Tol Baru Segera Beroperasi Bulan Ini;0.34;0.42000000000000004;Positive
+975;Daftar Lengkap Situs 61 Instansi Penerimaan CPNS 2017;0.34;0.42000000000000004;Positive
+976;Pembangunan Arena Tanding Asian Games Rampung Lebih Cepat;0.34;0.42000000000000004;Positive
+977;Bonus Rumah untuk Atlet Berprestasi Masih dalam Tahap Diskusi;0.34;0.42000000000000004;Positive
+978;2018, Sistem Pembayaran Transportasi Jabodetabek Terintegrasi;0.34;0.42000000000000004;Positive
+979;Tarif Tol Sama Rata, Jasa Marga Sebut Tetap Bisa Untung;0.34;0.42000000000000004;Positive
+980;Lowongan CPNS Putaran Kedua, Kemenkeu Paling Butuh Banyak;0.34;0.42000000000000004;Positive
+981;Lenis Kogoya Klaim OPM di Pegunungan Dukung Pemerintah RI;0.34;0.42000000000000004;Positive
+982;Kementerian PUPR-BRG Tangani 12 Juta Hektare Gambut;0.34;0.42000000000000004;Positive
+983;PUPR Rilis Peta Gempa Baru, Titik Sesar Bertambah Jadi 295;0.34;0.42000000000000004;Positive
+984;Atasi Kekeringan, Kementerian PUPR Cari Sumber Air Baru;0.34;0.42000000000000004;Positive
+985;Kaesang Jokowi Lego Kaus 'Kolektor Kecebong' di Car Free Day;0.34;0.42000000000000004;Positive
+986;Ikut Jepret Karnaval, Menteri PUPR Dikira Fotografer Istana;0.34;0.42000000000000004;Positive
+987;Menkeu Tunggu Restu Rakyat Alokasi Anggaran Gedung Baru DPR;0.34;0.42000000000000004;Positive
+988;Menhub Galang Dukungan Ahli Loloskan Permen Taksi Online;0.34;0.42000000000000004;Positive
+989;Mudik Idul Adha, Tol Brebes-Gringsing Tak Beroperasi;0.34;0.42000000000000004;Positive
+990;Usai VietJet, Maskapai China dan India Bakal Mendarat ke RI;0.34;0.42000000000000004;Positive
+991;Jokowi Guyur Rp620 Triliun untuk 10 Kementerian;0.34;0.42000000000000004;Positive
+992;Fahri Hamzah Pasrahkan Gedung Baru DPR ke Pemerintah;0.34;0.42000000000000004;Positive
+993;DPR Sudah Sayembarakan Desain Gedung Baru;0.34;0.42000000000000004;Positive
+994;Mengubah Sampah jadi Produk Kreatif;0.34;0.42000000000000004;Positive
+995;Presiden Joko Widodo Resmikan Simpang Susun Semanggi;0.34;0.42000000000000004;Positive
+996;Doa dan Kritik Agus Rahardjo Saat Pimpin Upacara di KPK;0.34;0.42000000000000004;Positive
+997;Pembangunan di DPR Telan Anggaran Rp601 Miliar;0.34;0.42000000000000004;Positive
+998;Kuras Anggaran Negara, PPP Tolak Pembangunan Gedung DPR;0.34;0.42000000000000004;Positive
+999;DPR Klaim Gedung Retak Sudah Diaudit Kementerian PUPR;0.34;0.42000000000000004;Positive
+1000;Surya Paloh: DPR Tak Perlu Memaksakan Pembangunan Gedung Baru;0.34;0.42000000000000004;Positive
+1001;Menteri PUPR Sebut Belum Terima Permintaan Audit Gedung DPR;0.34;0.42000000000000004;Positive
+1002;Tolak Apartemen, PAN Setuju Perbaikan Fasilitas Gedung DPR;0.34;0.42000000000000004;Positive
+1003;Bayar Tol Non Tunai, Diskon 50 Persen untuk Kartu Baru;0.34;0.42000000000000004;Positive
+1004;DPR Akan Undang Menkeu dan Menteri PUPR Tinjau Kondisi Gedung;0.34;0.42000000000000004;Positive
+1005;IPW: Penjualan Rumah di Atas Rp1 Miliar Anjlok di Kuartal II;0.34;0.42000000000000004;Positive
+1006;Pemerintah Bakal Kerek Subsidi Rumah Dua Kali Lipat di 2018;0.34;0.42000000000000004;Positive
+1007;Realisasi Program Sejuta Rumah Baru 44,9 Persen dari Target;0.34;0.42000000000000004;Positive
+1008;Menteri Kabinet Meriahkan Silaturahmi Pendukung Jokowi;0.34;0.42000000000000004;Positive
+1009;Bappenas: Dana Haji Bisa untuk Biayai Proyek LRT;0.34;0.42000000000000004;Positive
+1010;Kementerian PUPR Akan Tertibkan Pengembang FLPP Nakal;0.34;0.42000000000000004;Positive
+1011;Rusun Atlet untuk Warga Miskin Usai Asian Games 2018;0.34;0.42000000000000004;Positive
+1012;YLKI Desak Pemerintah Buat Regulasi Apartemen Nonsubsidi;0.34;0.42000000000000004;Positive
+1013;Tekan Pengembang Nakal, Pemerintah Publikasi Anggota Asosiasi;0.34;0.42000000000000004;Positive
+1014;Syarat Baru Penerima FLPP Terganjal Harga Rumah Murah;0.34;0.42000000000000004;Positive
+1015;Presiden INAPGOC: Stadion GBK Belum Sepenuhya Ramah Difabel;0.34;0.42000000000000004;Positive
+1016;Transjakarta Ciledug-Tendean Beroperasi 13 Agustus;0.34;0.42000000000000004;Positive
+1017;YLKI Kecam Kriminalisasi Komika Acho;0.34;0.42000000000000004;Positive
+1018;Pemerintah Siapkan Aturan Kerek Peran Swasta di Infrastruktur;0.34;0.42000000000000004;Positive
+1019;Menteri Basuki Sebut Ada Salah Paham Soal Dana Haji;0.34;0.42000000000000004;Positive
+1020;Bank Daerah Didorong Salurkan KPR;0.34;0.42000000000000004;Positive
+1021;Jusuf Kalla Jadikan MRT sebagai Contoh Pembangunan;0.34;0.42000000000000004;Positive
+1022;Disbudpar Aceh Gelar Ragam Acara Menarik di Sabang;0.34;0.42000000000000004;Positive
+1023;Penataan Kolong Tol Kalijodo Ditargetkan Rampung Awal Oktober;0.34;0.42000000000000004;Positive
+1024;Jokowi Utamakan Jepang Garap Kereta Cepat Jakarta-Surabaya;0.34;0.42000000000000004;Positive
+1025;Jokowi Minta Hitung-hitungan Pengembangan Kereta Cepat;0.34;0.42000000000000004;Positive
+1026;Kementerian PUPR Lelang Bendungan Pamukkulu;0.34;0.42000000000000004;Positive
+1027;Sri Mulyani Restui Anggaran Kajian Pindah Ibu Kota Rp7 Miliar;0.34;0.42000000000000004;Positive
+1028;KPK Jebloskan Politikus PKS Yudi Widiana ke Tahanan;0.34;0.42000000000000004;Positive
+1029;Tiga Negara Ini Siap Ramaikan Borobudur Festival;0.34;0.42000000000000004;Positive
+1030;Terdakwa Penyuap Anggota DPR Dituntut 5 Tahun Penjara;0.34;0.42000000000000004;Positive
+1031;Menteri Basuki Siapkan Sertifikat Simpang Susun Semanggi;0.34;0.42000000000000004;Positive
+1032;Djarot Sambut Sampah Plastik untuk Aspal;0.34;0.42000000000000004;Positive
+1033;Djarot Pilih Nama Simpang Susun Semanggi Sesuai Konsep Awal;0.34;0.42000000000000004;Positive
+1034;SMF Berhasrat Genjot Pembiayaan KPR Lewat Bank Daerah;0.34;0.42000000000000004;Positive
+1035;Suap Proyek Jalan, Politikus PKB Terima Miliaran Rupiah;0.34;0.42000000000000004;Positive
+1036;Uji Beban Simpang Susun Semanggi Berjalan Lancar;0.34;0.42000000000000004;Positive
+1037;Uji Coba Simpang Susun Semanggi Bisa Dijajal Akhir Juli;0.34;0.42000000000000004;Positive
+1038;Anggaran 'Disunat', Program Sejuta Rumah Terancam;0.34;0.42000000000000004;Positive
+1039;Kementerian PUPR Uji Beban Simpang Susun Semanggi;0.34;0.42000000000000004;Positive
+1040;Aseng Ungkap Inisial Y dari PKS dalam Kasus Suap Proyek Jalan;0.34;0.42000000000000004;Positive
+1041;Wapres JK: Kesenjangan Ekonomi di Perbatasan Picu Perpecahan;0.34;0.42000000000000004;Positive
+1042;Keterbatasan Pengembang Jadi Alasan KPR FLPP Direvisi;0.34;0.42000000000000004;Positive
+1043;Pemerintah Butuh Rp7 Miliar untuk Kajian Pindah Ibu Kota;0.34;0.42000000000000004;Positive
+1044;Baru Tiga Halte Akan Beroperasi di Jalur Transjakarta Ciledug;0.34;0.42000000000000004;Positive
+1045;Tour de Flores 2017 Tambah Rute ke Pulau Rii Taa;0.34;0.42000000000000004;Positive
+1046;Kemenpar Bahas Pembangunan Homestay di 10 Bali Baru;0.34;0.42000000000000004;Positive
+1047;Tol Bandung-Tasikmalaya Akan Diperpanjang Hingga Cilacap;0.34;0.42000000000000004;Positive
+1048;Presiden Jokowi Apresiasi Lonjakan Wisman;0.34;0.42000000000000004;Positive
+1049;Tak Patuhi Jembatan Timbang, Menhub Tindak Truk Melintas;0.34;0.42000000000000004;Positive
+1050;Luhut Siapkan Laporan Internal Kajian Reklamasi Jakarta;0.34;0.42000000000000004;Positive
+1051;Mundur, Pepres Tapera Ditargetkan Rampung Bulan Depan;0.34;0.42000000000000004;Positive
+1052;Ruas Tol Jakarta-Semarang Ditargetkan Tersambung Tahun Depan;0.34;0.42000000000000004;Positive
+1053;Menhub Ramal Kepadatan Seluruh Jalur Mudik Terurai Hari Ini;0.34;0.42000000000000004;Positive
+1054;Menhub: Penutupan Gerbang Tol Cikarang Utama Hanya Sementara;0.34;0.42000000000000004;Positive
+1055;Menghitung Biaya Tol Kala Mudik;0.34;0.42000000000000004;Positive
+1056;Masyarakat Diminta Tak Ekspektasi Tinggi Pada Tol Fungsional;0.34;0.42000000000000004;Positive
+1057;Molor dari Target, Tol Becakayu Belum Bisa Dilewati Pemudik;0.34;0.42000000000000004;Positive
+1058;Gaji Diatas Rp4 Juta Bisa KPR Subsidi Rumah Tapak;0.34;0.42000000000000004;Positive
+1059;Pemerintah Resmi Lelang Ruas Tol Jakarta-Cikampek II;0.34;0.42000000000000004;Positive
+1060;Pemerintah Integrasikan Sistem Pembayaran Dua Ruas Tol;0.34;0.42000000000000004;Positive
+1061;Meramal Nasib Program Satu Juta Rumah Jokowi;0.34;0.42000000000000004;Positive
+1062;Pemprov DKI Tunda Peresmian Koridor 13 Ciledug-Tendean;0.34;0.42000000000000004;Positive
+1063;Presiden INAPGOC Yakin Fasilitas Asian Para Games Terpenuhi;0.34;0.42000000000000004;Positive
+1064;Panglima Minta Jokowi Tak Ragukan Kinerja TNI;0.34;0.42000000000000004;Positive
+1065;Jalur Cipali Kritis, Macet Tak Bisa Dihindarkan saat Mudik;0.34;0.42000000000000004;Positive
+1066;Kakorlantas: 1,5 Juta Kendaraan Keluar Jakarta H-4 Lebaran;0.34;0.42000000000000004;Positive
+1067;Kronologi Tangkap Tangan Kasus Suap DPRD Mojokerto;0.34;0.42000000000000004;Positive
+1068;KPK Tahan 4 Tersangka Suap DPRD Mojokerto di Tempat Terpisah;0.34;0.42000000000000004;Positive
+1069;Suap DPRD Mojokerto, KPK Sebut Pengawasan Daerah Sangat Lemah;0.34;0.42000000000000004;Positive
+1070;KPK Tetapkan 3 Pimpinan DPRD Mojokerto Tersangka Kasus Suap;0.34;0.42000000000000004;Positive
+1071;Jalur Pantura Beres, Alternatif Pemudik saat Tol Cipali Macet;0.34;0.42000000000000004;Positive
+1072;Proyek Satu Juta Irigasi dan Perumahan Terbentur Anggaran;0.34;0.42000000000000004;Positive
+1073;Pemerintah Buka Beberapa Ruas Tol Fungsional H-10 Lebaran;0.34;0.42000000000000004;Positive
+1074;Golkar Minta Markus Mundur dari DPR Agar Fokus Urus Kasus;0.34;0.42000000000000004;Positive
+1075;Pemudik Bisa Pantau Kepadatan Jalan Tol Lewat Aplikasi i-Toll;0.34;0.42000000000000004;Positive
+1076;Polda Metro Usut Dugaan Intimidasi Jurnalis RMOL;0.34;0.42000000000000004;Positive
+1077;Jurnalis Diintimidasi Pegawai Kementerian PUPR;0.34;0.42000000000000004;Positive
+1078;Pemerintah Siapkan Aturan Pembayaran Tol Wajib Nontunai;0.34;0.42000000000000004;Positive
+1079;Oktober, Seluruh Gerbang Tol Bisa Bayar Non Tunai;0.34;0.42000000000000004;Positive
+1080;RAPBN 2018 Masih Fokus Biayai Infrastruktur;0.34;0.42000000000000004;Positive
+1081;SUGBK Bukan untuk Sepak Bola di Asian Games;0.34;0.42000000000000004;Positive
+1082;Pembangunan Arena Belum Selesai, Test Event Asian Games Molor;0.34;0.42000000000000004;Positive
+1083;Tol Palindra Sudah Bisa Dilalui Saat Mudik;0.34;0.42000000000000004;Positive
+1084;Ketika Juz (Qur'an) dan Liqo Menjadi Kode Korupsi;0.34;0.42000000000000004;Positive
+1085;Aseng Penyuap Damayanti Hadapi Dakwaan Kasus Proyek Jalan;0.34;0.42000000000000004;Positive
+1086;Aseng Hadapi Sidang Perdana Kasus Suap Proyek Jalan;0.34;0.42000000000000004;Positive
+1087;Cuma 2,5 Persen Pekerja Informal Nikmati Subsidi Perumahan;0.34;0.42000000000000004;Positive
+1088;Sinabung Meletus, Semburan Material Mencapai 4 Kilometer;0.34;0.42000000000000004;Positive
+1089;Menpar Bicara Soal Pembangunan 20 Ribu Homestay;0.34;0.42000000000000004;Positive
+1090;Kementerian PUPR Dorong Pembangunan Homestay Desa Wisata;0.34;0.42000000000000004;Positive
+1091;Domus Ruko, Inovasi Terbaru dari Tatalogam;0.34;0.42000000000000004;Positive
+1092;Indonesia Bakal Bangun 20 Ribu Homestay dengan Kearifan Lokal;0.34;0.42000000000000004;Positive
+1093;Kelestarian Lingkungan Danau Toba Harus Ikut Dijaga;0.34;0.42000000000000004;Positive
+1094;Kemenpar Gelar Rakornas II dengan Tema Homestay Desa Wisata;0.34;0.42000000000000004;Positive
+1095;Kemenkeu Ancang-ancang Gemukkan Alokasi FLPP 2018;0.34;0.42000000000000004;Positive
+1096;Dorong Rumah MBR, Kemenkeu Janjikan Insentif Untuk Pengembang;0.34;0.42000000000000004;Positive
+1097;Politikus PAN Andi Taufan Tiro Dikirim ke 'Penjara Koruptor';0.34;0.42000000000000004;Positive
+1098;Pemerintah Optimis Bendungan Logung Rampung di 2018;0.34;0.42000000000000004;Positive
+1099;Gubernur Babel Kembangkan Pariwisata Lewat Dua KEK Tambahan;0.34;0.42000000000000004;Positive
+1100;Papua Tuntut Perhatian Ketua Baru PB Wushu;0.34;0.42000000000000004;Positive
+1101;Lippo Siapkan Rumah Khusus Bagi Generasi Milenial di Meikarta;0.34;0.42000000000000004;Positive
+1102;PBWI Gelar Munas untuk Pilih Airlangga Hartarto;0.34;0.42000000000000004;Positive
+1103;Jadi Tuan Rumah Hajatan IMF-Bank Dunia, RI Habiskan Rp1 T;0.34;0.42000000000000004;Positive
+1104;Perusahaan Turki Minat Ikut Bangun Bandara Kertajati;0.34;0.42000000000000004;Positive
+1105;Pemerintah Siap Bangun Rusun Seharga Rp150 Juta di Depok;0.34;0.42000000000000004;Positive
+1106;Sejumlah Infrastuktur Labuan Bajo Dibenahi;0.34;0.42000000000000004;Positive
+1107;'Selimut' Reklamasi Teluk Jakarta Bernama NCICD;0.34;0.42000000000000004;Positive
+1108;Kemenko Maritim Kunjungi Teluk Jakarta terkait Reklamasi;0.34;0.42000000000000004;Positive
+1109;Strategi Menpar Arief Tuai Pujian dari Sekjen UNWTO;0.34;0.42000000000000004;Positive
+1110;Kementerian PUPR Ikut Perbaiki Homestay di Destinasi Wisata;0.34;0.42000000000000004;Positive
+1111;Terima Suap Proyek Jalan, Politikus PAN Divonis 9 Tahun;0.34;0.42000000000000004;Positive
+1112;Politikus PAN Hadapi 'Palu' Hakim Tipikor Hari Ini;0.34;0.42000000000000004;Positive
+1113;Telaga Cebong Siap Bersaing dengan Bukit Sikunir;0.34;0.42000000000000004;Positive
+1114;KPK Kirim Sanusi ke Lapas Sukamiskin;0.34;0.42000000000000004;Positive
+1115;Gara-Gara Buwas, Polri Punya Gedung Bareskrim Rp646 Miliar;0.34;0.42000000000000004;Positive
+1116;Underpass Simpang Lima Mandai Makassar Siap Sebelum Lebaran;0.34;0.42000000000000004;Positive
+1117;Kemenperin Janjikan Satu Cangkul Untuk Setiap Rumah;0.34;0.42000000000000004;Positive
+1118;Tour de Flores 2017 Tambah Jarak Tempuh Sepanjang 200 Km;0.34;0.42000000000000004;Positive
+1119;Kemenpar Dukung Peningkatan Akses Wisata ke Labuan Bajo;0.34;0.42000000000000004;Positive
+1120;Kemenpar Jadikan Fotografi Unsur Penting Promosi Wisata;0.34;0.42000000000000004;Positive
+1121;Terdakwa Perantara Suap Proyek Jalan di Maluku Hadapi Vonis;0.34;0.42000000000000004;Positive
+1122;Kementerian Pekerjaan Umum Teken 75 Persen Kontrak Tahun Ini;0.34;0.42000000000000004;Positive
+1123;Kemenpar Tempuh Berbagai Cara Maksimalkan Wisata Labuan Bajo;0.34;0.42000000000000004;Positive
+1124;Badan Pengelola Tapera Butuh Modal Awal Rp2,5 Triliun;0.34;0.42000000000000004;Positive
+1125;Infrastruktur Jokowi Paling Sering Terjegal Urusan Lahan;0.34;0.42000000000000004;Positive
+1126;Enam Jalan Tol Dibangun untuk Akses ke Destinasi Pariwisata;0.34;0.42000000000000004;Positive
+1127;Menpar Siap Belajar Double Growth dari Jepang;0.34;0.42000000000000004;Positive
+1128;Sumarsono Akui 10 Titik Kritis dalam Proyek Tanggul Raksasa;0.34;0.42000000000000004;Positive
+1129;Dana 'Mepet', Pengusaha Muda Diminta Terjun ke Infrastruktur;0.34;0.42000000000000004;Positive
+1130;'Curhat' Sri Mulyani Soal Membiayai Rumah Murah 'Wong Cilik';0.34;0.42000000000000004;Positive
+1131;Sri Mulyani Kerek Pembiayaan Rumah Murah Jadi Rp9,7 Triliun;0.34;0.42000000000000004;Positive
+1132;Pembangunan Rumah Murah Terganjal Aturan Daerah;0.34;0.42000000000000004;Positive
+1133;Pertamina Tambah 2 Kabupaten Penikmat Program BBM Satu Harga;0.34;0.42000000000000004;Positive
+1134;Kementerian PUPR Siapkan Pengelolaan Limbah Air di Jakarta;0.34;0.42000000000000004;Positive
+1135;Demi Kemudahan Berusaha, Pemerintah Akan 'Sunat' Biaya IMB;0.34;0.42000000000000004;Positive
+1136;Masih Dipersulit Bangun Rumah, Pengembang Curhat ke JK;0.34;0.42000000000000004;Positive
+1137;Penyebab Banjir Permukiman Bekasi Terdeteksi;0.34;0.42000000000000004;Positive
+1138;Urai Macet Mudik Jateng, PUPR Andalkan Jembatan Layang Baru;0.34;0.42000000000000004;Positive
+1139;Sebelum Mudik Lebaran, Tol Gempol - Pasuruan Siap Digunakan;0.34;0.42000000000000004;Positive
+1140;Semester I, Pertamina Jual BBM dengan Harga Sama di 16 Daerah;0.34;0.42000000000000004;Positive
+1141;Perbaikan Jembatan Cisomang Diharapkan Selesai Akhir Maret;0.34;0.42000000000000004;Positive
+1142;BPLS Tetap Bekerja Hingga Kewenangan Diambil Alih Pemerintah;0.34;0.42000000000000004;Positive
+1143;KPK Soroti Rangkap Jabatan Pejabat Eselon I di BUMN;0.34;0.42000000000000004;Positive
+1144;Pemerintah Angkat Potensi Wisata di Jalan Trans Papua;0.34;0.42000000000000004;Positive
+1145;Reklame Roboh di Bekasi, Dinas PUPR Lakukan Evaluasi;0.34;0.42000000000000004;Positive
+1146;Wijaya Karya Kecipratan Duit Raja Salman Rp26,6 Triliun;0.34;0.42000000000000004;Positive
+1147;KPK Sebut Ada Lima Hakim MK Belum Lapor Harta Kekayaan;0.34;0.42000000000000004;Positive
+1148;KPK Tahan Tersangka Pemberi Suap Proyek Kementerian PUPR;0.34;0.42000000000000004;Positive
+1149;Subsidi Pemerintah Menanti Nasabah KPR BPJS Ketenagakerjaan;0.34;0.42000000000000004;Positive
+1150;Kementerian PUPR: Seharusnya, Ada Spesialisasi Kontraktor;0.34;0.42000000000000004;Positive
+1151;Kementerian PUPR Bidik Sertifikasi 3 Juta Tenaker Konstruksi;0.34;0.42000000000000004;Positive
+1152;Kementerian PUPR Alokasikan Anggaran Untuk Drainase;0.34;0.42000000000000004;Positive
+1153;Gapensi Dorong Sinergi Kontraktor BUMN dan Daerah;0.34;0.42000000000000004;Positive
+1154;Kiat Tatalogam Mengalap Berkah dari Program Sejuta Rumah;0.34;0.42000000000000004;Positive
+1155;BTN Salurkan 300 KPR Mikro Bagi Pedagang Mie dan Baso Jateng;0.34;0.42000000000000004;Positive
+1156;Terowongan MRT Tersambung, Namun Baru Bisa Digunakan 2019;0.34;0.42000000000000004;Positive
+1157;Kasus Suap Proyek Jalan di Maluku, KPK Tahan Politikus PKB;0.34;0.42000000000000004;Positive
+1158;Menteri Basuki Berharap Dana Talangan untuk BPJT Segera Cair;0.34;0.42000000000000004;Positive
+1159;Tol Cisumdawu dan Serang-Panimbang Masuk Proyek Strategis;0.34;0.42000000000000004;Positive
+1160;Pembiayaan Jalan Tol Lewat PII Berbonus Perlindungan Politik;0.34;0.42000000000000004;Positive
+1161;Pemerintah Jamin Proyek Jalan Tol Senilai Rp50,8 T Lewat KPBU;0.34;0.42000000000000004;Positive
+1162;Sektor Konstruksi Dorong Ekonomi Melaju Lebih Kencang di 2016;0.34;0.42000000000000004;Positive
+1163;Banyak Cacat, LRT Disebut jadi Pemaksaan Kehendak Jokowi;0.34;0.42000000000000004;Positive
+1164;Menko Darmin Tuntaskan Perpres Proyek Prioritas Bulan Ini;0.34;0.42000000000000004;Positive
+1165;Pemerintah Tambah 78 Proyek Strategis Nasional;0.34;0.42000000000000004;Positive
+1166;DPR dan Pemerintah Didesak Terbuka Soal RUU Sumber Daya Air;0.34;0.42000000000000004;Positive
+1167;2016, Pemerintah Klaim Benahi 2.162 Hektare Kawasan Kumuh;0.34;0.42000000000000004;Positive
+1168;Pedagang Bakso Dapat Prioritas Beli Rumah Rp75 juta dari BTN;0.34;0.42000000000000004;Positive
+1169;Bank Dunia Punya US$197 juta untuk Bangun Rumah Murah Jokowi;0.34;0.42000000000000004;Positive
+1170;Pantai Legian-Seminyak Bakal Diuruk Pasir Senilai US$74 Juta;0.34;0.42000000000000004;Positive
+1171;Bisnis Properti Bekasi dan Tangerang Menggeliat Berkat Jokowi;0.34;0.42000000000000004;Positive
+1172;Ditjen Bina Marga Teken Kontrak Jalan dan Jembatan Rp1,29 T;0.34;0.42000000000000004;Positive
+1173;Tahun Ini 31 Jalan Tol di Sumatera dan Jawa Beroperasi;0.34;0.42000000000000004;Positive
+1174;Pemerintah Pede Tembus Target 1 Juta Rumah Tahun Ini;0.34;0.42000000000000004;Positive
+1175;Bank Pelaksana Bakal Gemukkan Pendanaan FLPP;0.34;0.42000000000000004;Positive
+1176;Pekerja Informal Bisa Kredit Rumah dengan DP Rendah di 2017;0.34;0.42000000000000004;Positive
+1177;Target Pembangunan 1 Juta Rumah Kandas Lagi Tahun Ini;0.34;0.42000000000000004;Positive
+1178;Perusahaan Pelat Merah Dikejar Target Satu Juta Rumah;0.34;0.42000000000000004;Positive
+1179;Presiden Hadiri Topping Off Rusun Atlet Kemayoran;0.34;0.42000000000000004;Positive
+1180;Jembatan Cisomang Aman Bagi Kendaraan Golongan I;0.34;0.42000000000000004;Positive
+1181;Menpar Tinjau Kebun Teh Penyangga KSPN Borobudur;0.34;0.42000000000000004;Positive
+1182;Pilar Jembatan Tol Purbaleunyi Bergeser, Truk Dilarang Lewat;0.34;0.42000000000000004;Positive
+1183;Jokowi Targetkan Area Terdampak Gempa Aceh Bersih Sepekan;0.34;0.42000000000000004;Positive
+1184;Gempa Bumi Membuka Luka Tsunami Aceh;0.34;0.42000000000000004;Positive
+1185;BMKG: Gempa di Kepulauan Solomon Tidak Berdampak ke Indonesia;0.34;0.42000000000000004;Positive
+1186;Menteri PUPR Tanggapi Dampak Kerusakan Gempa;0.34;0.42000000000000004;Positive
+1187;Presiden Jokowi Tegaskan KL untuk Dukung Pariwisata;0.34;0.42000000000000004;Positive
+1188;KPK Tetapkan Tersangka Baru Suap Proyek Kementerian PUPR;0.34;0.42000000000000004;Positive
+1189;Jababeka PP Properti Kucurkan Rp875 Miliar Bangun Apartemen;0.34;0.42000000000000004;Positive
+1190;REI Usulkan Rumah 'Murah' untuk Orang Bergaji Rp4,5-Rp7 Juta;0.34;0.42000000000000004;Positive
+1191;Jokowi Janji PP Paket Ekonomi Jilid XIII Terbit Bulan Depan;0.34;0.42000000000000004;Positive
+1192;Jokowi Minta Pengusaha Properti Tak 'Pusing' Urusi Politik;0.34;0.42000000000000004;Positive
+1193;Putar Roda Ekonomi Sektor Riil, OJK Dorong Investasi EBA-SP;0.34;0.42000000000000004;Positive
+1194;Menpar Arief Yahya Keluarkan CEO Message #15;0.34;0.42000000000000004;Positive
+1195;Tiga Menteri Ikut Tour de Borobudur;0.34;0.42000000000000004;Positive
+1196;DPRD Setujui Lelang Dini Proyek Ahok;0.34;0.42000000000000004;Positive
+1197;Terima Suap, Politikus Golkar Divonis Lima Tahun Penjara;0.34;0.42000000000000004;Positive
+1198;BPJT Perkirakan Proyek Tol Bawen - Yogya Butuh Duit Rp10 T;0.34;0.42000000000000004;Positive
+1199;Soni Minta Kementerian PUPR Audit  Proyek Rusun Ahok;0.34;0.42000000000000004;Positive
+1200;Politikus Golkar Ungkap Jatah Rp19 Miliar bagi Damayanti;0.34;0.42000000000000004;Positive
+1201;Kementerian Pekerjaan Umum Mulai Duluan Tender Proyek 2017;0.34;0.42000000000000004;Positive
+1202;Korpri Rancang Program untuk Sejahterakan Para Peneliti;0.34;0.42000000000000004;Positive
+1203;Pemerintah Kejar Swasembada Pangan Lewat Perbaikan Irigasi;0.34;0.42000000000000004;Positive
+1204;World Bank Dukung Perbaikan 3 Destinasi Prioritas;0.34;0.42000000000000004;Positive
+1205;Derap Infrastruktur Jokowi Dijegal Masalah Dana dan Lahan;0.34;0.42000000000000004;Positive
+1206;Kerikil Tajam dalam Tembok Sejuta Rumah Jokowi;0.34;0.42000000000000004;Positive
+1207;Kenaikan Tarif Tol Sedaytmo;0.34;0.42000000000000004;Positive
+1208;Sampai Oktober, 41,5 Persen Program Sejuta Rumah Terpenuhi;0.34;0.42000000000000004;Positive
+1209;Pembahasan BP Tapera Ditargetkan Rampung pada Maret 2017;0.34;0.42000000000000004;Positive
+1210;Menpar Arief Yahya Berniat Kembangkan Hu Toba layaknya Xi Hu;0.34;0.42000000000000004;Positive
+1211;Takar Bunga KPR Wajar, Pemerintah Gandeng IBPA;0.34;0.42000000000000004;Positive
+1212;Tarif Tol Bandara Soetta Naik Mulai Tengah Malam Nanti;0.34;0.42000000000000004;Positive
+1213;Pemerintah Janji Bangun 5 ribu Rumah untuk TNI/Polri;0.34;0.42000000000000004;Positive
+1214;Penggarapan Akses dan Amenitas di Morotai Semakin Dipercepat;0.34;0.42000000000000004;Positive
+1215;Arief Yahya Percepat 3A di Destinasi Wisata Tanjung Lesung;0.34;0.42000000000000004;Positive
+1216;Pergi ke Bandara Soetta Lewat Tol Bakal Lebih Mahal 'Seceng';0.34;0.42000000000000004;Positive
+1217;Terbukti Korupsi Infrastruktur, Damayanti Divonis 4,5 Tahun;0.34;0.42000000000000004;Positive
+1218;Khofifah Jamin Kebutuhan Logistik Korban Banjir dan Longsor;0.34;0.42000000000000004;Positive
+1219;Telusuri Suap Jalan di Maluku, KPK Periksa Ketua Komisi V DPR;0.34;0.42000000000000004;Positive
+1220;Jokowi: Birokrat Tersandera Pertanggungjawaban Keuangan;0.34;0.42000000000000004;Positive
+1221;KPK Periksa Politikus PKS Soal Suap Proyek PUPR;0.34;0.42000000000000004;Positive
+1222;Gunakan Teknologi Baja Bergelombang, Pemerintah Irit Rp35 M;0.34;0.42000000000000004;Positive
+1223;Wapres Jusuf Kalla Tak Mau BUMN Disuap Duit Negara Lagi;0.34;0.42000000000000004;Positive
+1224;Divonis 4 Tahun Penjara, Dua Staf Damayanti Pikir-Pikir;0.34;0.42000000000000004;Positive
+1225;Ditahan KPK, Andi Taufan Ucap Terima Kasih ke Bendum PAN;0.34;0.42000000000000004;Positive
+1226;KPK Periksa Politikus PAN pada Kasus Dugaan Suap PUPR;0.34;0.42000000000000004;Positive
+1227;Gandeng Investor, Kementerian PUPR Gelar Forum Infrastruktur;0.34;0.42000000000000004;Positive
+1228;2017, Pemerintah Punya Modal Rp9 Triliun Bangun Rumah Murah;0.34;0.42000000000000004;Positive
+1229;Sri Mulyani Yakin RAPBN 2017 Ampuh Pangkas Kemiskinan;0.34;0.42000000000000004;Positive
+1230;Pemerintah Bakal Tegur Pengembang yang Bangun Rumah Murahan;0.34;0.42000000000000004;Positive
+1231;Sri Mulyani: Target Pertumbuhan Ekonomi 5,2% Susah Dicapai;0.34;0.42000000000000004;Positive
+1232;KPK Periksa Terduga Penyuap Politikus Damayanti Putranti;0.34;0.42000000000000004;Positive
+1233;Anggaran Disunat, Industri Farmasi Terhambat;0.34;0.42000000000000004;Positive
+1234;Kebut Konstruksi, Kementerian PUPR Siapkan Skema Lelang Baru;0.34;0.42000000000000004;Positive
+1235;Damayanti Dituntut Enam Tahun Penjara dan Hak Politik Dicabut;0.34;0.42000000000000004;Positive
+1236;Demi Rp64 T, Jokowi Paksa Instansi Negara Irit 14 Pos Belanja;0.34;0.42000000000000004;Positive
+1237;Hadapi Tuntutan, Damayanti Berkeras Bukan Penggerak Suap;0.34;0.42000000000000004;Positive
+1238;Pemerintah Kembali Bentuk Dewan Nasional Sumber Daya Air;0.34;0.42000000000000004;Positive
+1239;JK: Pembangunan 'Aman' Meski Anggaran Disunat;0.34;0.42000000000000004;Positive
+1240;Paket Ekonomi ke-13 Tak Pangkas Harga Rumah Secara Instan;0.34;0.42000000000000004;Positive
+1241;Proyek Tol Jakarta-Cikampek II Rp14 Triliun Masuk Tender;0.34;0.42000000000000004;Positive
+1242;Kementerian PUPR Belum Terima Rincian Pemangkasan Anggaran;0.34;0.42000000000000004;Positive
+1243;Fiskal 2016 Semakin Diperketat, Pemotongan Belanja Diperbesar;0.34;0.42000000000000004;Positive
+1244;Paket XIII Terbit, Biaya Izin Bangun Rumah Hemat 70 Persen;0.34;0.42000000000000004;Positive
+1245;Pilihan Kebijakan Membantu Pengembang;0.34;0.42000000000000004;Positive
+1246;Dua Staf Damayanti Dituntut Lima Tahun Penjara;0.34;0.42000000000000004;Positive
+1247;Anak Buah Damayanti Hadapi Sidang Pembacaan Tuntutan Hari Ini;0.34;0.42000000000000004;Positive
+1248;Pemerintah Subsidi 25 Persen Harga Rumah Murah Tahun Depan;0.34;0.42000000000000004;Positive
+1249;Target Kementerian PUPR Tahun 2017;0.34;0.42000000000000004;Positive
+1250;Menko Darmin: Pemerintah Bersiap Sunat Belanja Kementerian;0.34;0.42000000000000004;Positive
+1251;Kemenkeu Pangkas Anggaran Tender Proyek yang Belum Jalan;0.34;0.42000000000000004;Positive
+1252;Anak Buah Damayanti Tangisi Penyesalan di Persidangan;0.34;0.42000000000000004;Positive
+1253;Realisasi Program 1 Juta Rumah Baru Capai 230.802 Unit;0.34;0.42000000000000004;Positive
+1254;KPK Jamin Keamanan Informan Perusahaan;0.34;0.42000000000000004;Positive
+1255;Kementerian PUPR Longgarkan Syarat Pembiayaan Proyek Tol;0.34;0.42000000000000004;Positive
+1256;KPK Periksa Dua Anggota Komisi V DPR Terkait Kasus Damayanti;0.34;0.42000000000000004;Positive
+1257;Pejabat PUPR Mengaku Minta Jatah Aspirasi pada Damayanti;0.34;0.42000000000000004;Positive
+1258;KPK Periksa Anggota DPR Fraksi PKB Terkait Suap Damayanti;0.34;0.42000000000000004;Positive
+1259;Anggota DPR Dituding Berbohong di Persidangan Damayanti;0.34;0.42000000000000004;Positive
+1260;Kementerian PUPR Bangun 11 Rusun di Sulawesi Selatan;0.34;0.42000000000000004;Positive
+1261;Izin Kereta Cepat Terbit, Pembebasan Lahan Dikebut;0.34;0.42000000000000004;Positive
+1262;2018, Waskita Karya Incar Aset Tumbuh Jadi Rp80 Triliun;0.34;0.42000000000000004;Positive
+1263;IHSG Awali Pekan dengan Menguat ke Level 5.220;0.34;0.42000000000000004;Positive
+1264;Mulai 2017, Adhi Karya Terbitkan Obligasi Bertahap Rp4 T;0.34;0.42000000000000004;Positive
+1265;Adhi Karya Serahkan Dokumen Tender Tol Cisumdawu ke PUPR;0.34;0.42000000000000004;Positive
+1266;Kementerian PUPR Siapkan Jurus Baru Pencegah Tragedi Brexit;0.34;0.42000000000000004;Positive
+1267;Menteri Basuki Janji Rampungkan Tiga Bendungan Lebih Cepat;0.34;0.42000000000000004;Positive
+1268;Jokowi Panggil dan Tanyakan Kinerja Sejumlah Menteri;0.34;0.42000000000000004;Positive
+1269;Pemerintah-Swasta Danai Proyek Air Minum Mangkrak 43 Tahun;0.34;0.42000000000000004;Positive
+1270;Perkara Suap Politikus Golkar Budi Supriyanto Siap Disidang;0.34;0.42000000000000004;Positive
+1271;Soal Korupsi Damayanti, Jaksa Cecar 'Rapat Setengah Kamar';0.34;0.42000000000000004;Positive
+1272;Evaluasi Pelaksanaan Mudik Lebaran 2016;0.34;0.42000000000000004;Positive
+1273;Kementerian PUPR Rampungkan Evaluasi Awal Tragedi Brexit;0.34;0.42000000000000004;Positive
+1274;Paruh Pertama 2016, BTN Cairkan KPR untuk 120 ribu Unit Rumah;0.34;0.42000000000000004;Positive
+1275;Ribuan Kendaraan Mulai Mengantre Masuk Jakarta;0.34;0.42000000000000004;Positive
+1276;Macet Arus Balik Jakarta Diprediksi Menumpuk di Tiga Titik;0.34;0.42000000000000004;Positive
+1277;Jokowi dan Kedua Anaknya Kunjungi Pusat Niaga di Padang;0.34;0.42000000000000004;Positive
+1278;Kemenag Gelar Sidang Isbat Lebaran Hari Ini;0.34;0.42000000000000004;Positive
+1279;Sambut Pemudik, 18.317 KM Jalan Siap Dilalui;0.34;0.42000000000000004;Positive
+1280;Sistem Pembayaran Tol dari Jakarta ke Brebes Diperpendek;0.34;0.42000000000000004;Positive
+1281;Pemudik Bergembol Kardus Mulai Padati Jalur Pantura;0.34;0.42000000000000004;Positive
+1282;35 Ribu Pemudik Padati Terminal Purabaya Surabaya;0.34;0.42000000000000004;Positive
+1283;Kementerian PUPR Pastikan Kesiapan 18.317 Km Jalur Mudik;0.34;0.42000000000000004;Positive
+1284;Kementerian PUPR Serap Rp27,4 Triliun Anggaran Sampai 29 Juni;0.34;0.42000000000000004;Positive
+1285;Jembatan Sipait Siap Dilalui Pemudik Jalur Pantura;0.34;0.42000000000000004;Positive
+1286;Di Persidangan, Politikus Golkar Akui Terima Uang Damayanti;0.34;0.42000000000000004;Positive
+1287;Pemerintah Siapkan Unit Penambal Lubang Jalan Mudik;0.34;0.42000000000000004;Positive
+1288;Tol Trans Jawa Kurangi 40 Persen Kepadatan Lalu Lintas;0.34;0.42000000000000004;Positive
+1289;Jalur Pantura dan Lampung Siap Digunakan Mudik Tahun Ini;0.34;0.42000000000000004;Positive
+1290;Badan Otorita Wisata Danau Toba Resmi Dibentuk Jokowi;0.34;0.42000000000000004;Positive
+1291;BMKG Prediksi Arus Mudik Diiringi Dengan Cuaca Buruk;0.34;0.42000000000000004;Positive
+1292;Bengawan Solo Meluap Akibat Drainase Terhambat Sampah;0.34;0.42000000000000004;Positive
+1293;KPK Periksa Massal Anggota Komisi V DPR;0.34;0.42000000000000004;Positive
+1294;Uji Coba Integrasi Pembayaran Tol Dimulai Hari Ini;0.34;0.42000000000000004;Positive
+1295;Sampai Juni, 120 ribu Rumah Dibangun Pemerintahan Jokowi;0.34;0.42000000000000004;Positive
+1296;Urai Kemacetan Bandung, Pemerintah Siapkan Jembatan Rp33,5 M;0.34;0.42000000000000004;Positive
+1297;Dessy Terdakwa Suap Pelebaran Jalan Keberatan dengan Dakwaan;0.34;0.42000000000000004;Positive
+1298;Penyuap Damayanti Divonis Empat Tahun Penjara;0.34;0.42000000000000004;Positive
+1299;Damayanti Mengaku Terima Suap Proyek Kementerian PUPR;0.34;0.42000000000000004;Positive
+1300;Enam Tol Baru Siap Digunakan Pemudik Tahun Ini;0.34;0.42000000000000004;Positive
+1301;Rusun Para Jaksa di Kedoya Belum Siap Pakai;0.34;0.42000000000000004;Positive
+1302;Akbar: Dukungan Setya Novanto atas Jokowi & Ahok Belum Final;0.34;0.42000000000000004;Positive
+1303;Politisi NasDem Diperiksa KPK Atas Dugaan Suap Kemen PUPR;0.34;0.42000000000000004;Positive
+1304;Usai Diperiksa KPK, Anak Buah Setya Novanto Panik;0.34;0.42000000000000004;Positive
+1305;Ahmad Dhani Ultimatum KPK Segera Tersangkakan Ahok;0.34;0.42000000000000004;Positive
+1306;KPK Periksa Anak Buah Setya Novanto di Kasus Kemen PUPR;0.34;0.42000000000000004;Positive
+1307;Tol Solo - Kertosono Bisa jadi Jalur Alternatif Mudik;0.34;0.42000000000000004;Positive
+1308;Pemerintah Hapus 4 Gerbang Tol dari Cikarang Sampai Brebes;0.34;0.42000000000000004;Positive
+1309;Menkeu: Belanja Infrastruktur Bebas dari Pemangkasan Anggaran;0.34;0.42000000000000004;Positive
+1310;Anggaran Dipangkas, Kementerian PUPR Tunda Lelang Proyek;0.34;0.42000000000000004;Positive
+1311;Berhemat, Jokowi Sunat Anggaran Infrastruktur dan Pendidikan;0.34;0.42000000000000004;Positive
+1312;KOI Yakin Infrastruktur Asian Games Dibangun Tepat Waktu;0.34;0.42000000000000004;Positive
+1313;Warisan Asian Games: 75 Persen GBK untuk Ruang Publik;0.34;0.42000000000000004;Positive
+1314;Sempat Mangkir, Andi Taufan Tiro Penuhi Panggilan KPK;0.34;0.42000000000000004;Positive
+1315;KPK Limpahkan Berkas Tahap Dua Kasus Damayanti;0.34;0.42000000000000004;Positive
+1316;KPK Panggil Mantan Gubernur Aceh Irwandi Yusuf;0.34;0.42000000000000004;Positive
+1317;JK Siapkan Jurus Pendongkrak Peringkat Kemudahan Berbisnis;0.34;0.42000000000000004;Positive
+1318;Awal Mei, Pemerintah Baru Penuhi 23 Persen Penerimaan Negara;0.34;0.42000000000000004;Positive
+1319;Penetapan Venue dan Cabor Asian Games Diharap Tuntas di Bali;0.34;0.42000000000000004;Positive
+1320;KPK Periksa Andi Taufan Dalam Kasus Korupsi di Kemen-PUPR;0.34;0.42000000000000004;Positive
+1321;Rusun untuk Warga di Lokasi Pelebaran Ciliwung Selesai 2018;0.34;0.42000000000000004;Positive
+1322;Pemerintah Akan Bangun Belasan Ribu Rusun di Seluruh Daerah;0.34;0.42000000000000004;Positive
+1323;Kalla Yakin Proyek 10 Juta Sambungan Air Selesai Tepat Waktu;0.34;0.42000000000000004;Positive
+1324;Kasus Damayanti, KPK Panggil Anggota DPRD Bekasi Asal PKS;0.34;0.42000000000000004;Positive
+1325;Elion Numberi Klaim Tak Tahu Pemberian Duit Pejabat Maluku;0.34;0.42000000000000004;Positive
+1326;Demi Perbaikan Ranking, Pemerintah Rilis Paket Kebijakan XII;0.34;0.42000000000000004;Positive
+1327;Andi Taufan Tersangka, DPR Minta KPK Usut Pemerintah;0.34;0.42000000000000004;Positive
+1328;Jadi Tersangka Korupsi, Harta Andi Taufan Rp22 Miliar;0.34;0.42000000000000004;Positive
+1329;Besok Fraksi PAN Gelar Rapat Bahas Kasus Andi Taufan Tiro;0.34;0.42000000000000004;Positive
+1330;Politikus PAN Andi Taufan Jadi Tersangka Kasus Suap Damayanti;0.34;0.42000000000000004;Positive
+1331;Jasamarga dan Waskita Resmi Garap Proyek Tol Semarang-Batang;0.34;0.42000000000000004;Positive
+1332;Damayanti Akui Berkas Perkara Suap Dirinya Hampir Lengkap;0.34;0.42000000000000004;Positive
+1333;Jokowi Tugaskan 6 Menteri dan Pemda Permudah Izin Perumahan;0.34;0.42000000000000004;Positive
+1334;United Tractors Berutang US$3,2 Miliar demi Pembangkit Jepara;0.34;0.42000000000000004;Positive
+1335;KPK Geledah BPJN IX Maluku dan Malut Kasus Proyek Kemen-PUPR;0.34;0.42000000000000004;Positive
+1336;Kasus Suap Damayanti, Menteri PU Diperiksa Terkait Wewenang;0.34;0.42000000000000004;Positive
+1337;Menteri PUPR Dijadwalkan Diperiksa untuk Damayanti Hari Ini;0.34;0.42000000000000004;Positive
+1338;Belum Ada Keputusan Final Venue Atletik AG 2018;0.34;0.42000000000000004;Positive
+1339;KPK Minta Aseng Laporkan soal Telah Suap Anggota DPRD Bekasi;0.34;0.42000000000000004;Positive
+1340;Jasa Marga Siap Berutang Rp3 Triliun untuk Bebaskan Lahan;0.34;0.42000000000000004;Positive
+1341;KPK Periksa Michael Wattimena Terkait Suap KemenPU-PR;0.34;0.42000000000000004;Positive
+1342;Komisi V Bantah Ada Sistem Pembagian Fee di Kasus Damayanti;0.34;0.42000000000000004;Positive
+1343;Permudah Pembangunan Rumah Murah, Pemerintah Coret 12 Izin;0.34;0.42000000000000004;Positive
+1344;Garap Asian Games, Kementerian Pekerjaan Umum Minta Rp2,5 T;0.34;0.42000000000000004;Positive
+1345;Dirut PT Windhu Didakwa Suap Empat Anggota DPR RI;0.34;0.42000000000000004;Positive
+1346;Meski Bergeser 9 cm, Jembatan Merah Putih Ambon Diresmikan;0.34;0.42000000000000004;Positive
+1347;Audit Lapangan: Pergerakan Tanah di Hambalang Lamban;0.34;0.42000000000000004;Positive
+1348;Perusahaan Pemilik Konsesi Tol JORR 'S' Tolak Putusan MA;0.34;0.42000000000000004;Positive
+1349;KPK Kembali Periksa Tersangka Suap di Kementerian PUPR;0.34;0.42000000000000004;Positive
+1350;Politikus PPP Bungkam Soal Dugaan Suap Proyek KemenPUPR;0.34;0.42000000000000004;Positive
+1351;KPK Kembali Periksa Damayanti dan Tiga Anggota Komisi V DPR;0.34;0.42000000000000004;Positive
+1352;Asian Games 2018: Momentum Membangun Indonesia;0.34;0.42000000000000004;Positive
+1353;Pemerintah Siapkan Empat Strategi Penyediaan Rumah Murah;0.34;0.42000000000000004;Positive
+1354;Tiga Legislator Diperiksa KPK Soal Anggaran Kementerian PUPR;0.34;0.42000000000000004;Positive
+1355;Kemenpora Libatkan Tim Independen untuk Proyek Hambalang;0.34;0.42000000000000004;Positive
+1356;KPK Periksa Tiga Anggota DPR Perkara Suap Kementerian PUPR;0.34;0.42000000000000004;Positive
+1357;Indonesia Jadi Tuan Rumah Asia Water Council Pertama;0.34;0.42000000000000004;Positive
+1358;Pengamat: Olahraga Indonesia Butuh Kompleks Hambalang;0.34;0.42000000000000004;Positive
+1359;Kasus Suap Damayanti, KPK Kembali Geledah Kantor Kementerian;0.34;0.42000000000000004;Positive
+1360;KPK Panggil Tujuh Pejabat PU Terkait Kasus Damayanti;0.34;0.42000000000000004;Positive
+1361;Damayanti Kembalikan Uang Sin$240 Ribu ke KPK;0.34;0.42000000000000004;Positive
+1362;Damayanti Kembali Diperiksa KPK Soal Proyek Kementerian PUPR;0.34;0.42000000000000004;Positive
+1363;Jokowi dan Rombongan Tiba di Bandara Halim Perdanakusuma;0.34;0.42000000000000004;Positive
+1364;Golkar Beri Sanksi Budi Supriyanto Saat Jadi Terpidana;0.34;0.42000000000000004;Positive
+1365;Pemerintah Siapkan Aturan Lanjutan Kemudahan Investasi;0.34;0.42000000000000004;Positive
+1366;Kader Golkar Ditahan KPK Soal Suap Proyek Kementerian PUPR;0.34;0.42000000000000004;Positive
+1367;Sekjen Kemenpera Ungkap Prosedur Usul Proyek Kasus Damayanti;0.34;0.42000000000000004;Positive
+1368;Usai Dijemput Paksa KPK, Kader Golkar Diperiksa;0.34;0.42000000000000004;Positive
+1369;KPK Jemput Paksa Kader Golkar di Semarang;0.34;0.42000000000000004;Positive
+1370;KPK Bidik Kesaksian Sekjen Kemenpera untuk Kader Golkar;0.34;0.42000000000000004;Positive
+1371;KPK Perpanjang Masa Tahanan Damayanti;0.34;0.42000000000000004;Positive
+1372;KPK Bakal Jemput Paksa Kader Golkar Jika Mangkir Lagi;0.34;0.42000000000000004;Positive
+1373;Tersangka Penyuap Damayanti Segera Diseret ke Meja Hijau;0.34;0.42000000000000004;Positive
+1374;KPK Bidik Kesaksian Pejabat Balai Jalan IX untuk Kader Golkar;0.34;0.42000000000000004;Positive
+1375;KPK Telusur Surat Dokter Fiktif Kader Golkar;0.34;0.42000000000000004;Positive
+1376;Kasus Damayanti, KPK Periksa Perdana Tersangka Kader Golkar;0.34;0.42000000000000004;Positive
+1377;Pemerintah Siap Tampung Karet Produksi Dalam Negeri;0.34;0.42000000000000004;Positive
+1378;KPK Periksa Dua Pejabat Kemenpera Terkait Suap Kader Golkar;0.34;0.42000000000000004;Positive
+1379;KPK Periksa Dua Sopir Pribadi Tersangka Damayanti;0.34;0.42000000000000004;Positive
+1380;Mekanisme Pembahasan Anggaran di DPR Akan Dievaluasi;0.34;0.42000000000000004;Positive
+1381;Jokowi Targetkan Pembangunan Tiga Tol di Sumut Kelar 2017;0.34;0.42000000000000004;Positive
+1382;Golkar Belum Tentukan Sanksi untuk Tersangka Budi Supriyanto;0.34;0.42000000000000004;Positive
+1383;Golkar Berikan Bantuan Hukum Bila Diminta Budi Supriyanto;0.34;0.42000000000000004;Positive
+1384;Politikus Golkar Budi Supriyanto Jadi Tersangka Suap;0.34;0.42000000000000004;Positive
+1385;Presiden Jokowi Resmikan Pengembangan Bandara Rembele Aceh;0.34;0.42000000000000004;Positive
+1386;Wakil Ketua Komisi V DPR Irit Bicara Setelah Diperiksa KPK;0.34;0.42000000000000004;Positive
+1387;Wakil Ketua Komisi V Lazarus Penuhi Panggilan KPK;0.34;0.42000000000000004;Positive
+1388;Pemerintah Urung Tetapkan Besaran Iuran Tapera;0.34;0.42000000000000004;Positive
+1389;Pemerintah Siap Hadapi Uji Materi UU Tapera;0.34;0.42000000000000004;Positive
+1390;Tersangka Penyuap Damayanti Dilarikan ke Rumah Sakit;0.34;0.42000000000000004;Positive
+1391;Tiga Politisi PKB Diperiksa KPK soal Damayanti;0.34;0.42000000000000004;Positive
+1392;Politikus PKB Diincar KPK soal Kasus Damayanti;0.34;0.42000000000000004;Positive
+1393;KPK Periksa Sekjen Kementerian PUPR;0.34;0.42000000000000004;Positive
+1394;Dua Politikus PKB Diincar KPK Soal Kasus Damayanti;0.34;0.42000000000000004;Positive
+1395;KPK Bakal Umumkan Tersangka Baru Kasus Damayanti;0.34;0.42000000000000004;Positive
+1396;KPK Panggil Ulang Politikus PKB untuk Damayanti;0.34;0.42000000000000004;Positive
+1397;Damayanti Disebut Danai Proyek Sosialisasi;0.34;0.42000000000000004;Positive
+1398;KPK Gali Keterangan Mantan Bupati Kendal untuk Damayanti;0.34;0.42000000000000004;Positive
+1399;Rencana Akuisisi Kawasan Industri Direspon Positif Asosiasi;0.34;0.42000000000000004;Positive
+1400;Dicecar KPK, Wali Kota Semarang Akui Kenal Damayanti;0.34;0.42000000000000004;Positive
+1401;KPK Bedah Kesaksian Wali Kota Semarang untuk Damayanti;0.34;0.42000000000000004;Positive
+1402;KPK Telusuri Aliran Uang Damayanti ke Politisi PAN;0.34;0.42000000000000004;Positive
+1403;KPK Bakal Gelar Perkara Kasus Damayanti;0.34;0.42000000000000004;Positive
+1404;Politikus Hanura Bersaksi untuk Kasus Suap Damayanti;0.34;0.42000000000000004;Positive
+1405;Kasus Damayanti, KPK Bedah Perencanaan Proyek Jalan;0.34;0.42000000000000004;Positive
+1406;Sekjen DPR Bersaksi untuk Damayanti;0.34;0.42000000000000004;Positive
+1407;Usai Dibedah KPK, Dirjen Bina Marga Irit Bicara;0.34;0.42000000000000004;Positive
+1408;Dirjen Bina Marga Diincar KPK Ihwal Suap Damayanti;0.34;0.42000000000000004;Positive
+1409;Tunda Keputusan Blok Masela, Jokowi Tunggu Inpex dan Shell;0.34;0.42000000000000004;Positive
+1410;Pengacara Akui Teman Damayanti Jadi Perantara Suap;0.34;0.42000000000000004;Positive
+1411;Pemerintah Bakal Buka 100% Pengelolaan Jalan Tol untuk Asing;0.34;0.42000000000000004;Positive
+1412;Kasus Damayanti, KPK Garap Pejabat Anggaran di Kementerian PU;0.34;0.42000000000000004;Positive
+1413;Kasus Damayanti, KPK Intensif Bidik Pengusaha Kontraktor;0.34;0.42000000000000004;Positive
+1414;Kasus Damayanti, Pejabat PU Ungkap Proyek Senilai Rp2 Triliun;0.34;0.42000000000000004;Positive
+1415;Suap Diduga Mengalir ke Tiga Kolega Damayanti dan Pejabat PU;0.34;0.42000000000000004;Positive
+1416;Bos Kontraktor Dicecar Ulang KPK Kasus Suap Damayanti;0.34;0.42000000000000004;Positive
+1417;Tersangka Penyuap Damayanti Bongkar Sistem Ijon Proyek Jalan;0.34;0.42000000000000004;Positive
+1418;Politikus Golkar Diperiksa KPK Soal Perkara Damayanti;0.34;0.42000000000000004;Positive
+1419;Pejabat PUPR Ungkap Usul Proyek Damayanti di Pulau Seram;0.34;0.42000000000000004;Positive
+1420;Usut Damayanti, KPK Periksa Bos Kontraktor dan Pejabat PU;0.34;0.42000000000000004;Positive
+1421;Legislator PDIP Jadi Tersangka Suap Pengamanan Proyek;0.34;0.42000000000000004;Positive
+1422;Rekam Jejak Anggota DPR Damayanti yang Ditangkap KPK;0.34;0.42000000000000004;Positive
+1423;KPK Incar Politisi Senayan Sejak Tahun Lalu;0.34;0.42000000000000004;Positive
+1424;Hadiri Rakernas PDIP, Jokowi Tidak Kenakan Atribut Partai;0.34;0.42000000000000004;Positive
+1425;Presiden Jokowi dan Para Menteri Hadiri Rakernas PDIP;0.34;0.42000000000000004;Positive
+1426;Jokowi Puji Kerja Menteri Soal Serapan Anggaran;0.34;0.42000000000000004;Positive
+1427;Presiden Jokowi dan Rombongan Mendarat di Merauke;0.34;0.42000000000000004;Positive
+1428;Wisma Atlet Asian Games 2018 Batal Dibangun Pemprov DKI;0.34;0.42000000000000004;Positive
+1429;Jokowi Perintahkan Bendungan Rotiklot Selesai dalam 3 Tahun;0.34;0.42000000000000004;Positive
+1430;Pemerintah Tunda Pelaksanaan Tender Dua Bendungan;0.34;0.42000000000000004;Positive
+1431;Pemerintah Tolak Formula Tetap Penaikan Harga Rumah Versi REI;0.34;0.42000000000000004;Positive
+1432;Kementrian PUPR Bantu Kemenpora Demi Asian Games;0.34;0.42000000000000004;Positive
+1433;Bangun Tol 1.000 Km, Jokowi Siapkan Anggaran Rp313 Triliun;0.34;0.42000000000000004;Positive
+1434;Penerbitan Izin Membangun Rumah Murah Dipangkas jadi 14 Hari;0.34;0.42000000000000004;Positive
+1435;Pinjaman China untuk 4 Proyek Tol Cair Desember 2015;0.34;0.42000000000000004;Positive
+1436;Anggaran FLPP Ludes, Pemerintah Tetap Minta Bank Salurkan KPR;0.34;0.42000000000000004;Positive
+1437;Pemerintah Perketat Pembangunan Rusun untuk Jaga Ruang Publik;0.34;0.42000000000000004;Positive
+1438;Menkeu Sentil Bank Daerah yang Rayu Pemda Agar Rajin Menabung;0.34;0.42000000000000004;Positive
+1439;Tinggal Sebulan, Dana Kementerian PUPR Mengendap Rp55 Triliun;0.34;0.42000000000000004;Positive
+1440;Tahun Ini, Menteri Basuki Garap 7 Proyek Mangkrak;0.34;0.42000000000000004;Positive
+1441;Kementerian PU-Pera Baru Serap 44,7 Persen Anggaran;0.34;0.42000000000000004;Positive
+1442;Tahun Ini Pemerintah Masih Utang Bangun Tiga Bendungan;0.34;0.42000000000000004;Positive
+1443;Pemerintah Bidik Rp 406,79 Triliun Lewat Tax Amnesty;0.34;0.42000000000000004;Positive
+1444;Dana FLPP Habis, Pemerintah Menunggak Rp 2,3 Triliun ke Bank;0.34;0.42000000000000004;Positive
+1445;Meski Kereta Cepat Bukan Proyek Negara, 12 Pejabat Dilibatkan;0.34;0.42000000000000004;Positive
+1446;Kejar Target Rumah Rakyat, REI Hadapi Kendala Klasik;0.34;0.42000000000000004;Positive
+1447;PMN Belum Cair, Perumnas Bersiap Revisi Target Bangun Rumah;0.34;0.42000000000000004;Positive
+1448;Jokowi Janjikan Bunga Bank Turun di Paket Jilid III;0.34;0.42000000000000004;Positive
+1449;Sengketa Infrastruktur Kini Bisa Diadukan ke Badan Arbitrase;0.34;0.42000000000000004;Positive
+1450;REI Minta Subsidi untuk Rumah Bagi Kelas Menengah;0.34;0.42000000000000004;Positive
+1451;Pemerintah yakin Mampu Capai Target Pembangunan Rumah Murah;0.34;0.42000000000000004;Positive
+1452;Cadangan Aspal Alam Tinggi, Malah Diekspor dengan Murah;0.34;0.42000000000000004;Positive
+1453;Waduk Jatigede, Hasil Kegagalan Dialog Negara dan Rakyatnya;0.34;0.42000000000000004;Positive
+1454;Jelang Ditenggelamkan, Warga Jatigede Akan Dirikan Posko;0.34;0.42000000000000004;Positive
+1455;Jokowi Dijadwalkan Tenggelamkan Waduk Jatigede Besok;0.34;0.42000000000000004;Positive
+1456;KAI Bantah Konflik dengan Pelindo II Soal Proyek Kereta;0.34;0.42000000000000004;Positive
+1457;Pemerintah akan Lelang Sukuk Proyek Rp 13,7 T  Tahun Depan;0.34;0.42000000000000004;Positive
+1458;Bos Pelindo II Kritik Jokowi Soal Kereta Trans Kalimantan;0.34;0.42000000000000004;Positive
+1459;Pemerintah Optimistis Mampu Genangi Jatigede 31 Agustus;0.34;0.42000000000000004;Positive
+1460;Wakil Bupati Sumedang: Sulit Rendam Jatigede pada 1 Agustus;0.34;0.42000000000000004;Positive
+1461;Sekda Sumedang Zainal Alimin: Jatigede Sepertinya Bakal Molor;0.34;0.42000000000000004;Positive
+1462;Jatigede: Cerita Panjang Persoalan Pembebasan Lahan;0.34;0.42000000000000004;Positive
+1463;Warga Bertahan di Desa yang Bakal Tenggelam oleh Jatigede;0.34;0.42000000000000004;Positive
+1464;Jokowi Minta Tol Solo-Sragen Beroperasi Sebelum Lebaran 2016;0.34;0.42000000000000004;Positive
+1465;Pemerintah Kebut Penyelesaian Tol Trans Jawa;0.34;0.42000000000000004;Positive
+1466;Pemerintah Pro Pengusaha, Swasta Boleh Berbisnis Air;0.34;0.42000000000000004;Positive
+1467;Lapang Golf Kemayoran akan Dirombak Jadi Rusun;0.34;0.42000000000000004;Positive
+1468;Subang Banjir Permintaan Lahan Industri Berkat Tol Cipali;0.34;0.42000000000000004;Positive
+1469;Dana Talangan Korban Disepakati Pemerintah dan Lapindo;0.34;0.42000000000000004;Positive
+1470;Jasa Marga Korting Tarif Tol Sampai 35 Persen Selama Lebaran;0.34;0.42000000000000004;Positive
+1471;8 Rest Area Beroperasi di Tol Cipali Pekan Ini;0.34;0.42000000000000004;Positive
+1472;Aturan Persulit Pembebasan Lahan, Presiden: Bodoh Sekali Kita;0.34;0.42000000000000004;Positive
+1473;Menperin Minta BUMN Senjata Produksi Alat Berat;0.34;0.42000000000000004;Positive
+1474;Persiapan Kurang Baik, Belanja Kemenperin Tak Sesuai Harapan;0.34;0.42000000000000004;Positive
+1475;Timses Jokowi-JK, Hironimus Hilapok Jadi Komisaris Adhi Karya;0.34;0.42000000000000004;Positive
+1476;Menteri Anies Minta Masyarakat Laporkan Lintasan Berbahaya;0.34;0.42000000000000004;Positive
+1477;Menteri Anies: Negara Harus Pastikan Keselamatan Siswa;0.34;0.42000000000000004;Positive
+1478;Percepat Konversi Gas, Pemerintah Bangun 22 SPBG;0.34;0.42000000000000004;Positive
+1479;Menteri PU Minta Tambah Anggaran Rp 47,5 T dalam APBNP 2015;0.34;0.42000000000000004;Positive

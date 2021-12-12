@@ -1,0 +1,73 @@
+,sentence,sentiment,polarity,Sentiment_Type
+0,OTT Bupati Mesuji Diduga Terkait Proyek Infrastruktur Dinas PUPR ...,0.0,0.23333333333333334,Neutral
+1,KPK Periksa Irjen Kementerian PUPR dalam Kasus Korupsi SPAM ...,0.05000000000000002,0.5,Positive
+2,KPK Menahan 8 Tersangka Kasus Suap Kementerian PUPR ...,0.0,0.0,Neutral
+3,"OTT Kementerian PUPR, KPK Tetapkan 8 Orang sebagai Tersangka",0.0,0.0,Neutral
+4,"Kasus Suap Kementerian PUPR, KPK Geledah Dua Lokasi ...",0.0,0.0,Neutral
+5,Begini Detail Kronologi OTT Kementerian PUPR di Jakarta ...,0.0,0.0,Neutral
+6,"Bawahannya Kena OTT KPK, Begini Reaksi Menteri PUPR ...",0.0,0.06666666666666667,Neutral
+7,"20 Orang Terjaring OTT, Irjen Kementerian PUPR Datangi KPK ...",0.02500000000000001,0.2833333333333333,Positive
+8,"Kasus SPAM Kementerian PUPR, KPK Sita Deposito Rp 1 Miliar ...",0.0,0.0,Neutral
+9,"Kasus Suap SPAM Kementerian PUPR, Dari Toba hingga Donggala ...",0.0,0.0,Neutral
+10,"Suap PUPR, KPK Sita Deposito Rp 1 Miliar dan Uang Rp 200 Juta ...",0.0,0.0,Neutral
+11,"Nihil Informasi, Irjen Kementerian PUPR Tinggalkan Gedung KPK ...",0.02500000000000001,0.2833333333333333,Positive
+12,PUPR: Integrasi Tol JORR Efektif Mulai 29 September 2018 - bisnis ...,0.3,0.45,Positive
+13,"OTT Kementerian PUPR, KPK Duga Bukan Transaksi Pertama ...",0.25,0.3333333333333333,Positive
+14,Kementerian PUPR Optimistis Program Sejuta Rumah 2018 Tercapai,0.0,0.0,Neutral
+15,"Pembangunan Palu Baru, PUPR Perkirakan Dana Rp 6 Triliun ...",0.13636363636363635,0.45454545454545453,Positive
+16,KPK Operasi Tangkap Tangan Pejabat Kementerian PUPR ...,0.0,0.0,Neutral
+17,"Kasus Suap PUPR, KPK Menyita Rp 800 Juta dari Kantor SPAM ...",0.0,0.0,Neutral
+18,PUPR: Pembangunan Rumah Korban Gempa Lombok di NTB Lambat,-0.30000000000000004,0.39999999999999997,Negative
+19,Kementerian PUPR: Perbaikan Flyover Cengkareng Butuh Waktu Lagi,0.5,0.5,Positive
+20,"Suap PUPR, KPK Tetapkan Direktur Sharleen Raya Jadi Tersangka ...",0.0,0.0,Neutral
+21,JK Minta Menteri PUPR Buat Standarisasi Perumahan - bisnis ...,0.0,0.0,Neutral
+22,Kementerian PUPR Bangun Pipa Transmisi Air Baku di Merauke ...,-0.23076923076923078,0.46153846153846156,Negative
+23,PUPR Targetkan Empat Proyek Infrastruktur Ini Rampung Tahun 2019,0.0,0.0,Neutral
+24,ESDM Serahkan Peta Daerah Aman Hunian ke PUPR dan Pemda ...,0.25,0.25,Positive
+25,Menteri PUPR Tegaskan Pembangunan Trans Papua Terus Berlanjut,0.0,0.0,Neutral
+26,Begini Perubahan Pengadaan Barang dan Jasa di Kementrian PUPR,0.0,0.0,Neutral
+27,Menteri PUPR Pastikan Semua Proyek Pemerintahan Jokowi Selesai,0.0,0.0,Neutral
+28,KPK Geledah Ruang Kerja Bupati Cirebon dan Dinas PUPR ...,0.0,0.0,Neutral
+29,Wajah 8 Tersangka dalam OTT Kementerian PUPR - Foto Tempo.co,0.0,0.0,Neutral
+30,OTT Bupati Labuhanbatu Diduga Terkait Proyek di Dinas PUPR ...,0.0,0.4,Neutral
+31,"Gempa Lombok, PUPR Ajak Mahasiswa Jadi Fasilitator ...",0.0,0.0,Neutral
+32,Menteri PUPR Bidik 300 Jembatan Gantung Dibangun 2018 - 2019 ...,0.0,0.0,Neutral
+33,Menteri PUPR: Program Sejuta Rumah Capai Target Bulan Lalu ...,0.0,0.06666666666666667,Neutral
+34,PUPR akan Beri Penghargaan bagi Pekerja Istaka Karya yang Syahid,0.0,0.0,Neutral
+35,Kementerian PUPR Resmikan Kampung Rumah Swadaya di ...,0.0,0.0,Neutral
+36,"Curhat Menteri PUPR, Rumah Pribadi Digusur untuk Tol Becakayu ...",0.25,0.6041666666666667,Positive
+37,"Pembunuhan Pekerja di Papua, Menteri PUPR: Komunikasi dengan ...",0.0,0.0,Neutral
+38,"Prediksi Jakarta Tenggelam, Menteri PUPR Sepakat Pendapat ...",0.0,0.0,Neutral
+39,PUPR Jawab Sandiaga Uno: Pemerintah Tidak Berutang di Tol Cipali,0.0,0.0,Neutral
+40,Menteri Basuki Melepas CPNS Kementerian PUPR Relawan ...,0.0,0.0,Neutral
+41,"2019, PUPR: Tak Ada Proyek Infrastruktur Baru Kecuali Bendungan ...",-0.06818181818181818,0.45454545454545453,Negative
+42,"Gempa Lombok, PUPR Akan Bangun Kembali 3.500 Rumah yang ...",0.0,0.0,Neutral
+43,Menteri PUPR Cerita Heroisme Pahlawan Sapta Taruna - bisnis ...,0.0,0.0,Neutral
+44,PUPR Pertimbangkan Usulan Pengembang Soal Kenaikan Harga ...,0.0,0.0,Neutral
+45,"Kementerian PUPR Serahkan Aset Rp 1,86 Triliun ke Daerah ...",0.0,0.0,Neutral
+46,"Kementerian PUPR Kucurkan Rp 80,9 Miliar Bangun Tanjung Lesung",0.0,0.0,Neutral
+47,PUPR: Program Satu Juta Rumah 2018 Tembus 1.132.621 Unit ...,0.0,0.0,Neutral
+48,"Gempa Lombok, Kementerian PUPR Kirim Tim Data Jalan dan ...",0.0,0.0,Neutral
+49,"Pasca Pembunuhan Pegawai Istaka, Menteri PUPR Terbang ke ...",0.8,0.9,Positive
+50,Menteri PUPR Jadi Pembawa Obor di Pawai Asian Games 2018 ...,-0.125,0.11666666666666667,Negative
+51,"Sidang Zumi Zola, Jaksa Hadirkan Saksi dari Dinas PUPR Jambi ...",0.0,0.0,Neutral
+52,Kementerian PUPR Akan Cek Proyek Meikarta - bisnis Tempo.co,0.0,0.0,Neutral
+53,PUPR: Pembangunan Rumah Korban Gempa Lombok di NTB Lambat,-0.30000000000000004,0.39999999999999997,Negative
+54,"Bersihkan Kali Item, Kementerian PUPR: Tak Masalah, Itu Biasa ...",0.05833333333333335,0.6000000000000001,Positive
+55,"Suap PUPR, KPK Tetapkan Direktur Sharleen Raya Jadi Tersangka ...",0.0,0.0,Neutral
+56,Tanggapan Menteri PUPR Saat Bawahannya Kena OTT KPK ...,0.0,0.06666666666666667,Neutral
+57,"Bantah Flyover Cengkareng Retak, PUPR: Pemeliharaan Jembatan ...",0.0,0.0,Neutral
+58,JK Minta Menteri PUPR Buat Standarisasi Perumahan - bisnis ...,0.0,0.0,Neutral
+59,Kementerian PUPR Bangun Pipa Transmisi Air Baku di Merauke ...,-0.23076923076923078,0.46153846153846156,Negative
+60,"Jalan Gubeng Ambles, PUPR: 5 Hari Lagi Bisa Berfungsi - bisnis ...",0.5,0.5,Positive
+61,Menteri PUPR Pelajari Teknologi Peningkatan Dam di Jepang ...,0.0,0.0,Neutral
+62,Ini Kata Pejabat PUPR Membantah Flyover Cengkareng Sudah ...,0.0,0.0,Neutral
+63,ESDM Serahkan Peta Daerah Aman Hunian ke PUPR dan Pemda ...,0.25,0.25,Positive
+64,"Menteri PUPR: Dipompa, Satu-satunya Cara Hilangkan Bau Kali ...",0.0,1.0,Neutral
+65,Menteri PUPR Tegaskan Pembangunan Trans Papua Terus Berlanjut,0.0,0.0,Neutral
+66,Kementerian PUPR Akan Buat Program Padat Karya Infrastruktur di ...,0.0,0.1,Neutral
+67,Begini Perubahan Pengadaan Barang dan Jasa di Kementrian PUPR,0.0,0.0,Neutral
+68,"Korban Penjambretan, Dirjen Kementerian PUPR Alami Patah Tulang",-0.085,0.2166666666666667,Negative
+69,Penjelasan PUPR Soal Penyebab Pergeseran Beton Flyover Rawa ...,0.15000000000000002,0.30000000000000004,Positive
+70,Basuki Hadimuljono Lantik 127 Orang di Jajaran Kementerian PUPR,0.0,0.0,Neutral
+71,Menteri PUPR Keluhkan Dana Mitigasi Bencana PBB yang Masih ...,0.0,0.0,Neutral

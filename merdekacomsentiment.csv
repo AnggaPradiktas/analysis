@@ -1,0 +1,161 @@
+,sentence,sentiment,polarity,Sentiment_Type
+0,Menteri PUPR Tunggu Gubernur Sulawesi Tengah Beri Peta Zona Rawan Bencana Palu,0.0,0.25,Neutral
+1,Menteri Basuki Belum Terima Laporan Kerusakan Infrastruktur Akibat Banjir di Sulsel,-0.125,0.375,Negative
+2,Wapres JK Minta Menteri PUPR Buat Standarisasi Perumahan,0.0,0.0,Neutral
+3,"Suap Proyek di Kementerian PUPR, KPK Periksa Mantan Dirjen Cipta Karya",0.02500000000000001,0.25,Positive
+4,"Cegah Banjir, Kementerian PUPR Normalisasi Sungai di Bima",0.0,0.0,Neutral
+5,KPK Periksa 2 Saksi Terkait Kasus Suap Proyek Air Kementerian PUPR,0.0,0.0,Neutral
+6,"Hadapi Potensi Bencana Tsunami, PUPR Dorong Pembangunan Tempat Evakuasi Sementara",0.0,1.0,Neutral
+7,"Pertama Kali, Program Satu Juta Rumah Capai Target di 2018",0.25,0.3333333333333333,Positive
+8,KPK Periksa Kepala Satuan Kerja SPAM Terkait Suap,0.0,0.0,Neutral
+9,Menteri Basuki: Tol Trans Jawa Dukung Peningkatan Daya Saing Global,0.0,0.0,Neutral
+10,Jokowi: Pemerintah Rehabilitasi 3 Juta Hektare Irigasi Primer,0.4,0.5,Positive
+11,Kementerian PUPR Ganti Pejabat yang Kena OTT KPK Terkait Kasus Suap,0.0,0.4,Neutral
+12,"2019, Infrastruktur Kerakyatan Tetap Jadi Prioritas Pemerintah",0.0,0.0,Neutral
+13,Ini Jumlah Uang Sitaan KPK Hasil OTT Pejabat Kementerian PUPR,0.0,0.0,Neutral
+14,Menteri PUPR Sebut Kantor Digeledah KPK Satker SPAM di Pejompongan,0.0,0.0,Neutral
+15,Menteri Basuki Duga OTT Kementerian PUPR Buntut Lelang Proyek Penyediaan Air Minum,-0.1,0.1,Negative
+16,KPK Duga Suap Proyek Air Daerah Bencana di Kementerian PUPR Bukan Pertama Kali,0.075,0.21666666666666667,Positive
+17,"Anak Buah Kena OTT, Menteri PUPR Tunggu Penjelasan KPK",0.0,0.0,Neutral
+18,Irjen Kementerian PUPR Datangi KPK Konfirmasi OTT Sejumlah Pejabat,0.05000000000000002,0.5,Positive
+19,"OTT Kementerian PUPR, KPK Sita Rp 500 Juta, SGD 25 Ribu & Sekardus Uang",-0.2,0.1,Negative
+20,OTT Kementerian PUPR Terkait Proyek Penyediaan Air Minum Untuk Bencana?,0.0,0.4,Neutral
+21,OTT Pejabat Kementerian PUPR Diduga Terkait Proyek Penyediaan Air Minum,0.0,0.23333333333333334,Neutral
+22,"OTT Pejabat Kementerian PUPR, KPK Tangkap 20 Orang",0.0,0.0,Neutral
+23,"OTT Pejabat Kementerian PUPR, KPK Amankan 4 Orang dan Sita Dolar Singapura",0.0,0.0,Neutral
+24,KPK Dikabarkan Tangkap Pejabat Kementerian PUPR,0.0,0.0,Neutral
+25,PUPR: Ada Sekitar 600 Rumah di Banten dan Lampung yang Harus Diperbaiki,0.0,0.0,Neutral
+26,"Flyover Cengkareng Bukan Retak, Pemerintah Bilang Sedang Proses Pemeliharaan",0.0,0.0,Neutral
+27,"Kabar Jalan Tol Salatiga-Kartasura Ambrol Hoaks, Ini Faktanya",0.0,0.0,Neutral
+28,"Cetak Tenaga Kerja Terampil, Kementerian PU-PR Bareng Undip Dirikan Politeknik",0.25,0.2833333333333333,Positive
+29,PUPR Distribusikan 4.000 Liter Air Bersih ke Pengungsian Tsunami Banten,0.3666666666666667,0.7000000000000001,Positive
+30,"Pengadaan Tanah 2 Bendungan Pengendali Banjir Jakarta Capai Rp 1,45 T",0.0,0.0,Neutral
+31,Pembebasan Lahan 2 Bendungan Penahan Banjir Jakarta Terkendala Vila,0.0,0.0,Neutral
+32,Pemerintah Akan Bangun Rumah Korban Tsunami Lampung,0.0,0.0,Neutral
+33,Gerak Cepat Pemerintah Tangani Tsunami Banten,0.3333333333333333,0.5,Positive
+34,Menteri Basuki soal Tsunami Selat Sunda: Tidak Banyak Infrastruktur Terdampak,-0.1,0.2,Negative
+35,Kementerian PUPR Resmi Tunjuk 25 Bank Penyalur Kredit FLPP di 2019,0.0,0.0,Neutral
+36,"Tanggap Darurat Tsunami Selat Sunda, Kementerian PUPR Kerahkan Alat Berat",-0.06666666666666667,0.2111111111111111,Negative
+37,Menteri PUPR Targetkan Pendataan Bangunan Rusak Akibat Tsunami Banten Selesai 5 Hari,0.0,0.0,Neutral
+38,Menteri PUPR Tinjau Lokasi Tsunami Banten,0.0,0.0,Neutral
+39,PUPR Resmi Gandeng 25 Bank Penyalur KPR Subsidi,0.0,0.0,Neutral
+40,Skema KPR untuk Golongan Milenial Ditarget Terbit Awal 2019,0.1,0.3,Positive
+41,"Perluas Skema FLPP, Menteri Basuki Ingin Milenial Bisa Punya Rumah",0.2,0.1,Positive
+42,PUPR Gandeng 25 Bank Salurkan Dana FLPP di 2019,0.0,0.0,Neutral
+43,"Kementerian PUPR Dapat Pembiayaan Lewat SBSN Rp 12,7 Triliun di 2018",0.0,0.0,Neutral
+44,Pramono Anung Tiduran di Jembatan Kalikuto Rayakan Rampungnya Trans Jawa,0.0,0.0,Neutral
+45,Menteri PUPR Terjunkan Tim Selidik Sebab Jalan Gubeng Ambles,0.0,0.06666666666666667,Neutral
+46,Menteri Basuki Terima Penghargaan HB IX Award dari UGM,0.0,0.0,Neutral
+47,PUPR Cek Jalan Gubeng Ambles: Pengembang Lalai Keamanan Konstruksi,0.0,0.0,Neutral
+48,"Besok, Bendungan Logung di Kudus Siap Diairi",0.2,0.5,Positive
+49,Kelanjutan Proyek Trans Papua Tunggu Lampu Hijau TNI-Polri,0.1,0.5,Positive
+50,Menteri Basuki: Milenial Perlu Tahu Infrastruktur Persatukan RI,0.0,0.0,Neutral
+51,Daftar Penerima Penghargaan PUPR Tahun 2018,0.0,0.0,Neutral
+52,Menteri Basuki Beri Bantuan Program Senilai Rp 20 M buat Pemda & Mitra,0.0,0.0,Neutral
+53,4 Ruas Tol Baru Ini Bisa Dipakai Sebelum Natal 2018,0.13636363636363635,0.45454545454545453,Positive
+54,"Sebelum Terjadi Penembakan, Wilayah Kerja Istaka Karya Dinilai Aman",0.5,0.5,Positive
+55,Asosiasi Jalan Tol Indonesia Kembali Dihidupkan Setelah Vakum 20 Tahun,-0.008333333333333333,0.0,Negative
+56,Menteri Basuki dan Panglima TNI Akan Terbang ke Wamena Malam Ini,0.8,0.9,Positive
+57,Menteri Basuki Tegaskan Proyek Trans Papua Terus Berlanjut,0.0,0.0,Neutral
+58,Menteri PUPR Angkat Bicara Terkait Penembakan Pekerja di Papua,0.0,0.0,Neutral
+59,"Pekerjanya Ditembak Pemberontak Papua, Istaka Karya Janji Beri Santunan",0.0,0.0,Neutral
+60,Menteri Basuki: Tak Ada Penolakan Warga Terkait Pembangunan Trans Papua,0.0,0.0,Neutral
+61,Menteri PUPR soal Aksi Pembunuhan di Papua: Warga Yigi Jamin Keselamatan Pekerja,0.1,0.1,Positive
+62,"31 Pekerja di Papua Dibunuh, Proyek Jembatan Dihentikan Sementara",-0.2,0.0,Negative
+63,Tol Cigatas Mulai Ditender Awal Tahun 2019,0.1,0.3,Positive
+64,"Harbak PU ke-73, Kenang Pahlawan Pelindung Gedung Sate",0.0,0.0,Neutral
+65,"Tol Bandung-Tasikmalaya Sedang Proses Penetapan Lokasi, Mulai Dilelang Tahun Depan",0.0,0.05,Neutral
+66,Menteri PUPR Datangi Gedung Sate Kenang Perjuangan Pemuda yang Gugur,0.0,0.0,Neutral
+67,Menteri PUPR Sesumbar Selesaikan Pekerjaan Rumah Yang Besar di 2019,0.15714285714285714,0.41428571428571426,Positive
+68,Tol Bocimi Seksi Satu Gratis Selama Seminggu Sejak Resmi Dibuka Presiden Jokowi,0.4,0.8,Positive
+69,Pemerintah Bakal Bangun 300 Jembatan Gantung Hingga 2019,0.0,0.0,Neutral
+70,Menteri Basuki Mulai Bangun Pipa Transmisi Untuk Penyediaan Air Baku Merauke,-0.23076923076923078,0.46153846153846156,Negative
+71,Tol Layang Jakarta - Cikampek Target Bisa Digunakan Pada Musim Mudik Tahun Depan,0.0,0.0,Neutral
+72,PUPR: Pengerjaan Proyek di Tol Jakarta - Cikampek Dibagi 3 Wilayah Kerja,0.0,0.0,Neutral
+73,Pemerintah Pastikan Sudah Antisipasi Tenggelamnya Jakarta yang Diprediksikan Prabowo,0.0,0.0,Neutral
+74,Data PUPR: Masih Ada 13 PDAM 'Sakit' di 2018,-0.5,1.0,Negative
+75,PUPR: Bendungan Mila di Pulau Sumbawa Siap Digenangi Awal Desember 2018,0.15000000000000002,0.4,Positive
+76,Pemerintah Jamin Tarif Air Minum Maksimal 4 Persen dari UMP,0.0,0.0,Neutral
+77,Kementerian PUPR Tingkatkan Kompetensi Keselamatan Kerja Konstruksi BUMN Karya,0.0,0.0,Neutral
+78,Kementerian PUPR Sertifikasi 3.255 Tenaga Kerja Konstruksi,0.0,0.0,Neutral
+79,"Hingga 4 November, penyerapan anggaran Kementerian PUPR baru 70 persen",0.0,1.0,Neutral
+80,"Tak mau mangkrak, Menteri Basuki bakal lelang dini proyek infrastruktur 2019",0.1,0.3,Positive
+81,"Memasuki musim hujan, Kementerian PUPR siaga banjir di 20 kota",0.0,0.0,Neutral
+82,Kemen PUPR pertanyakan maksud Anies Baswedan soal naturalisasi sungai atasi banjir,0.0,0.06666666666666667,Neutral
+83,Proyek Tol Salatiga-Kartasura diperkirakan tuntas akhir November,-0.1,0.4,Negative
+84,Menteri PUPR: Seluruh tol Trans Jawa akan dioperasikan sebelum akhir Desember 2018,0.0,0.0,Neutral
+85,"Kementerian PUPR anggarkan belanja infrastruktur Rp 110,7 triliun di 2019",0.0,0.0,Neutral
+86,"Pemerintah target bina 3,3 juta tenaga kerja konstruksi per tahun",0.0,0.0,Neutral
+87,"PUPR: Dari 8,14 juta tenaga konstruksi RI, baru 5,96 persen yang kantongi sertifikat",0.0,1.0,Neutral
+88,"Tak bangun irigasi di Lhok Guci, Menteri Basuki kerap diomeli Jokowi",0.0,0.0,Neutral
+89,"Penuhi janji, Jokowi buat perbatasan negara jadi pusat embrio pertumbuhan ekonomi",0.05,0.15000000000000002,Positive
+90,Menteri Basuki: Total tol yang akan beroperasi capai 1.852 Km hingga 2019,0.0,0.75,Neutral
+91,Pengembang Meikarta akan diberi sanksi jika langgar aturan ini,0.0,0.0,Neutral
+92,"Pemerintah optimistis penyaluran program satu juta rumah capai 1,1 juta unit di 2018",0.0,0.0,Neutral
+93,Kementerian PU-PR ikut investigasi pelanggaran mega proyek Meikarta,0.0,0.0,Neutral
+94,"BP Tapera wajib terbentuk tahun ini agar dana Rp 2,5 triliun bisa segera cair",0.0,0.0,Neutral
+95,PUPR targetkan pembentukan BP Tapera rampung di 2019,0.0,0.0,Neutral
+96,"Pemerintah hibahkan aset negara Rp 1,86 triliun",0.0,0.0,Neutral
+97,"Ini kelebihan Risha, rumah anti gempa inisiasi Kementerian PUPR",0.0,0.0,Neutral
+98,Pemerintah targetkan Jembatan Surabaya di Lombok rampung akhir tahun,0.0,0.0,Neutral
+99,Menteri Basuki tinjau pembangunan rumah bantuan di Lombok,0.0,0.0,Neutral
+100,"Gara-gara banyak kasus korupsi libatkan pegawai PUPR, Basuki kerap ditelepon Jokowi",0.5,0.5,Positive
+101,"Minggu ini, PUPR bangun 1.200 hunian sementara untuk korban bencana Sulawesi Tengah",0.0,0.25,Neutral
+102,PUPR dorong pemakaian baja lokal dalam pembangunan infrastruktur,0.0,0.0,Neutral
+103,PUPR minta dukungan TNI kerjakan trans Mentawai,0.0,0.0,Neutral
+104,Pemerintah bangun 1.200 hunian sementara tampung korban gempa Sulteng,0.0,0.25,Neutral
+105,Anies Baswedan dampingi Jokowi tinjau kompleks GBK,-0.3,0.4,Negative
+106,Menteri Basuki: Biaya relokasi korban gempa Palu capai Rp 6 triliun,0.0,0.0,Neutral
+107,PUPR targetkan 13 ruas jalan tol beroperasi hingga Desember 2018,0.0,0.0,Neutral
+108,"2019, pemerintah lakukan pemeliharaan jalan nasional lewat availability payment",0.0,0.0,Neutral
+109,3 Fakta penyebab wilayah Petobo tak bisa lagi dihuni setelah 'ditelan bumi',0.0,0.0,Neutral
+110,PUPR bangun hunian sementara untuk korban gempa di Petobo dan Balaroa,0.0,0.0,Neutral
+111,PUPR desak produsen material infrastruktur perbaiki kualitas dan turunkan harga,0.0,0.0,Neutral
+112,PUPR sebut kualitas infrastruktur RI di Aljazair lebih baik dari China,0.5,0.5,Positive
+113,PUPR: 30 kontraktor asing gulung tikar karena tak kebagian proyek di Indonesia,-0.125,0.125,Negative
+114,Pemerintah ajak kontraktor Non-BUMN benahi infrastruktur di Palu,0.0,0.0,Neutral
+115,"Pemerintah izinkan warga Palu ambil barang di toko, ini alasannya",0.0,0.0,Neutral
+116,4 Strategi Kementerian PUPR tangani bencana Palu,0.0,0.06666666666666667,Neutral
+117,KemenPU-PR sediakan kebutuhan air bersih dan sanitasi korban gempa Palu-Donggala,0.3666666666666667,0.7000000000000001,Positive
+118,"Gempa & tsunami Sulteng, KemenPUPR segera bangun fasilitas umum darurat",0.0,0.15833333333333333,Neutral
+119,Kementerian PUPR mulai hitung kerugian negara akibat gempa dan tsunami Sulteng,-0.0625,0.3125,Negative
+120,"Resmi dibuka, tol Depok-Antasari gratis selama seminggu",0.4,0.8,Positive
+121,Kementerian PUPR terus tingkatkan konektivitas kawasan perbatasan,0.0,0.0,Neutral
+122,Kementerian PU-PR kebut penyelesaian tol Cisumdawu di Desember 2019,0.07500000000000001,0.15833333333333333,Positive
+123,"Lahan proyek jalan perbatasan sudah bebas 48,77 persen",0.4,0.8,Positive
+124,Kementerian PUPR terus dorong inovasi teknologi pembangunan terowongan,0.0,0.0,Neutral
+125,"Catat, tarif tol JORR menjadi Rp 15.000 berlaku akhir September 2018",0.0,0.0,Neutral
+126,"Pembangunan selesai, tol Depok-Antasari tunggu uji kelayakan operasi",0.1,0.4,Positive
+127,"Ganti rugi lahan dibayar Oktober, tol Kunciran - Serpong ditarget rampung April 2019",0.0,0.0,Neutral
+128,PUPR optimis program satu juta rumah capai target di tahun ini,0.0,0.0,Neutral
+129,Menengok nasib terkini fasilitas Asian Games 2018,0.25,0.45,Positive
+130,Kementerian PUPR apresiasi insan pendukung keberhasilan Asian Games 2018,0.15,0.0,Positive
+131,Kadin NTB buka toko bahan bangunan permudah masyarakat bangun rumah pasca gempa,0.0,0.0,Neutral
+132,Jurus PUPR kebut pembangunan rumah korban gempa tanpa libatkan kontraktor,0.0,0.0,Neutral
+133,Menteri Basuki manfaatkan teknologi hidrologi perbaiki irigasi RI,0.0,0.0,Neutral
+134,Menteri Basuki siap contek Korea Selatan dalam manajemen Sumber Daya Air,0.2,0.5,Positive
+135,Menteri Basuki ingin ahli teknik hidraulik buat inovasi sumber daya air,0.2,0.1,Positive
+136,"Jalan aspal dibangun, transportasi di Kabupaten Mahulu tak lagi lewat Sungai Mahakam",0.0,0.0,Neutral
+137,Kementerian PU-PR bangunkan jalan masyarakat pedalaman di perbatasan Kalimantan,0.0,0.044444444444444446,Neutral
+138,Jalan perbatasan Kalimantan sepanjang 1.070 Km selesai 2019,0.0,0.0,Neutral
+139,"Bertemu Menteri PUPR, Wagub NTB minta tambahan alat berat",-0.2,0.5,Negative
+140,Pemerintah hadiahi rumah untuk atlet peraih emas di Asian Games 2018,0.0,0.0,Neutral
+141,Pemerintah bakal sediakan bahan bangunan untuk korban gempa Lombok,0.0,0.0,Neutral
+142,Pemerintah kebut pembangunan fasilitas umum dan rumah masyarakat Lombok,0.1,0.08333333333333334,Positive
+143,"Pemerintah beri Rp 50 juta ke tiap KK, perbaiki rumah rusak akibat gempa",0.0,0.0,Neutral
+144,PUPR kirim 198 CPNS dan 178 insinyur bantu warga Lombok bangun hunian tahan gempa,0.0,0.0,Neutral
+145,"Selain uang Rp 1,5 miliar, atlet peraih medali ems Asian Games dihadiahi rumah",0.0,0.0,Neutral
+146,"Jadikan Manahan SUGBK mini, Kemen PUPR siapkan anggaran Rp 301 M",0.0,0.0,Neutral
+147,Ini aksi tanggap darurat Kementerian PUPR tangani gempa Lombok,0.1,0.1,Positive
+148,Pemerintah bakal gandeng mahasiswa perbaiki infrastruktur di Lombok,0.0,0.0,Neutral
+149,PUPR: Fasilitas publik Lombok akan berfungsi kembali Desember 2018,0.0,0.06666666666666667,Neutral
+150,Menteri Basuki: Pembangunan infrastruktur demi pemerataan dan keadilan,0.0,0.0,Neutral
+151,Ini rahasia Menteri Basuki dalam penciptaan bangunan ikonik di tiap daerah,0.04999999999999999,0.6,Positive
+152,Korban gempa Lombok dibebaskan sementara dari pembayaran cicilan KPR,0.0,0.0,Neutral
+153,"Beli rumah subsidi, masyarakat berpenghasilan rendah dapat asuransi ini",0.0,0.0,Neutral
+154,Menteri Basuki: RI perlu cara 'rock and roll' kejar ketertinggalan infrastruktur,0.0,0.0,Neutral
+155,"Per 28 Agustus, tarif tol akses Cikarang Dry Port mulai Rp 4.500",-0.06666666666666665,0.6,Negative
+156,Kementerian PU-PR bangun 582.638 unit rumah murah per 20 Agustus,0.0,0.0,Neutral
+157,Menteri Basuki ajak Kadin bangun rumah tahan gempa di Lombok,0.0,0.0,Neutral
+158,Konektivitas infrastruktur turunkan biaya logistik jadi 20 persen di 2019,0.0,0.0,Neutral
+159,Ketimpangan jumlah penduduk dan SDA jadi tantangan pembangunan infrastruktur RI,0.1,0.4,Positive

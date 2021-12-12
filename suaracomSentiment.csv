@@ -1,0 +1,290 @@
+,sentence,sentiment,polarity,Sentiment_Type
+0,Jokowi Telepon Menteri PUPR Minta Benteng Van Den Bosch Dipercantik,0.0,0.0,Neutral
+1,PUPR Ajak Komunitas Bantu Wujudkan Program Satu Juta Rumah,0.0,0.0,Neutral
+2,"Kasus Proyek Air Minum Kementrian PUPR, KPK Panggil Staf Keuangan PT. WKE",0.0,0.0,Neutral
+3,TNI Kodam Jaya Telah Tempati Rusun yang Dibangun PUPR,0.0,0.0,Neutral
+4,"5 Rusun TNI Dibangun di Jaktim, Kementerian PUPR : Semoga Mereka Nyaman",0.4,0.8,Positive
+5,Kementerian PUPR dan TNI Tingkatkan Kerja Sama Bangun NKRI,0.0,0.0,Neutral
+6,"Bangun Pompa Sedot di Kali Sentiong, PUPR Siapkan Anggaran Rp 450 Miliar",0.0,0.0,Neutral
+7,Tahun Ini Kementerian PUPR Bangun 9 Bendungan Senilai Rp 21 Triliun,0.3,0.1,Positive
+8,"Suap Air Minum di Kementerian PUPR, KPK Periksa Pejabat Bank BRI",0.0,0.0,Neutral
+9,Menteri PUPR Tak Keberatan Motor Masuk Tol,0.0,0.0,Neutral
+10,Intip Upaya Kementerian PUPR Bantu Urai Kemacetan Jabodetabek,0.0,0.06666666666666667,Neutral
+11,Menteri PUPR Optimis Pembangunan Infrastruktur dalam RPJMN Tercapai,0.0,0.0,Neutral
+12,"Bantu Pengairan Sawah Petani, PUPR Rehabilitasi Bendung Gerak Sembayat",0.0,0.0,Neutral
+13,Menteri PUPR Dampingi Wapres JK Tinjau Penanganan Banjir Sulsel,0.0,0.0,Neutral
+14,"Percantik Kawasan Wisata Labuan Bajo PUPR Gelontorkan Rp 40,35 Miliar",0.0,0.0,Neutral
+15,Polisi Endus Aliran Suap Proyek Air Minum PUPR Lewat Transaksi Bank,0.0,0.0,Neutral
+16,KPK Periksa 6 Saksi Kasus Suap di Kementerian PUPR untuk 3 Tersangka,0.0,0.0,Neutral
+17,KPK: Ada 20 Proyek di Kementerian PUPR Terindikasi Korupsi,0.0,0.0,Neutral
+18,"Cari Solusi Masalah Perumahan, Kementerian PUPR Gelar Forum Reboan",0.0,0.0,Neutral
+19,Kementerian PUPR Fasilitasi Tukang Cukur Asal Garut Miliki Rumah,0.0,0.0,Neutral
+20,"Pada 2019, PUPR Targetkan Bangun 1,25 Juta Rumah",0.0,0.0,Neutral
+21,"Suap Proyek Air Minum untuk Korban Bencana, KPK Panggil 2 Pejabat PUPR",0.0,0.0,Neutral
+22,"Kasus Suap Air Minum untuk Korban Bencana, KPK Periksa 2 Pejabat PUPR",0.0,0.0,Neutral
+23,"Lebih dari Target, Kementerian PUPR Bangun 1.132.621 Rumah pada 2018",0.5,0.5,Positive
+24,"Suap Proyek Air Minum, KPK Mulai Periksa Saksi di Lingkungan PUPR",0.0,0.0,Neutral
+25,"Kasus Suap Proyek Air Minum PUPR, KPK Geledah Kantor Ditjen Cipta Karya",0.02500000000000001,0.3,Positive
+26,KPK Berpeluang Tetapkan Tersangka Baru di Kasus Suap Proyek PUPR,0.13636363636363635,0.45454545454545453,Positive
+27,KPK Sita Uang Ratusan Juta dan Deposito Rp 1 M di Rumah Penyuap Proyek PUPR,0.0,0.0,Neutral
+28,"Usai Sita Uang Rp800 Juta, KPK Kini Geledah Rumah Penyuap Proyek PUPR",0.0,0.0,Neutral
+29,Menteri PUPR: Infrastruktur Kerakyatan Tetap Jadi Prioritas 2019,0.6,0.9,Positive
+30,KPK Tahan Delapan Tersangka Suap Proyek SPAM PUPR di Lokasi Berbeda,0.0,0.6,Neutral
+31,KPK tahan 8 Tersangka Suap Proyek SPAM di PUPR,0.0,0.0,Neutral
+32,"KPK Geram, Suap Pejabat PUPR Terkait Proyek Air Minum untuk Korban Bencana",0.0,0.0,Neutral
+33,Begini Kronologis OTT Pejabat Kementerian PUPR,0.0,0.0,Neutral
+34,Ini Uang Korupsi OTT Pejabat PUPR,0.0,0.0,Neutral
+35,KPK Tetapkan Delapan Tersangka OTT di Kementerian PUPR,0.0,0.0,Neutral
+36,OTT KPK di Kementerian PUPR Terkait Proyek Air Minum di Daerah Bencana,0.0,0.17777777777777778,Neutral
+37,"Anak Buah Terlibat OTT, Irjen Kementerian PUPR Sambangi KPK",0.05000000000000002,0.5,Positive
+38,"OTT Pejabat PUPR, KPK Dalami Kasus Penyediaan Air Minum Tanggap Darurat",0.0,0.0,Neutral
+39,"OTT Pejabat Kementerian PUPR, KPK Sita Uang Dolar Singapura",0.0,0.0,Neutral
+40,20 Orang Diamankan KPK Terkait OTT di Kementerian PUPR,0.0,0.0,Neutral
+41,KPK Dikabarkan OTT Pejabat Kementerian PUPR,0.0,0.0,Neutral
+42,PUPR: Negara Hadir dalam Menyediakan Rumah Layak Huni bagi Warga,0.0,0.0,Neutral
+43,"Flyover Rawa Buaya Retak, Anies Minta Kementerian PUPR Cek Flyover se - Jakarta",0.0,0.0,Neutral
+44,Menteri PUPR Sebut Flyover Rawa Buaya Bukan Retak Tapi Sedang Peregangan,0.0,0.0,Neutral
+45,Menteri PUPR: Flyover Rawa Buaya Tidak Retak,0.0,0.0,Neutral
+46,PUPR Perbaiki Fly Over Rawa Buaya yang Retak,0.8,0.9,Positive
+47,"Tanggul Muara Baru Sering Jebol, Pemprov Sebut Tanggung Jawab Kemen PUPR",0.0,0.0,Neutral
+48,Menteri PUPR Dorong REI Tingkatkan Penyediaan Rumah Terjangkau,0.0,0.0,Neutral
+49,Kementerian PUPR Akui Proyek Trans Papua Libatkan TNI AD buat Buka Jalan,0.0,0.5,Neutral
+50,"Sejuta Rumah, per 3 Desember 2018 PUPR Telah Bangun 1 Juta Unit Lebih",0.5,0.5,Positive
+51,Menteri PUPR Bantah Penembakan di Papua karena Warga Lokal Tak Dipekerjakan,0.0,0.0,Neutral
+52,"Menteri PUPR Klaim Lokasi Proyek Garapan Istaka Karya Aman, Nyatanya?",0.5,0.5,Positive
+53,Menteri PUPR Ajak Panglima TNI Terbang ke Papua Tinjau Lokasi Penembakan,0.8,0.9,Positive
+54,Kementrian PUPR Investigasi Jalur Puncak yang Retak,0.0,0.0,Neutral
+55,PUPR Serahterimakan Aset Rumah Senilai Rp 266 M pada Pemda,0.15,0.05,Positive
+56,Resmi! Bupati Pakpak Bharat Tersangka Suap Proyek Dinas PUPR,0.0,0.0,Neutral
+57,Kementerian PUPR Terjunkan 96 Insinyur Muda untuk Pulihkan NTB,0.03333333333333333,0.17777777777777778,Positive
+58,"Rampung, PUPR Uji Beban Jembatan Kalikuto di Ruas Batang-Semarang",0.0,0.0,Neutral
+59,PUPR: Rumah Khusus bagi Nelayan Diharapkan Selesai Desember 2018,0.12857142857142856,0.4857142857142857,Positive
+60,"Dengan BSPS, PUPR Selesaikan Rumah Layak Huni di Desa Semowo",0.0,0.0,Neutral
+61,"Kurangi Kawasan Kumuh di Jombang, PUPR Berikan Padat Karya Tunai",0.0,0.1,Neutral
+62,"Amankan Sawah Warga, PUPR Bangun Akses Patimban dengan Pile Slab",0.0,0.0,Neutral
+63,"Dukung Kinerja Petugas Lapas di Cilacap, PUPR Bangun Rusun",0.0,0.0,Neutral
+64,"Putus Akibat Banjir, PUPR Kirim Bailey untuk Jembatan Cipatujah",-0.125,0.375,Negative
+65,PUPR Dorong Percepatan Percepatan Sertifikasi Pekerja Konstruksi,0.0,0.0,Neutral
+66,Menteri PUPR: Pemerintah Belum Solid Soal RUU Pertanahan,0.0,0.1,Neutral
+67,PUPR: Pembangunan 134 Jembatan Gantung Selesai Akhir Tahun Ini,0.0,0.0,Neutral
+68,Menteri PUPR Pertanyakan Pembatalan Proyek Tol Bawen - Jogjakarta,0.0,0.0,Neutral
+69,Kantor Dinas PUPR Kabupaten Bekasi Disegel KPK,0.0,0.0,Neutral
+70,Detik-detik KPK Segel Ruangan Satu Lantai Dinas PUPR Bekasi,0.0,0.0,Neutral
+71,"Hingga Desember 2018, PUPR Siap Operasikan 13 Ruas Tol Baru",0.16818181818181818,0.4772727272727273,Positive
+72,"Masih Misteri, KPK Segel 4 Ruangan Dinas PUPR Kabupaten Bekasi",0.0,0.0,Neutral
+73,"KPK Segel Kantor Dinas PUPR Kabupaten Bekasi, Ada Apa?",0.0,0.0,Neutral
+74,KPK Menyita Aset Kepala Dinas PUPR Tulungagung,0.0,0.0,Neutral
+75,Kementrian PUPR Paparkan Progres Pembangunan Jalan 3 Provinsi,0.0,0.06666666666666667,Neutral
+76,PUPR Tengah Targetkan Pembangunan Terowongan Bukit Barisan,0.0,0.0,Neutral
+77,"Asian Para Games 2018, PUPR: Semoga Para Atlet Nyaman",0.2,0.4,Positive
+78,"Bangun Jembatan Pulau Balang, PUPR : Mobilitas Warga Dipersingkat",0.0,0.0,Neutral
+79,PUPR Targetkan Jalan Perbatasan Kaltara dan Kaltim Rampung 2019,0.0,0.0,Neutral
+80,PUPR: Bangun Jalan Trans Kalimantan Banyak Kendala,0.5,0.5,Positive
+81,"Hapernas 2018, Pertandingan Gateball PUPR Berlangsung Semarak",0.13636363636363635,0.5,Positive
+82,PUPR Pantau Pembangunan Rumah Rakyat melalui e-Monitoring,0.0,0.0,Neutral
+83,"Bangun Lombok, Kementerian PUPR Butuh 2.000 Mahasiswa Teknik",0.0,0.0,Neutral
+84,"74 Ribu Rumah Rusak di Gempa Lombok, PUPR Bantu 5.000 Rumah",0.0,0.0,Neutral
+85,PUPR Dorong Semua Pihak Wujudkan Rumah Rakyat Berkualitas,0.0,0.0,Neutral
+86,"Lantik Pejabat Baru, PUPR Harap Program Pemerintah Berjalan Baik",0.13636363636363635,0.45454545454545453,Positive
+87,"Agar Bantuan Tepat Sasaran, PUPR Minta Pemda Data Kawasan Kumuh",0.2857142857142857,0.5357142857142857,Positive
+88,Masyarakat Papua Barat Bersyukur Dapat Rumah Khusus dari PUPR,0.35714285714285715,0.5714285714285714,Positive
+89,"Harga Rumah Diusulkan Naik, PUPR: Masyarakat Jangan Terbebani",0.0,0.0,Neutral
+90,Kementerian PUPR Tegaskan Tak Ada Penundaan Proyek Infrastruktur,0.0,0.0,Neutral
+91,PUPR Sebut Kontraktor Lokal Mampu Bekerja Lebih Baik,0.3333333333333333,0.375,Positive
+92,"Gempa Lombok, PUPR Mobilisasi Alat Berat dan Tangki Air",-0.2,0.5,Negative
+93,Menteri PUPR: Pejabat Ditjen Penyedia Perumahan harus Kompak,0.0,0.0,Neutral
+94,"Dukung Bali Bersih, PUPR Buka Pusat Pendidikan Pengolahan Sampah",0.022222222222222227,0.26666666666666666,Positive
+95,PUPR Bangun 2 Rusun di Pesantren Modern Internasional Dea Malela,0.1,0.15,Positive
+96,Kementerian PUPR Bangun 5 Bendungan Baru di NTB,0.13636363636363635,0.45454545454545453,Positive
+97,Pentingnya Bendung Manganti Kementerian PUPR Mencegah Kekeringan,0.0,0.0,Neutral
+98,"Cetak Pekerja dari Napi, Menteri PUPR dan Menkumham Bikin MoU",0.0,0.0,Neutral
+99,Wujudkan Zero Accident Kementerian PUPR Sertifikasi Ahli K3,0.0,0.0,Neutral
+100,PUPR: Sistem Manajemen Proyek Pemerintah Perlu Terintegrasi,0.0,0.0,Neutral
+101,Menteri PUPR : Fasilitas Asian Games di Jakarta Rampung 99 Persen,0.0,0.0,Neutral
+102,PUPR Jadi Pengelola Surat Berharga Syariah Negara Terbaik,1.0,0.3,Positive
+103,Menteri Basuki Lantik 7 Pejabat Tinggi Madya Kementerian PUPR,0.0,0.0,Neutral
+104,PUPR Perlebar Bendung Karet Tirtonadi Solo 60 Meter,0.0,0.0,Neutral
+105,Kementerian PUPR Targetkan Bendungan Gondang Selesai Oktober 2018,0.0,0.0,Neutral
+106,Pesan Menteri Basuki Kepada Generasi Muda PUPR,0.1,0.4,Positive
+107,Menteri PUPR Bantah Anies Baswedan soal 6 Ruas Tol Dalam Kota,0.0,0.16666666666666666,Neutral
+108,"Korupsi Gubernur, KPK Geledah Kantor PUPR dan Dispora Aceh",0.0,0.0,Neutral
+109,PUPR Bangun Pengaman Pantai di Pulau Terdepan Provinsi Riau,0.0,0.0,Neutral
+110,Peran Penting Jafung Dalam Pengembangan Infrastruktur PUPR,0.4,1.0,Positive
+111,Kementerian PUPR Pelajari Pembangunan Berkonsep TOD,0.0,0.0,Neutral
+112,Direktur Sharleen Raya Jadi Tersangka Suap di Proyek PUPR,0.0,0.0,Neutral
+113,Kementerian PUPR: Gondang dan Giriroto Rampung 2018,0.0,0.0,Neutral
+114,Ucapan Dirgahayu Bhayangkara Ke-72 Dari Menteri PUPR,0.0,0.0,Neutral
+115,"Dirjen PUPR Patah Tulang karena Dijambret, Pelaku: Kasihan Pak",-0.25,0.5,Negative
+116,"Ditembak Mati, Ini Sosok Penjambret Dirjen PUPR",-0.075,0.45,Negative
+117,Jambret Dirjen PUPR Ternyata Sindikat Besar Geng Tenda Oranye,0.42500000000000004,0.625,Positive
+118,Polisi Tembak Mati Penjambret Dirjen PUPR,-0.075,0.45,Negative
+119,"Sudah Diendus, Polisi Buru 2 Penjambret Dirjen PUPR",0.05000000000000002,0.5,Positive
+120,Menteri PUPR Basuki Nyoblos Bersama Keluarga di Bekasi,0.0,0.0,Neutral
+121,Ini Alasan Polisi Kesulitan Ungkap Penjambret Dirjen Kemen PUPR,0.016666666666666673,0.2111111111111111,Positive
+122,Laporan Keuangan Kementerian PUPR 2017 Dapat Opini WTP dari BPK,0.0,0.0,Neutral
+123,"Jadi Korban Jambret, Polisi Belum Bisa Periksa Dirjen Kemen PUPR",0.06999999999999999,0.30333333333333334,Positive
+124,"Dirjen Kementerian PUPR Dijambret saat Bersepeda, Korban Terluka",0.02500000000000001,0.2833333333333333,Positive
+125,Kementerian PUPR: Integrasi Transaksi Tol JORR Lebih Efisien,0.5,0.5,Positive
+126,"Banjir Bandang Banyuwangi, PUPR Bersihkan Bendung Garit",0.3666666666666667,0.7000000000000001,Positive
+127,Menteri PUPR Minta Kekurangan Kecil Proyek GBK Cepat Dirampungkan,-0.016666666666666663,0.35555555555555557,Negative
+128,"Pakai Kaos Putih dan Kacamata Hitam, Menteri PUPR Tinjau GBK",0.0,0.0,Neutral
+129,"PUPR Alokasikan Rp 127,83 M Lanjutan Bangun Jalan Wisata Mandeh",0.0,0.0,Neutral
+130,Ini Upaya Kementerian PUPR Kurangi Risiko Banjir Kota Solo,0.0,0.0,Neutral
+131,Ini Penjelasan PUPR Soal Intergrasi Toll JORR,0.0,0.0,Neutral
+132,Menteri PUPR: Jangan Melebihi 60 km/jam di Tol Fungsional,0.0,0.0,Neutral
+133,"Mudik Lebaran, Menteri PUPR: Waspada 2 Titik Rawan Macet",0.0,0.0,Neutral
+134,"Belanja Infrastruktur PUPR Rp 15,4 Triliun",0.0,0.0,Neutral
+135,Peran Keluarga Zumi Zola Didalami di Pusaran Korupsi PUPR Jambi,0.0,0.0,Neutral
+136,Kementerian PUPR Rampungkan Restorasi Masjid At-Taqarrub,0.0,0.0,Neutral
+137,PUPR Lengkapi Fasilitas Khusus bagi Disabilitas di Wisma Atlet,0.2285714285714286,0.4857142857142857,Positive
+138,Presiden dan Menteri PUPR Resmikan Rusun DR Hamka di Padang,0.0,0.0,Neutral
+139,PUPR: Jalur Mudik Nasional Kemantapannya 90 Persen,0.0,0.0,Neutral
+140,Menteri PUPR Pastikan Ada Diskon Tarif Tol 10 Persen Saat Mudik,0.0,0.0,Neutral
+141,"Sedang Dinas Luar Kota, Menteri PUPR Tak Penuhi Panggilan KPK",0.0,0.0,Neutral
+142,Menteri PUPR Tegaskan Jalan Tol dari Serang - Surabaya Sudah Siap,0.2,0.5,Positive
+143,Ini Upaya Kementerian PUPR Kurangi Sampah Plastik di Labuan Bajo,-0.2,0.0,Negative
+144,PUPR akan Evaluasi Jembatan-jembatan Tua di Indonesia,0.1,0.2,Positive
+145,"Atasi Banjir Rancaekek, Kementerian PUPR Normalisasi Sungai",0.0,0.0,Neutral
+146,Menteri PUPR Tinjau Proyek Tol Cisumdawu Sumedang,0.0,0.0,Neutral
+147,Kementerian PUPR Gelar Dialog Peringatan Hari Air Dunia,0.0,0.0,Neutral
+148,Kementerian PUPR Resmikan Rusun Khusus Lansia di Cibubur Jaktim,0.16607142857142856,0.3482142857142857,Positive
+149,PUPR Kirim Perlengkapan Air Bersih ke Korban Gempa Banjarnegara,0.3666666666666667,0.7000000000000001,Positive
+150,Kementerian PUPR Lakukan Evakuasi Jembatan Cincin Lama,0.1,0.2,Positive
+151,"Di Hadapan PNS PUPR, Menpan-RB Janji Uang Pensiun dan THR Naik",0.0,0.0,Neutral
+152,"Pantau Pegawai Hingga Proyek Infrastruktur, PUPR Luncurkan e-Gov",0.0,0.0,Neutral
+153,Kementerian PUPR: Perbaikan Jembatan Cincin Lama Butuh 2 Bulan,0.1,0.2,Positive
+154,"Jembatan Babat Ambruk, Kementerian PUPR Kirim Tim Ahli",0.0,0.0,Neutral
+155,"Sambangi Kampus UI, Dirjen Bina Marga Paparkan Kinerja PUPR",0.05000000000000002,0.5,Positive
+156,"Perbaiki 748 Rumah Tak Layak Huni, PUPR Gelontorkan Rp11,2 M",0.0,0.0,Neutral
+157,"Perbaiki Arena Lompat Jauh di SUGBK, PUPR Ambil Solusi Temporer",-0.05,0.4,Negative
+158,Menteri PUPR Ungkap Penyebab Maraknya Kecelakaan Konstruksi,0.0,0.0,Neutral
+159,"Ditegur Kementerian PUPR, Inilah Janji Adhi Karya",0.0,0.0,Neutral
+160,Kementerian PUPR Rekomendasikan Sanksi Kontraktor Tol Becakayu,0.0,0.0,Neutral
+161,PUPR Bantu Infrastruktur dan Perumahan Kabupaten Asmat,0.0,0.0,Neutral
+162,"Marak Kecelakaan Kerja, Kementerian PUPR: Kami Kurang Tenaga Ahli",-0.2222222222222222,0.37777777777777777,Negative
+163,PUPR: Moratorium Proyek Infrastruktur Maksimal 2 Minggu,0.0,0.0,Neutral
+164,"PUPR Hentikan Sementara 32 Proyek tol, 3 LRT dan 1 Kereta Api",0.0,0.0,Neutral
+165,PUPR Duga 7 Korban Proyek Becakayu Tak Punya Keahlian Konstruksi,-0.1,0.1,Negative
+166,"Pertama Kali, Kementerian PUPR Bangun Rusun Lansia di Cibubur",0.1125,0.22916666666666666,Positive
+167,"Rusunawa Lansia, Upaya Kementerian PUPR Kejar Target Sejuta Rumah",-0.025,0.125,Negative
+168,"Nasib Proyek Jalan Tol Becakayu, Waskita Karya Pasrah pada PUPR",0.0,0.0,Neutral
+169,PUPR Siapkan Rp150 Juta Buat Perbaiki Stadion GBK,0.0,0.0,Neutral
+170,"Antisipasi Longsor, Kementerian PUPR Taruh Alat Berat di Puncak",-0.2,0.5,Negative
+171,"Usai Kasus Gedung BEI Ambruk, Menteri PUPR Bentuk K3",0.0,0.0,Neutral
+172,Menteri PUPR dan Menko PMK Resmikan Instalasi Pengolahan Lumpur,0.0,0.0,Neutral
+173,Menteri PUPR Gandeng BMKG untuk Bangun Infrastruktur,0.0,0.0,Neutral
+174,Menteri PUPR Beberkan Sebab Minimnya Infrastruktur di Indonesia,0.0,0.0,Neutral
+175,PUPR Tinjau Dua Perumahan Kota Baru Maja,0.13636363636363635,0.45454545454545453,Positive
+176,PUPR: Masyarakat Masih Butuh Rumah Layak Huni,0.0,0.0,Neutral
+177,PUPR Beri Rekomendasi Gedung DPR Masih Layak dan Aman Dipakai,0.41666666666666663,0.75,Positive
+178,Menteri PUPR: Jalan Tol Trans Sumatera - Jawa Beroperasi 2018,0.0,0.0,Neutral
+179,Kementerian PUPR Usul Pembangunan Rumah Deret Sewa di Stasiun KA,0.0,0.0,Neutral
+180,PUPR Garap Ratusan Ribu Rumah Subsidi Tahun 2018,0.0,0.0,Neutral
+181,PUPR Klaim Penyaluran Kredit Perumahan di 2017 Cukup Tinggi,0.16,0.5399999999999999,Positive
+182,PUPR Bantu Pengadaan Prasarana dan Sarana 74.106 Unit Rumah,0.0,0.0,Neutral
+183,Kementerian PUPR: Kinerja PDAM 2017 Meningkat Dibanding 2016,0.0,0.0,Neutral
+184,Menteri PUPR: Investor Butuh Kepastian dan Kecepatan,0.0,0.0,Neutral
+185,"Lagi, Kementerian PUPR Uji Coba Campuran Aspal-Limbah Plastik",0.0,0.0,Neutral
+186,"Resmikan Pier Head Sosrobahu, Menteri PUPR: Ini Kebanggaan Bangsa",0.0,0.0,Neutral
+187,Menteri PUPR: 231 Bendungan yang Sudah Ada Perlu Pemeliharaan,0.0,0.0,Neutral
+188,"Tinjau Bendungan, Menteri PUPR Minta Pengerjaan Dipercepat",0.0,0.0,Neutral
+189,"Cegah Korupsi, PUPR Ubah Mekanisme Pengadaan Barang dan Jasa",0.0,0.0,Neutral
+190,Kementerian PUPR Perbaiki Infrastruktur Rusak Akibat Banjir,-0.125,0.375,Negative
+191,Menteri PUPR: Dharma Wanita Harus Jauhkan Keluarga dari Korupsi,0.0,0.0,Neutral
+192,Menteri PUPR: Kepemilikan Aset Jalan Tol Tetap Milik Pemerintah,0.1,0.2,Positive
+193,"PUPR: Pada 2018, Bank Dunia Bantu Pembangunan ""Rumah Swadaya""",0.0,0.0,Neutral
+194,Menteri PUPR: Pembangunan Beri Dampak Signifikan pada Dunia Usaha,0.375,0.875,Positive
+195,Menteri PUPR: Pembuatan Jembatan Bentang Panjang Tak Perlu Impor,0.0,0.0,Neutral
+196,Menteri PUPR: Jembatan Holtekamp akan Jadi Ikon Wisata Papua,0.0,0.0,Neutral
+197,Menteri PUPR Lepas Center Span Jembatan Holtekamp ke Papua,-0.1,0.1,Negative
+198,"Bangun Infrastruktur, Serapan Keuangan PUPR Capai Rp75,55 T",0.0,0.0,Neutral
+199,PUPR: 35 Ruas Tol Berhasil Tarik Dana Swasta Rp300 T,0.375,0.6625,Positive
+200,"Bantu Pengungsi Gunung Agung, PUPR Sediakan Prasarana dan Sarana",0.0,0.0,Neutral
+201,"Untuk Atasi Kekeringan di NTT, PUPR Bangun 7 Bendungan",0.0,0.0,Neutral
+202,PUPR Bangun 3 Bendungan di NTB untuk Tingkatkan Produksi Padi,0.0,0.0,Neutral
+203,PUPR: Hunian Masyarakat di Kawasan Pinggiran Dinilai Belum Layak,0.0,0.0,Neutral
+204,"Menteri PUPR: yang Minta Uang dari Kontraktor, Saya Pecat!",0.0,0.0,Neutral
+205,Menteri PUPR: Jalan Tol Solo Ngawi Siap Diresmikan 2018,0.2,0.5,Positive
+206,"Lantik Pejabat Baru, Menteri PUPR: Jangan Mainkan Uang Negara",0.13636363636363635,0.45454545454545453,Positive
+207,Kementerian PUPR Dukung Maja sebagai Kota Baru Mandiri,0.0,0.0,Neutral
+208,Taman Wisata Danau Rawa Taliwang Juga Jadi Perhatian Menteri PUPR,0.0,0.0,Neutral
+209,Menteri PUPR: Pembangunan Bendungan Bintang Bano Sudah 50 Persen,0.0,0.0,Neutral
+210,Menteri PUPR Basuki Tinjau Bendungan Bintang Bano di NTB,0.0,0.0,Neutral
+211,"Sukseskan Program, Kementerian PUPR Lantik Dirjen Perumahan Baru",0.09318181818181819,0.4772727272727273,Positive
+212,"Kembalikan Fungsi Alami, PUPR Revitalisasi Danau Tondano",0.1,0.4,Positive
+213,"Bangun NTT, Kementan Gandeng Kementerian PUPR dan Kemendes",0.0,0.0,Neutral
+214,Menteri PUPR Cek Pembangunan Bendungan Kuwil Kawangkoan,0.0,0.0,Neutral
+215,"Kerjakan Cepat Bendungan Lolak, Menteri PUPR Minta ""Safety First""",0.225,0.4666666666666667,Positive
+216,Menteri PUPR Instruksikan Pembangunan Tol Manado-Bitung Dikebut,0.0,0.0,Neutral
+217,Kementerian PUPR Dukung Banyak Situ dan Danau Bersertifikat,0.5,0.5,Positive
+218,"Menteri PUPR: Kembangkan Prestasi Dayung dan ""Gateball""",0.0,0.0,Neutral
+219,"Pada 2018, Ditjen Bina Marga PUPR Bangun 3.331 Km Jalan Baru",0.05000000000000002,0.5,Positive
+220,PUPR: Kualitas Pengelolaan Pengadaan Barang dan Jasa Ditingkatkan,0.0,0.0,Neutral
+221,"Menteri PUPR Hadiri ""Soft Launching"" Stadion Renang GBK",0.1,0.35,Positive
+222,Menteri PUPR Terima Kunjungan Menteri Pertanahan Korsel,0.0,0.0,Neutral
+223,Kementerian PUPR Kembangkan Infrastruktur Wisata Tanjung Lesung,0.0,0.0,Neutral
+224,Kementerian PUPR: Penyelesaian Tol Saradan-Kertosono Dipercepat,0.0,0.0,Neutral
+225,Kemen PUPR Bangun 2 Bendungan untuk Kendalikan Banjir Jakarta,0.0,0.0,Neutral
+226,Kementerian PUPR: Tol Batang-Semarang Ditargetkan Beroperasi 2018,0.0,0.0,Neutral
+227,"Pada 2018, Kementerian PUPR Bangun 19 Jembatan di NTT",0.0,0.0,Neutral
+228,Kementerian PUPR Akui Pekerja Informal Sulit Akses Rumah Subsidi,-0.5,1.0,Negative
+229,Menteri PUPR Cek Pembangunan Tol Pemalang-Batang,0.0,0.0,Neutral
+230,Kementerian PUPR Bangun Ruang Terbuka Hijau Baru di Kota Makassar,-0.02121212121212122,0.41818181818181815,Negative
+231,Kementerian PUPR Tingkatkan Layanan Sanitasi di Palembang,0.0,0.0,Neutral
+232,"""Padat Karya"" Kementerian PUPR 2018 Akan Serap 263.646 Pekerja",0.0,0.0,Neutral
+233,"Kementerian PUPR Terima ""Barang Mliik Negara (BMN) Awards 2016""",0.0,0.0,Neutral
+234,PUPR: Kunci Keberhasilan Program Satu Juta Rumah Ada di Pemda,0.15,0.5,Positive
+235,Ini Sanksi dari Kementerian PUPR pada PT Waskita Karya,0.0,0.0,Neutral
+236,Kementerian PUPR Bangun Jalan Paralel di Perbatasan Kalbar,0.0,0.0,Neutral
+237,Menteri PUPR: Untuk Menata Kota Kita Perlu Kesabaran,0.0,0.0,Neutral
+238,Kementerian PUPR Menata Kawasan Permukiman Tepian Sungai Kapuas,0.0,0.0,Neutral
+239,Kementerian PUPR Sudah Entaskan 6.763 Hektar Pemukiman Kumuh,0.0,0.0,Neutral
+240,"Dukung Asian Games 2018, PUPR Bangun Jembatan Musi IV di Sumsel",0.0,0.0,Neutral
+241,"Rayakan Bulan Perkotaan, Kementerian PUPR Gelar Pameran Foto",0.0,0.0,Neutral
+242,"Insiden Beton Ambruk Tewaskan Pekerja, PUPR Kirim Tim Evaluasi Proyek Tol Paspro",0.15000000000000002,0.30000000000000004,Positive
+243,PUPR Dukung Pontianak Capai Aman Air Minum 100% pada 2019,0.5,0.5,Positive
+244,Kementerian PUPR Percepat Kerja Sama Proyek dengan Jepang,0.0,0.0,Neutral
+245,Kementerian PUPR Bangun Jembatan Pulau Balang II di Kaltim,0.0,0.0,Neutral
+246,"Tingkatkan Pembangunan, PUPR Bangun Jembatan Teluk Kendari",0.0,0.0,Neutral
+247,Kementerian PUPR Lanjutkan Uji Coba Aspal Plastik di Sulsel,0.0,0.0,Neutral
+248,"""Hibah Air Minum"", Kementerian PUPR Tingkatkan Akses Air Bersih",0.3666666666666667,0.7000000000000001,Positive
+249,PUPR Pacu Pembangunan Jalan Tol Cisumdawu,0.0,0.0,Neutral
+250,Menteri PUPR Cek Kesiapan Tol Becakayu Jelang Diresmikan,0.0,0.0,Neutral
+251,Kementerian PUPR Dorong Peran Pemda Capai Target Aman Air Minum,0.25,0.25,Positive
+252,Menteri PUPR: Foto Bisa Jadi Bentuk Laporan Kinerja Kabinet,0.0,0.0,Neutral
+253,"Menteri PUPR Kunjungi Bendungan Kuningan, Jawa Barat",0.0,0.0,Neutral
+254,DPR Setujui Kenaikan RAPBN bagi Kementerian PUPR,0.0,0.0,Neutral
+255,"Menteri PUPR Resmikan ""Underpass"" Simpang Mandai di Sulsel",0.0,0.0,Neutral
+256,PUPR Lanjutkan Penggunaan Aspal Limbah Plastik di Makasar,-0.2,0.0,Negative
+257,Kementerian PUPR Bangun Infrastruktur Pengendali Banjir di Garut,0.0,0.0,Neutral
+258,Menteri PUPR: Pembangunan Infrastruktur Tingkatkan Daya Saing,0.0,0.0,Neutral
+259,"Tiga Tahun Jokowi, Kementerian PUPR Bangun 2.623 Km Jalan",0.0,0.0,Neutral
+260,Kementerian PUPR Tata Tujuan Wisata Kebanggaan Kabupaten Semarang,0.0,0.0,Neutral
+261,"PUPR dan Pemda DKI Bangun ""Venue"" Olahraga Air di Ancol",0.0,0.0,Neutral
+262,Ini Belanja Infrastruktur Prioritas Kementerian PUPR Tahun 2018,0.0,0.0,Neutral
+263,"Anggaran 2018 Ditambah Rp475 M, PUPR Prioritaskan Infrastruktur",0.0,0.0,Neutral
+264,"Tanah Ambles di Lampung, Kementerian PUPR Kirim Jembatan Bailey",0.0,0.0,Neutral
+265,Ini Alasan Kementerian PUPR Minta Tambahan Anggaran di 2018,0.0,0.0,Neutral
+266,Kementerian PUPR Bangun Tanjung Selor Jadi Kota Baru Mandiri,0.13636363636363635,0.45454545454545453,Positive
+267,"PUPR Dapat Tambahan Anggaran Rp475 miliar di 2018, Untuk Apa?",0.0,0.0,Neutral
+268,"Bangun Infrastruktur, PUPR Dukung Pengembangan Tanjung Selor",0.0,0.0,Neutral
+269,"Menteri PUPR: Tinggal di TOD, Masyarakat Tak Lagi Temui Kemacetan",0.0,0.0,Neutral
+270,"2018, PUPR Siapkan Rp 20 T untuk Pembangunan di Sumatera",0.0,0.0,Neutral
+271,Menteri PUPR Dukung Jambi Hasilkan Atlet Dayung Berprestasi,0.5,0.875,Positive
+272,Kementerian PUPR: Jembatan Merah Putih Ikon Baru Ambon 'Manise',0.04545454545454545,0.15151515151515152,Positive
+273,"Atasi Defisit Air Kota Tarakan, Kementerian PUPR Bangun 2 Embung",0.0,0.0,Neutral
+274,Kementerian PUPR Tandatangani Kontrak Desain Bendungan Jragung,0.0,0.0,Neutral
+275,"Dapat Utang ADB, PUPR Mulai Tahap Desain Bendungan Jragung",0.0,0.0,Neutral
+276,"Dukung Lumbung Pangan Nasional, PUPR Bangun 2 Bendungan di Banten",0.0,0.0,Neutral
+277,Kementerian PUPR Dukung Pengembang Indonesia Sediakan Perumahan,0.0,0.0,Neutral
+278,Kementerian PUPR Kembangkan Hunian Vertikal dengan Konsep TOD,0.0,0.0,Neutral
+279,"2018, Kementerian PUPR Buka 127 Km Jalan Perbatasan di Kaltara",0.0,0.0,Neutral
+280,Menteri PUPR Terima Kunjungan Menteri Pembangunan Hungaria,0.0,0.0,Neutral
+281,Menteri PUPR: TOD Merupakan Solusi Masalah Perumahan dan Macet,0.0,0.0,Neutral
+282,"Kebutuhan Air Kota Tarakan, Kementerian PUPR Bangun 2 Embung",0.0,0.06666666666666667,Neutral
+283,"Kementerian PUPR Akan Keluarkan ""Rating"" Perumahan Subsidi",0.0,0.0,Neutral
+284,Kementerian PUPR Selesaikan Daerah Irigasi Sawah Laweh Tarusan,0.0,0.06666666666666667,Neutral
+285,Kementerian PUPR Selesaikan Anjungan Cerdas di Bali Lebih Cepat,0.21428571428571427,0.6428571428571429,Positive
+286,Kementerian PUPR Akan Keluarkan Rating Perumahan Subsidi,0.0,0.0,Neutral
+287,Sekjen PUPR Ingatkan Pentingnya Daya Saing Anak Muda,0.05000000000000002,0.5,Positive
+288,PUPR: Jalan Tol Sumatera Baru Selesai Sekitar 30 Persen,0.13636363636363635,0.45454545454545453,Positive

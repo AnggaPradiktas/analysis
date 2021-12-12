@@ -1,0 +1,30 @@
+,sentence,sentiment,polarity,Sentiment_Type
+0,PUPR Targetkan 699 Huntara di Sulteng Rampung Akhir Februari 2019,0.0,0.25,Neutral
+1,"Pentingnya IPAL, Menteri Basuki Akui Masih Terjadi Praktik BAB Sembarangan",0.0,0.5,Neutral
+2,"PUPR Kebagian Duit Sukuk Negara Rp12,7 Triliun, Begini Komentar Menteri Basuki",0.0,0.0,Neutral
+3,"Pasca-Ambruk, Pembangunan Jembatan Batang Kalu Dimulai Januari 2019",0.0,0.0,Neutral
+4,8 Bendungan Ini Ditargetkan Selesai Akhir 2018,-0.3,0.6,Negative
+5,PUPR Dorong Kontraktor Indonesia Ekspor Jasa Konstruksi,0.0,0.0,Neutral
+6,"Penerimaan CPNS 2018, Kementerian PUPR 'Panggil' 100 Lulusan Terbaik",1.0,0.3,Positive
+7,"CPNS 2018, Kementerian PUPR Siapkan Formasi Khusus Tenaga Ahli Konstruksi",0.35714285714285715,0.5714285714285714,Positive
+8,"Buka 1.000 Formasi CPNS 2018, Kementerian PUPR Prioritaskan Tenaga Teknis",0.0,0.3,Neutral
+9,134 Jembatan Gantung Bakal Berdiri Kokoh Tahun Ini,0.0,0.0,Neutral
+10,26 Proyek Strategis Nasional Ditargetkan Rampung Akhir 2018,0.0,0.0,Neutral
+11,"Bangun Rumah Tahan Gempa, Menteri PUPR Lepas 400 Insinyur Muda ke Lombok",0.1,0.4,Positive
+12,"Kolam Retensi Dibangun di Palembang, Apa Itu?",0.0,0.0,Neutral
+13,CPNS 2017 Dikirim ke Lombok untuk Bangun Rumah,0.0,0.0,Neutral
+14,"Pelatih Basket Korsel Kritik Wisma Atlet Kemayoran, Begini Reaksi Menteri Basuki",0.0,0.0,Neutral
+15,"Serapan Anggaran Kementerian PUPR Baru 38,1% hingga Agustus 2018",0.13636363636363635,0.45454545454545453,Positive
+16,"Kumpulkan Seluruh Pegawai PUPR, Menteri Basuki Tanya Masalah Infrastruktur",0.0,0.0,Neutral
+17,"Rapat 7 Jam di DPR, Menteri Basuki Diminta Tambah Rest Area hingga Tol Baru",0.13636363636363635,0.45454545454545453,Positive
+18,"Runtuh, Proyek Jembatan Kali Kuto Dievaluasi",0.0,0.0,Neutral
+19,PUPR Andalkan Kampus Jelaskan Pentingnya Infrastruktur ke Masyarakat,0.0,0.0,Neutral
+20,"Kementerian PUPR Kumpulkan 22 Petinggi Kampus, Jelaskan soal Infrastruktur",0.0,0.0,Neutral
+21,Kementerian PUPR: 174 Jembatan dan 18 Flyover Dibangun Tahun Ini,0.0,0.0,Neutral
+22,Wakil Wali Kota Mojokerto Diperiksa KPK Terkait Suap Pengalihan Anggaran PUPR,0.0,0.0,Neutral
+23,"Wih! Pejabat Kemenkeu, PUPR hingga Puluhan Bupati Bahas Proyek Air Minum",0.0,0.0,Neutral
+24,"3.255 Tukang Bangunan hingga Mandor Dapat Sertifikat, Bakal Raih Bayaran Lebih Besar!",0.625,0.5,Positive
+25,Alhamdulillah.. 3.255 Tenaga Kerja Tukang Bangunan Dapat Sertifikat,0.0,0.0,Neutral
+26,"Genjot Pengembangan Suramadu, Potensi Investasi Swasta Capai Rp53 Triliun",0.0,0.6875,Neutral
+27,"Cerita Alih Anggaran PENS dan ""Tradisi"" Suap Berujung OTT KPK di Mojokerto",-0.125,0.75,Negative
+28,Siapa Sosok Berinisial H dan T yang Ditangkap KPK Bersama Pimpinan DPRD Mojokerto?,0.0,0.0,Neutral
